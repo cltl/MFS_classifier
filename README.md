@@ -10,10 +10,10 @@ This repo contains the scripts to attempt to remove the mfs bias from a WSD syst
 ##USAGE##
 
 The full experiment should be replicated by running:
-    * bash feature_preparation.sh (takes hours)
-    * bash feature_extraction.sh
-    * bash random_forest.sh (takes hours)
-    * bash score.sh (it is also possible to just run this part)
+* bash feature_preparation.sh (takes hours)
+* bash feature_extraction.sh
+* bash random_forest.sh (takes hours)
+* bash score.sh (it is also possible to just run this part)
 
 the results can be found in the folder output.
 
