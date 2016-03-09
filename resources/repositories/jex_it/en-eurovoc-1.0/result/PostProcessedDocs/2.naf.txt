@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="/home/postma/In_progress/mfs_classifier/resources/repositories/jex_it/en-eurovoc-1.0/documents/2.naf.txt">
+    <category code="69" label="economic concentration" weight="0.04162962656602999 ">
+        <RelatedTerm label="industrial concentration"/>
+        <RelatedTerm label="merger control"/>
+        <RelatedTerm label="restrictive trade practice"/>
+        <RelatedTerm label="trust"/>
+        <RelatedTerm label="multinational enterprise"/>
+        <RelatedTerm label="monopoly of information"/>
+        <RelatedTerm label="competition policy"/>
+        <RelatedTerm label="joint venture"/>
+    </category>
+    <category code="2897" label="approximation of laws" weight="0.039401329779326366 ">
+        <BroaderTerm label="Community law"/>
+        <RelatedTerm label="ECSC recommendation"/>
+        <RelatedTerm label="legal cooperation"/>
+        <RelatedTerm label="social-security harmonisation"/>
+        <RelatedTerm label="harmonisation law"/>
+    </category>
+    <category code="616" label="information transfer" weight="0.03917778195159691 ">
+        <BroaderTerm label="information"/>
+        <RelatedTerm label="exchange of publications"/>
+        <RelatedTerm label="disclosure of information"/>
+        <RelatedTerm label="Internet"/>
+    </category>
+    <category code="183" label="merger control" weight="0.03777504055319123 ">
+        <BroaderTerm label="competition law"/>
+        <RelatedTerm label="consortium"/>
+    </category>
+    <category code="1318" label="Germany" weight="0.036894146499157156 ">
+        <BroaderTerm label="EU Member State"/>
+        <BroaderTerm label="Council of Europe countries"/>
+        <BroaderTerm label="Western Europe"/>
+        <BroaderTerm label="OECD countries"/>
+        <BroaderTerm label="NATO countries"/>
+        <BroaderTerm label="WEU countries"/>
+        <RelatedTerm label="regions of Germany"/>
+        <RelatedTerm label="unification of Germany"/>
+        <RelatedTerm label="status of Berlin"/>
+    </category>
+    <category code="539" label="competition law" weight="0.036318671351305856 ">
+        <RelatedTerm label="company law"/>
+        <RelatedTerm label="joint venture"/>
+        <RelatedTerm label="multinational enterprise"/>
+        <RelatedTerm label="agriculture-trade relationship"/>
+        <RelatedTerm label="consortium"/>
+        <RelatedTerm label="international economic law"/>
+    </category>
+</document>

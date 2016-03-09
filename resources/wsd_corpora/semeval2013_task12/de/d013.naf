@@ -1,0 +1,3207 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="de" version="1.0">
+  <nafHeader>
+    <linguisticProcessors layer="text">
+      <lp name="SemEval2013_task#12_tokens" version="1.0" timestamp="2015-01-13T13:56:02CET" beginTimestamp="2015-01-13T13:56:02CET" endTimestamp="2015-01-13T13:56:02CET" hostname="kyoto"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="terms">
+      <lp name="SemEval2013_task#12_terms" version="1.0" timestamp="2015-01-13T13:56:02CET" beginTimestamp="2015-01-13T13:56:02CET" endTimestamp="2015-01-13T13:56:02CET" hostname="kyoto"/>
+    </linguisticProcessors>
+  </nafHeader>
+  <text>
+    <wf id="w1" offset="0" sent="1">Deutsche_Bank</wf>
+    <wf id="w2" offset="14" sent="1">zahlt</wf>
+    <wf id="w3" offset="20" sent="1">Millionenstrafe</wf>
+    <wf id="w4" offset="36" sent="1">in</wf>
+    <wf id="w5" offset="39" sent="1">den</wf>
+    <wf id="w6" offset="43" sent="1">USA</wf>
+    <wf id="w7" offset="47" sent="2">Nach</wf>
+    <wf id="w8" offset="52" sent="2">dem</wf>
+    <wf id="w9" offset="56" sent="2">Tumult</wf>
+    <wf id="w10" offset="63" sent="2">um</wf>
+    <wf id="w11" offset="66" sent="2">Chef</wf>
+    <wf id="w12" offset="71" sent="2">Josef_Ackermann</wf>
+    <wf id="w13" offset="87" sent="2">kommt</wf>
+    <wf id="w14" offset="93" sent="2">neues</wf>
+    <wf id="w15" offset="99" sent="2">Ungemach</wf>
+    <wf id="w16" offset="108" sent="2">aus</wf>
+    <wf id="w17" offset="112" sent="2">den</wf>
+    <wf id="w18" offset="116" sent="2">USA</wf>
+    <wf id="w19" offset="120" sent="2">:</wf>
+    <wf id="w20" offset="122" sent="2">Die</wf>
+    <wf id="w21" offset="126" sent="2">Deutsche_Bank</wf>
+    <wf id="w22" offset="140" sent="2">muss</wf>
+    <wf id="w23" offset="145" sent="2">dort</wf>
+    <wf id="w24" offset="150" sent="2">eine</wf>
+    <wf id="w25" offset="155" sent="2">Millionenbuße</wf>
+    <wf id="w26" offset="169" sent="2">zahlen</wf>
+    <wf id="w27" offset="176" sent="2">.</wf>
+    <wf id="w28" offset="178" sent="3">Als</wf>
+    <wf id="w29" offset="182" sent="3">ob</wf>
+    <wf id="w30" offset="185" sent="3">die</wf>
+    <wf id="w31" offset="189" sent="3">Probleme</wf>
+    <wf id="w32" offset="198" sent="3">daheim</wf>
+    <wf id="w33" offset="205" sent="3">für</wf>
+    <wf id="w34" offset="209" sent="3">die</wf>
+    <wf id="w35" offset="213" sent="3">Deutsche_Bank</wf>
+    <wf id="w36" offset="227" sent="3">nicht</wf>
+    <wf id="w37" offset="233" sent="3">schon</wf>
+    <wf id="w38" offset="239" sent="3">genug</wf>
+    <wf id="w39" offset="245" sent="3">wären</wf>
+    <wf id="w40" offset="251" sent="3">,</wf>
+    <wf id="w41" offset="253" sent="3">holt</wf>
+    <wf id="w42" offset="258" sent="3">den</wf>
+    <wf id="w43" offset="262" sent="3">Branchenriesen</wf>
+    <wf id="w44" offset="277" sent="3">nun</wf>
+    <wf id="w45" offset="281" sent="3">auch</wf>
+    <wf id="w46" offset="286" sent="3">noch</wf>
+    <wf id="w47" offset="291" sent="3">seine</wf>
+    <wf id="w48" offset="297" sent="3">Vergangenheit</wf>
+    <wf id="w49" offset="311" sent="3">in</wf>
+    <wf id="w50" offset="314" sent="3">den</wf>
+    <wf id="w51" offset="318" sent="3">USA</wf>
+    <wf id="w52" offset="322" sent="3">ein</wf>
+    <wf id="w53" offset="326" sent="3">:</wf>
+    <wf id="w54" offset="328" sent="3">Das</wf>
+    <wf id="w55" offset="332" sent="3">Frankfurter</wf>
+    <wf id="w56" offset="344" sent="3">Institut</wf>
+    <wf id="w57" offset="353" sent="3">zahlt</wf>
+    <wf id="w58" offset="359" sent="3">in</wf>
+    <wf id="w59" offset="362" sent="3">einem</wf>
+    <wf id="w60" offset="368" sent="3">Vergleich</wf>
+    <wf id="w61" offset="378" sent="3">145</wf>
+    <wf id="w62" offset="382" sent="3">Millionen</wf>
+    <wf id="w63" offset="392" sent="3">Dollar</wf>
+    <wf id="w64" offset="399" sent="3">(</wf>
+    <wf id="w65" offset="401" sent="3">106</wf>
+    <wf id="w66" offset="405" sent="3">Millionen</wf>
+    <wf id="w67" offset="415" sent="3">Euro</wf>
+    <wf id="w68" offset="420" sent="3">)</wf>
+    <wf id="w69" offset="422" sent="3">,</wf>
+    <wf id="w70" offset="424" sent="3">um</wf>
+    <wf id="w71" offset="427" sent="3">Streitigkeiten</wf>
+    <wf id="w72" offset="442" sent="3">wegen</wf>
+    <wf id="w73" offset="448" sent="3">der</wf>
+    <wf id="w74" offset="452" sent="3">Pleite</wf>
+    <wf id="w75" offset="459" sent="3">von</wf>
+    <wf id="w76" offset="463" sent="3">fünf</wf>
+    <wf id="w77" offset="468" sent="3">großen</wf>
+    <wf id="w78" offset="475" sent="3">Genossenschaftsbanken</wf>
+    <wf id="w79" offset="497" sent="3">während</wf>
+    <wf id="w80" offset="505" sent="3">der</wf>
+    <wf id="w81" offset="509" sent="3">Finanzkrise</wf>
+    <wf id="w82" offset="521" sent="3">beizulegen</wf>
+    <wf id="w83" offset="532" sent="3">.</wf>
+    <wf id="w84" offset="534" sent="4">Es</wf>
+    <wf id="w85" offset="537" sent="4">geht</wf>
+    <wf id="w86" offset="542" sent="4">um</wf>
+    <wf id="w87" offset="545" sent="4">den</wf>
+    <wf id="w88" offset="549" sent="4">Verkauf</wf>
+    <wf id="w89" offset="557" sent="4">von</wf>
+    <wf id="w90" offset="561" sent="4">Hypothekenpapieren</wf>
+    <wf id="w91" offset="580" sent="4">.</wf>
+    <wf id="w92" offset="582" sent="5">Der</wf>
+    <wf id="w93" offset="586" sent="5">Finanzmarktregulierer</wf>
+    <wf id="w94" offset="608" sent="5">NCUA</wf>
+    <wf id="w95" offset="613" sent="5">wirft</wf>
+    <wf id="w96" offset="619" sent="5">einer</wf>
+    <wf id="w97" offset="625" sent="5">ganzen</wf>
+    <wf id="w98" offset="632" sent="5">Reihe</wf>
+    <wf id="w99" offset="638" sent="5">an</wf>
+    <wf id="w100" offset="641" sent="5">Großbanken</wf>
+    <wf id="w101" offset="652" sent="5">vor</wf>
+    <wf id="w102" offset="656" sent="5">,</wf>
+    <wf id="w103" offset="658" sent="5">die</wf>
+    <wf id="w104" offset="662" sent="5">Genossenschaftsbanken</wf>
+    <wf id="w105" offset="684" sent="5">mit</wf>
+    <wf id="w106" offset="688" sent="5">falschen</wf>
+    <wf id="w107" offset="697" sent="5">Versprechungen</wf>
+    <wf id="w108" offset="712" sent="5">zum</wf>
+    <wf id="w109" offset="716" sent="5">Kauf</wf>
+    <wf id="w110" offset="721" sent="5">der</wf>
+    <wf id="w111" offset="725" sent="5">Finanzprodukte</wf>
+    <wf id="w112" offset="740" sent="5">verleitet</wf>
+    <wf id="w113" offset="750" sent="5">zu</wf>
+    <wf id="w114" offset="753" sent="5">haben</wf>
+    <wf id="w115" offset="759" sent="5">;</wf>
+    <wf id="w116" offset="761" sent="5">sie</wf>
+    <wf id="w117" offset="765" sent="5">hätten</wf>
+    <wf id="w118" offset="772" sent="5">die</wf>
+    <wf id="w119" offset="776" sent="5">Risiken</wf>
+    <wf id="w120" offset="784" sent="5">heruntergespielt</wf>
+    <wf id="w121" offset="801" sent="5">.</wf>
+    <wf id="w122" offset="803" sent="6">Derartige</wf>
+    <wf id="w123" offset="813" sent="6">Papiere</wf>
+    <wf id="w124" offset="821" sent="6">verloren</wf>
+    <wf id="w125" offset="830" sent="6">während</wf>
+    <wf id="w126" offset="838" sent="6">der</wf>
+    <wf id="w127" offset="842" sent="6">Finanzkrise</wf>
+    <wf id="w128" offset="854" sent="6">kräftig</wf>
+    <wf id="w129" offset="862" sent="6">an</wf>
+    <wf id="w130" offset="865" sent="6">Wert</wf>
+    <wf id="w131" offset="870" sent="6">und</wf>
+    <wf id="w132" offset="874" sent="6">rissen</wf>
+    <wf id="w133" offset="881" sent="6">die</wf>
+    <wf id="w134" offset="885" sent="6">Banken</wf>
+    <wf id="w135" offset="892" sent="6">mit</wf>
+    <wf id="w136" offset="896" sent="6">in</wf>
+    <wf id="w137" offset="899" sent="6">die</wf>
+    <wf id="w138" offset="903" sent="6">Tiefe</wf>
+    <wf id="w139" offset="909" sent="6">.</wf>
+    <wf id="w140" offset="911" sent="7">"</wf>
+    <wf id="w141" offset="913" sent="7">Wir</wf>
+    <wf id="w142" offset="917" sent="7">sind</wf>
+    <wf id="w143" offset="922" sent="7">zufrieden</wf>
+    <wf id="w144" offset="932" sent="7">,</wf>
+    <wf id="w145" offset="934" sent="7">dass</wf>
+    <wf id="w146" offset="939" sent="7">wir</wf>
+    <wf id="w147" offset="943" sent="7">das</wf>
+    <wf id="w148" offset="947" sent="7">Thema</wf>
+    <wf id="w149" offset="953" sent="7">lösen</wf>
+    <wf id="w150" offset="959" sent="7">konnten</wf>
+    <wf id="w151" offset="967" sent="7">,</wf>
+    <wf id="w152" offset="969" sent="7">ohne</wf>
+    <wf id="w153" offset="974" sent="7">dass</wf>
+    <wf id="w154" offset="979" sent="7">die</wf>
+    <wf id="w155" offset="983" sent="7">Parteien</wf>
+    <wf id="w156" offset="992" sent="7">vor</wf>
+    <wf id="w157" offset="996" sent="7">Gericht</wf>
+    <wf id="w158" offset="1004" sent="7">ziehen</wf>
+    <wf id="w159" offset="1011" sent="7">mussten</wf>
+    <wf id="w160" offset="1019" sent="7">"</wf>
+    <wf id="w161" offset="1021" sent="7">,</wf>
+    <wf id="w162" offset="1023" sent="7">sagte</wf>
+    <wf id="w163" offset="1029" sent="7">ein</wf>
+    <wf id="w164" offset="1033" sent="7">Deutsche-Bank-Sprecher</wf>
+    <wf id="w165" offset="1056" sent="7">in</wf>
+    <wf id="w166" offset="1059" sent="7">New_York</wf>
+    <wf id="w167" offset="1068" sent="7">.</wf>
+    <wf id="w168" offset="1070" sent="8">Die</wf>
+    <wf id="w169" offset="1074" sent="8">Bank</wf>
+    <wf id="w170" offset="1079" sent="8">räumte</wf>
+    <wf id="w171" offset="1086" sent="8">mit</wf>
+    <wf id="w172" offset="1090" sent="8">dem</wf>
+    <wf id="w173" offset="1094" sent="8">Vergleich</wf>
+    <wf id="w174" offset="1104" sent="8">keine</wf>
+    <wf id="w175" offset="1110" sent="8">Schuld</wf>
+    <wf id="w176" offset="1117" sent="8">ein</wf>
+    <wf id="w177" offset="1121" sent="8">.</wf>
+    <wf id="w178" offset="1123" sent="9">Das</wf>
+    <wf id="w179" offset="1127" sent="9">gilt</wf>
+    <wf id="w180" offset="1132" sent="9">auch</wf>
+    <wf id="w181" offset="1137" sent="9">für</wf>
+    <wf id="w182" offset="1141" sent="9">die</wf>
+    <wf id="w183" offset="1145" sent="9">Citigroup</wf>
+    <wf id="w184" offset="1155" sent="9">,</wf>
+    <wf id="w185" offset="1157" sent="9">die</wf>
+    <wf id="w186" offset="1161" sent="9">sich</wf>
+    <wf id="w187" offset="1166" sent="9">zur</wf>
+    <wf id="w188" offset="1170" sent="9">Zahlung</wf>
+    <wf id="w189" offset="1178" sent="9">von</wf>
+    <wf id="w190" offset="1182" sent="9">20,5</wf>
+    <wf id="w191" offset="1187" sent="9">Millionen</wf>
+    <wf id="w192" offset="1197" sent="9">Dollar</wf>
+    <wf id="w193" offset="1204" sent="9">verpflichtete</wf>
+    <wf id="w194" offset="1218" sent="9">.</wf>
+    <wf id="w195" offset="1220" sent="10">Die</wf>
+    <wf id="w196" offset="1224" sent="10">NCUA-Vorsitzende</wf>
+    <wf id="w197" offset="1241" sent="10">Debbie</wf>
+    <wf id="w198" offset="1248" sent="10">Matz</wf>
+    <wf id="w199" offset="1253" sent="10">begrüßte</wf>
+    <wf id="w200" offset="1262" sent="10">das</wf>
+    <wf id="w201" offset="1266" sent="10">Entgegenkommen</wf>
+    <wf id="w202" offset="1281" sent="10">der</wf>
+    <wf id="w203" offset="1285" sent="10">beiden</wf>
+    <wf id="w204" offset="1292" sent="10">Geldhäuser</wf>
+    <wf id="w205" offset="1303" sent="10">.</wf>
+    <wf id="w206" offset="1305" sent="11">Die</wf>
+    <wf id="w207" offset="1309" sent="11">National</wf>
+    <wf id="w208" offset="1318" sent="11">Credit</wf>
+    <wf id="w209" offset="1325" sent="11">Union</wf>
+    <wf id="w210" offset="1331" sent="11">Administration</wf>
+    <wf id="w211" offset="1346" sent="11">(</wf>
+    <wf id="w212" offset="1348" sent="11">NCUA</wf>
+    <wf id="w213" offset="1353" sent="11">)</wf>
+    <wf id="w214" offset="1355" sent="11">ist</wf>
+    <wf id="w215" offset="1359" sent="11">für</wf>
+    <wf id="w216" offset="1363" sent="11">die</wf>
+    <wf id="w217" offset="1367" sent="11">US-Genossenschaftsbanken</wf>
+    <wf id="w218" offset="1392" sent="11">zuständig</wf>
+    <wf id="w219" offset="1402" sent="11">und</wf>
+    <wf id="w220" offset="1406" sent="11">springt</wf>
+    <wf id="w221" offset="1414" sent="11">bei</wf>
+    <wf id="w222" offset="1418" sent="11">Pleiten</wf>
+    <wf id="w223" offset="1426" sent="11">ein</wf>
+    <wf id="w224" offset="1430" sent="11">,</wf>
+    <wf id="w225" offset="1432" sent="11">um</wf>
+    <wf id="w226" offset="1435" sent="11">die</wf>
+    <wf id="w227" offset="1439" sent="11">Kundeneinlagen</wf>
+    <wf id="w228" offset="1454" sent="11">zu</wf>
+    <wf id="w229" offset="1457" sent="11">schützen</wf>
+    <wf id="w230" offset="1466" sent="11">.</wf>
+    <wf id="w231" offset="1468" sent="12">Die</wf>
+    <wf id="w232" offset="1472" sent="12">NCUA</wf>
+    <wf id="w233" offset="1477" sent="12">versucht</wf>
+    <wf id="w234" offset="1486" sent="12">,</wf>
+    <wf id="w235" offset="1488" sent="12">die</wf>
+    <wf id="w236" offset="1492" sent="12">entstandenen</wf>
+    <wf id="w237" offset="1505" sent="12">milliardenschweren</wf>
+    <wf id="w238" offset="1524" sent="12">Schäden</wf>
+    <wf id="w239" offset="1532" sent="12">ersetzt</wf>
+    <wf id="w240" offset="1540" sent="12">zu</wf>
+    <wf id="w241" offset="1543" sent="12">bekommen</wf>
+    <wf id="w242" offset="1552" sent="12">.</wf>
+    <wf id="w243" offset="1554" sent="13">Die</wf>
+    <wf id="w244" offset="1558" sent="13">jetzt</wf>
+    <wf id="w245" offset="1564" sent="13">geschlossenen</wf>
+    <wf id="w246" offset="1578" sent="13">Vergleiche</wf>
+    <wf id="w247" offset="1589" sent="13">sind</wf>
+    <wf id="w248" offset="1594" sent="13">die</wf>
+    <wf id="w249" offset="1598" sent="13">ersten</wf>
+    <wf id="w250" offset="1605" sent="13">ihrer</wf>
+    <wf id="w251" offset="1611" sent="13">Art.</wf>
+    <wf id="w252" offset="1616" sent="14">Der</wf>
+    <wf id="w253" offset="1620" sent="14">Regulierer</wf>
+    <wf id="w254" offset="1631" sent="14">hatte</wf>
+    <wf id="w255" offset="1637" sent="14">sich</wf>
+    <wf id="w256" offset="1642" sent="14">auch</wf>
+    <wf id="w257" offset="1647" sent="14">andere</wf>
+    <wf id="w258" offset="1654" sent="14">Großbanken</wf>
+    <wf id="w259" offset="1665" sent="14">vorgeknöpft</wf>
+    <wf id="w260" offset="1677" sent="14">und</wf>
+    <wf id="w261" offset="1681" sent="14">im</wf>
+    <wf id="w262" offset="1684" sent="14">Sommer</wf>
+    <wf id="w263" offset="1691" sent="14">JPMorgan_Chase</wf>
+    <wf id="w264" offset="1706" sent="14">,</wf>
+    <wf id="w265" offset="1708" sent="14">die</wf>
+    <wf id="w266" offset="1712" sent="14">Royal_Bank_of_Scotland</wf>
+    <wf id="w267" offset="1735" sent="14">und</wf>
+    <wf id="w268" offset="1739" sent="14">Goldman_Sachs</wf>
+    <wf id="w269" offset="1753" sent="14">verklagt</wf>
+    <wf id="w270" offset="1762" sent="14">.</wf>
+    <wf id="w271" offset="1764" sent="15">Bei</wf>
+    <wf id="w272" offset="1768" sent="15">den</wf>
+    <wf id="w273" offset="1772" sent="15">fraglichen</wf>
+    <wf id="w274" offset="1783" sent="15">Hypothekenpapieren</wf>
+    <wf id="w275" offset="1802" sent="15">handelt</wf>
+    <wf id="w276" offset="1810" sent="15">es</wf>
+    <wf id="w277" offset="1813" sent="15">sich</wf>
+    <wf id="w278" offset="1818" sent="15">um</wf>
+    <wf id="w279" offset="1821" sent="15">sogenannte</wf>
+    <wf id="w280" offset="1832" sent="15">Mortgage_Backed_Securities</wf>
+    <wf id="w281" offset="1859" sent="15">.</wf>
+    <wf id="w282" offset="1861" sent="16">Diesen</wf>
+    <wf id="w283" offset="1868" sent="16">liegen</wf>
+    <wf id="w284" offset="1875" sent="16">Hauskredite</wf>
+    <wf id="w285" offset="1887" sent="16">zugrunde</wf>
+    <wf id="w286" offset="1896" sent="16">.</wf>
+    <wf id="w287" offset="1898" sent="17">Als</wf>
+    <wf id="w288" offset="1902" sent="17">die</wf>
+    <wf id="w289" offset="1906" sent="17">US-Immobilienblase</wf>
+    <wf id="w290" offset="1925" sent="17">2007</wf>
+    <wf id="w291" offset="1930" sent="17">platzte</wf>
+    <wf id="w292" offset="1938" sent="17">,</wf>
+    <wf id="w293" offset="1940" sent="17">wurde</wf>
+    <wf id="w294" offset="1946" sent="17">dies</wf>
+    <wf id="w295" offset="1951" sent="17">einer</wf>
+    <wf id="w296" offset="1957" sent="17">Vielzahl</wf>
+    <wf id="w297" offset="1966" sent="17">von</wf>
+    <wf id="w298" offset="1970" sent="17">Finanzfirmen</wf>
+    <wf id="w299" offset="1983" sent="17">zum</wf>
+    <wf id="w300" offset="1987" sent="17">Verhängnis</wf>
+    <wf id="w301" offset="1998" sent="17">.</wf>
+    <wf id="w302" offset="2000" sent="18">Im</wf>
+    <wf id="w303" offset="2003" sent="18">September</wf>
+    <wf id="w304" offset="2013" sent="18">2008</wf>
+    <wf id="w305" offset="2018" sent="18">,</wf>
+    <wf id="w306" offset="2020" sent="18">auf</wf>
+    <wf id="w307" offset="2024" sent="18">dem</wf>
+    <wf id="w308" offset="2028" sent="18">Höhepunkt</wf>
+    <wf id="w309" offset="2038" sent="18">der</wf>
+    <wf id="w310" offset="2042" sent="18">Finanzkrise</wf>
+    <wf id="w311" offset="2054" sent="18">,</wf>
+    <wf id="w312" offset="2056" sent="18">kippte</wf>
+    <wf id="w313" offset="2063" sent="18">die</wf>
+    <wf id="w314" offset="2067" sent="18">US-Investmentbank</wf>
+    <wf id="w315" offset="2085" sent="18">Lehman_Brothers</wf>
+    <wf id="w316" offset="2101" sent="18">um</wf>
+    <wf id="w317" offset="2104" sent="18">.</wf>
+    <wf id="w318" offset="2106" sent="19">Auch</wf>
+    <wf id="w319" offset="2111" sent="19">wenn</wf>
+    <wf id="w320" offset="2116" sent="19">die</wf>
+    <wf id="w321" offset="2120" sent="19">Ereignisse</wf>
+    <wf id="w322" offset="2131" sent="19">schon</wf>
+    <wf id="w323" offset="2137" sent="19">einige</wf>
+    <wf id="w324" offset="2144" sent="19">Jahre</wf>
+    <wf id="w325" offset="2150" sent="19">zurückliegen</wf>
+    <wf id="w326" offset="2163" sent="19">,</wf>
+    <wf id="w327" offset="2165" sent="19">so</wf>
+    <wf id="w328" offset="2168" sent="19">weht</wf>
+    <wf id="w329" offset="2173" sent="19">den</wf>
+    <wf id="w330" offset="2177" sent="19">Banken</wf>
+    <wf id="w331" offset="2184" sent="19">derzeit</wf>
+    <wf id="w332" offset="2192" sent="19">in</wf>
+    <wf id="w333" offset="2195" sent="19">den</wf>
+    <wf id="w334" offset="2199" sent="19">USA</wf>
+    <wf id="w335" offset="2203" sent="19">ein</wf>
+    <wf id="w336" offset="2207" sent="19">scharfer</wf>
+    <wf id="w337" offset="2216" sent="19">Wind</wf>
+    <wf id="w338" offset="2221" sent="19">entgegen</wf>
+    <wf id="w339" offset="2230" sent="19">.</wf>
+    <wf id="w340" offset="2232" sent="20">Investoren</wf>
+    <wf id="w341" offset="2243" sent="20">und</wf>
+    <wf id="w342" offset="2247" sent="20">Aufsichtsbehörden</wf>
+    <wf id="w343" offset="2265" sent="20">haben</wf>
+    <wf id="w344" offset="2271" sent="20">unzählige</wf>
+    <wf id="w345" offset="2281" sent="20">Klagen</wf>
+    <wf id="w346" offset="2288" sent="20">angestrengt</wf>
+    <wf id="w347" offset="2300" sent="20">,</wf>
+    <wf id="w348" offset="2302" sent="20">um</wf>
+    <wf id="w349" offset="2305" sent="20">Wiedergutmachung</wf>
+    <wf id="w350" offset="2322" sent="20">zu</wf>
+    <wf id="w351" offset="2325" sent="20">erhalten</wf>
+    <wf id="w352" offset="2334" sent="20">oder</wf>
+    <wf id="w353" offset="2339" sent="20">Verfehlungen</wf>
+    <wf id="w354" offset="2352" sent="20">zu</wf>
+    <wf id="w355" offset="2355" sent="20">ahnden</wf>
+    <wf id="w356" offset="2362" sent="20">.</wf>
+    <wf id="w357" offset="2364" sent="21">Die</wf>
+    <wf id="w358" offset="2368" sent="21">Federal</wf>
+    <wf id="w359" offset="2376" sent="21">Housing</wf>
+    <wf id="w360" offset="2384" sent="21">Finance</wf>
+    <wf id="w361" offset="2392" sent="21">Agency</wf>
+    <wf id="w362" offset="2399" sent="21">(</wf>
+    <wf id="w363" offset="2401" sent="21">FHFA</wf>
+    <wf id="w364" offset="2406" sent="21">)</wf>
+    <wf id="w365" offset="2408" sent="21">hat</wf>
+    <wf id="w366" offset="2412" sent="21">die</wf>
+    <wf id="w367" offset="2416" sent="21">größte</wf>
+    <wf id="w368" offset="2423" sent="21">Klagewelle</wf>
+    <wf id="w369" offset="2434" sent="21">ausgelöst</wf>
+    <wf id="w370" offset="2444" sent="21">.</wf>
+    <wf id="w371" offset="2446" sent="22">Sie</wf>
+    <wf id="w372" offset="2450" sent="22">wirft</wf>
+    <wf id="w373" offset="2456" sent="22">18</wf>
+    <wf id="w374" offset="2459" sent="22">internationalen</wf>
+    <wf id="w375" offset="2475" sent="22">Großbanken</wf>
+    <wf id="w376" offset="2486" sent="22">vor</wf>
+    <wf id="w377" offset="2490" sent="22">,</wf>
+    <wf id="w378" offset="2492" sent="22">die</wf>
+    <wf id="w379" offset="2496" sent="22">zwei</wf>
+    <wf id="w380" offset="2501" sent="22">staatlichen</wf>
+    <wf id="w381" offset="2513" sent="22">US-Immobilienfinanzierer</wf>
+    <wf id="w382" offset="2538" sent="22">Fannie_Mae</wf>
+    <wf id="w383" offset="2549" sent="22">und</wf>
+    <wf id="w384" offset="2553" sent="22">Freddie_Mac</wf>
+    <wf id="w385" offset="2565" sent="22">bei</wf>
+    <wf id="w386" offset="2569" sent="22">Hypothekengeschäften</wf>
+    <wf id="w387" offset="2590" sent="22">im</wf>
+    <wf id="w388" offset="2593" sent="22">Volumen</wf>
+    <wf id="w389" offset="2601" sent="22">von</wf>
+    <wf id="w390" offset="2605" sent="22">rund</wf>
+    <wf id="w391" offset="2610" sent="22">200</wf>
+    <wf id="w392" offset="2614" sent="22">Milliarden</wf>
+    <wf id="w393" offset="2625" sent="22">Dollar</wf>
+    <wf id="w394" offset="2632" sent="22">übervorteilt</wf>
+    <wf id="w395" offset="2645" sent="22">zu</wf>
+    <wf id="w396" offset="2648" sent="22">haben</wf>
+    <wf id="w397" offset="2654" sent="22">.</wf>
+    <wf id="w398" offset="2656" sent="23">Auch</wf>
+    <wf id="w399" offset="2661" sent="23">die</wf>
+    <wf id="w400" offset="2665" sent="23">Deutsche_Bank</wf>
+    <wf id="w401" offset="2679" sent="23">muss</wf>
+    <wf id="w402" offset="2684" sent="23">sich</wf>
+    <wf id="w403" offset="2689" sent="23">einer</wf>
+    <wf id="w404" offset="2695" sent="23">Klage</wf>
+    <wf id="w405" offset="2701" sent="23">der</wf>
+    <wf id="w406" offset="2705" sent="23">FHFA</wf>
+    <wf id="w407" offset="2710" sent="23">stellen</wf>
+    <wf id="w408" offset="2718" sent="23">,</wf>
+    <wf id="w409" offset="2720" sent="23">hier</wf>
+    <wf id="w410" offset="2725" sent="23">geht</wf>
+    <wf id="w411" offset="2730" sent="23">es</wf>
+    <wf id="w412" offset="2733" sent="23">um</wf>
+    <wf id="w413" offset="2736" sent="23">mehrere</wf>
+    <wf id="w414" offset="2744" sent="23">Geschäfte</wf>
+    <wf id="w415" offset="2754" sent="23">im</wf>
+    <wf id="w416" offset="2757" sent="23">Wert</wf>
+    <wf id="w417" offset="2762" sent="23">von</wf>
+    <wf id="w418" offset="2766" sent="23">insgesamt</wf>
+    <wf id="w419" offset="2776" sent="23">14,2</wf>
+    <wf id="w420" offset="2781" sent="23">Milliarden</wf>
+    <wf id="w421" offset="2792" sent="23">Dollar</wf>
+    <wf id="w422" offset="2799" sent="23">aus</wf>
+    <wf id="w423" offset="2803" sent="23">den</wf>
+    <wf id="w424" offset="2807" sent="23">Jahren</wf>
+    <wf id="w425" offset="2814" sent="23">2005</wf>
+    <wf id="w426" offset="2819" sent="23">bis</wf>
+    <wf id="w427" offset="2823" sent="23">2007</wf>
+    <wf id="w428" offset="2828" sent="23">.</wf>
+    <wf id="w429" offset="2830" sent="24">Die</wf>
+    <wf id="w430" offset="2834" sent="24">Aufsichtsbehörde</wf>
+    <wf id="w431" offset="2851" sent="24">verlangt</wf>
+    <wf id="w432" offset="2860" sent="24">,</wf>
+    <wf id="w433" offset="2862" sent="24">dass</wf>
+    <wf id="w434" offset="2867" sent="24">die</wf>
+    <wf id="w435" offset="2871" sent="24">Frankfurter</wf>
+    <wf id="w436" offset="2883" sent="24">für</wf>
+    <wf id="w437" offset="2887" sent="24">"</wf>
+    <wf id="w438" offset="2889" sent="24">substanzielle</wf>
+    <wf id="w439" offset="2903" sent="24">Verluste</wf>
+    <wf id="w440" offset="2912" sent="24">"</wf>
+    <wf id="w441" offset="2914" sent="24">geradestehen</wf>
+    <wf id="w442" offset="2927" sent="24">,</wf>
+    <wf id="w443" offset="2929" sent="24">ohne</wf>
+    <wf id="w444" offset="2934" sent="24">allerdings</wf>
+    <wf id="w445" offset="2945" sent="24">eine</wf>
+    <wf id="w446" offset="2950" sent="24">genaue</wf>
+    <wf id="w447" offset="2957" sent="24">Summe</wf>
+    <wf id="w448" offset="2963" sent="24">zu</wf>
+    <wf id="w449" offset="2966" sent="24">nennen</wf>
+    <wf id="w450" offset="2973" sent="24">.</wf>
+    <wf id="w451" offset="2975" sent="25">Die</wf>
+    <wf id="w452" offset="2979" sent="25">Deutsche_Bank</wf>
+    <wf id="w453" offset="2993" sent="25">hatte</wf>
+    <wf id="w454" offset="2999" sent="25">die</wf>
+    <wf id="w455" offset="3003" sent="25">Forderungen</wf>
+    <wf id="w456" offset="3015" sent="25">als</wf>
+    <wf id="w457" offset="3019" sent="25">haltlos</wf>
+    <wf id="w458" offset="3027" sent="25">zurückgewiesen</wf>
+    <wf id="w459" offset="3042" sent="25">und</wf>
+    <wf id="w460" offset="3046" sent="25">erklärt</wf>
+    <wf id="w461" offset="3054" sent="25">,</wf>
+    <wf id="w462" offset="3056" sent="25">sich</wf>
+    <wf id="w463" offset="3061" sent="25">wehren</wf>
+    <wf id="w464" offset="3068" sent="25">zu</wf>
+    <wf id="w465" offset="3071" sent="25">wollen</wf>
+    <wf id="w466" offset="3078" sent="25">.</wf>
+  </text>
+  <terms>
+    <term id="t1" pos="NE" lemma="Deutsche_Bank">
+      <span>
+        <target id="w1"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d013.s001.t001"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="deutsche_bank"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:03315023n"/>
+      </externalReferences>
+    </term>
+    <term id="t2" pos="VVFIN" lemma="zahlen">
+      <span>
+        <target id="w2"/>
+      </span>
+    </term>
+    <term id="t3" pos="NN" lemma="Millionenstrafe">
+      <span>
+        <target id="w3"/>
+      </span>
+    </term>
+    <term id="t4" pos="APPR" lemma="in">
+      <span>
+        <target id="w4"/>
+      </span>
+    </term>
+    <term id="t5" pos="ART" lemma="d">
+      <span>
+        <target id="w5"/>
+      </span>
+    </term>
+    <term id="t6" pos="NE" lemma="USA">
+      <span>
+        <target id="w6"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d013.s001.t002"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="vereinigte_staaten"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00003341n"/>
+      </externalReferences>
+    </term>
+    <term id="t7" pos="APPR" lemma="nach">
+      <span>
+        <target id="w7"/>
+      </span>
+    </term>
+    <term id="t8" pos="ART" lemma="d">
+      <span>
+        <target id="w8"/>
+      </span>
+    </term>
+    <term id="t9" pos="NN" lemma="Tumult">
+      <span>
+        <target id="w9"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d013.s002.t001"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="krawall"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:04414400n"/>
+      </externalReferences>
+    </term>
+    <term id="t10" pos="APPR" lemma="um">
+      <span>
+        <target id="w10"/>
+      </span>
+    </term>
+    <term id="t11" pos="NN" lemma="Chef">
+      <span>
+        <target id="w11"/>
+      </span>
+    </term>
+    <term id="t12" pos="NE" lemma="josef_ackermann">
+      <span>
+        <target id="w12"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d013.s002.t002"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="josef_ackermann"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00470123n"/>
+      </externalReferences>
+    </term>
+    <term id="t13" pos="VVFIN" lemma="kommen">
+      <span>
+        <target id="w13"/>
+      </span>
+    </term>
+    <term id="t14" pos="ADJA" lemma="neu">
+      <span>
+        <target id="w14"/>
+      </span>
+    </term>
+    <term id="t15" pos="NN" lemma="Ungemach">
+      <span>
+        <target id="w15"/>
+      </span>
+    </term>
+    <term id="t16" pos="APPR" lemma="aus">
+      <span>
+        <target id="w16"/>
+      </span>
+    </term>
+    <term id="t17" pos="ART" lemma="d">
+      <span>
+        <target id="w17"/>
+      </span>
+    </term>
+    <term id="t18" pos="NE" lemma="USA">
+      <span>
+        <target id="w18"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d013.s002.t003"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="vereinigte_staaten"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00003341n"/>
+      </externalReferences>
+    </term>
+    <term id="t19" pos="$." lemma=":">
+      <span>
+        <target id="w19"/>
+      </span>
+    </term>
+    <term id="t20" pos="ART" lemma="d">
+      <span>
+        <target id="w20"/>
+      </span>
+    </term>
+    <term id="t21" pos="NE" lemma="Deutsche_Bank">
+      <span>
+        <target id="w21"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d013.s002.t004"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="deutsche_bank"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:03315023n"/>
+      </externalReferences>
+    </term>
+    <term id="t22" pos="VMFIN" lemma="müssen">
+      <span>
+        <target id="w22"/>
+      </span>
+    </term>
+    <term id="t23" pos="ADV" lemma="dort">
+      <span>
+        <target id="w23"/>
+      </span>
+    </term>
+    <term id="t24" pos="ART" lemma="ein">
+      <span>
+        <target id="w24"/>
+      </span>
+    </term>
+    <term id="t25" pos="NN" lemma="Millionenbuße">
+      <span>
+        <target id="w25"/>
+      </span>
+    </term>
+    <term id="t26" pos="VVINF" lemma="zahlen">
+      <span>
+        <target id="w26"/>
+      </span>
+    </term>
+    <term id="t27" pos="$." lemma=".">
+      <span>
+        <target id="w27"/>
+      </span>
+    </term>
+    <term id="t28" pos="KON" lemma="als">
+      <span>
+        <target id="w28"/>
+      </span>
+    </term>
+    <term id="t29" pos="KOUS" lemma="ob">
+      <span>
+        <target id="w29"/>
+      </span>
+    </term>
+    <term id="t30" pos="ART" lemma="d">
+      <span>
+        <target id="w30"/>
+      </span>
+    </term>
+    <term id="t31" pos="NN" lemma="Problem">
+      <span>
+        <target id="w31"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d013.s003.t001"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="problem"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00048242n"/>
+      </externalReferences>
+    </term>
+    <term id="t32" pos="ADV" lemma="daheim">
+      <span>
+        <target id="w32"/>
+      </span>
+    </term>
+    <term id="t33" pos="APPR" lemma="für">
+      <span>
+        <target id="w33"/>
+      </span>
+    </term>
+    <term id="t34" pos="ART" lemma="d">
+      <span>
+        <target id="w34"/>
+      </span>
+    </term>
+    <term id="t35" pos="NE" lemma="Deutsche_Bank">
+      <span>
+        <target id="w35"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d013.s003.t002"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="deutsche_bank"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:03315023n"/>
+      </externalReferences>
+    </term>
+    <term id="t36" pos="PTKNEG" lemma="nicht">
+      <span>
+        <target id="w36"/>
+      </span>
+    </term>
+    <term id="t37" pos="ADV" lemma="schon">
+      <span>
+        <target id="w37"/>
+      </span>
+    </term>
+    <term id="t38" pos="ADV" lemma="genug">
+      <span>
+        <target id="w38"/>
+      </span>
+    </term>
+    <term id="t39" pos="VAFIN" lemma="sein">
+      <span>
+        <target id="w39"/>
+      </span>
+    </term>
+    <term id="t40" pos="$," lemma=",">
+      <span>
+        <target id="w40"/>
+      </span>
+    </term>
+    <term id="t41" pos="VVFIN" lemma="holen">
+      <span>
+        <target id="w41"/>
+      </span>
+    </term>
+    <term id="t42" pos="ART" lemma="d">
+      <span>
+        <target id="w42"/>
+      </span>
+    </term>
+    <term id="t43" pos="NN" lemma="Branchenriese">
+      <span>
+        <target id="w43"/>
+      </span>
+    </term>
+    <term id="t44" pos="ADV" lemma="nun">
+      <span>
+        <target id="w44"/>
+      </span>
+    </term>
+    <term id="t45" pos="ADV" lemma="auch">
+      <span>
+        <target id="w45"/>
+      </span>
+    </term>
+    <term id="t46" pos="ADV" lemma="noch">
+      <span>
+        <target id="w46"/>
+      </span>
+    </term>
+    <term id="t47" pos="PPOSAT" lemma="sein">
+      <span>
+        <target id="w47"/>
+      </span>
+    </term>
+    <term id="t48" pos="NN" lemma="Vergangenheit">
+      <span>
+        <target id="w48"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d013.s003.t003"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00060928n"/>
+      </externalReferences>
+    </term>
+    <term id="t49" pos="APPR" lemma="in">
+      <span>
+        <target id="w49"/>
+      </span>
+    </term>
+    <term id="t50" pos="ART" lemma="d">
+      <span>
+        <target id="w50"/>
+      </span>
+    </term>
+    <term id="t51" pos="NE" lemma="USA">
+      <span>
+        <target id="w51"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d013.s003.t004"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="vereinigte_staaten"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00003341n"/>
+      </externalReferences>
+    </term>
+    <term id="t52" pos="PTKVZ" lemma="ein">
+      <span>
+        <target id="w52"/>
+      </span>
+    </term>
+    <term id="t53" pos="$." lemma=":">
+      <span>
+        <target id="w53"/>
+      </span>
+    </term>
+    <term id="t54" pos="ART" lemma="d">
+      <span>
+        <target id="w54"/>
+      </span>
+    </term>
+    <term id="t55" pos="ADJA" lemma="Frankfurter">
+      <span>
+        <target id="w55"/>
+      </span>
+    </term>
+    <term id="t56" pos="NN" lemma="Institut">
+      <span>
+        <target id="w56"/>
+      </span>
+    </term>
+    <term id="t57" pos="VVFIN" lemma="zahlen">
+      <span>
+        <target id="w57"/>
+      </span>
+    </term>
+    <term id="t58" pos="APPR" lemma="in">
+      <span>
+        <target id="w58"/>
+      </span>
+    </term>
+    <term id="t59" pos="ART" lemma="ein">
+      <span>
+        <target id="w59"/>
+      </span>
+    </term>
+    <term id="t60" pos="NN" lemma="Vergleich">
+      <span>
+        <target id="w60"/>
+      </span>
+    </term>
+    <term id="t61" pos="CARD" lemma="@card@">
+      <span>
+        <target id="w61"/>
+      </span>
+    </term>
+    <term id="t62" pos="NN" lemma="Million">
+      <span>
+        <target id="w62"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d013.s003.t006"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="million"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00000013n"/>
+      </externalReferences>
+    </term>
+    <term id="t63" pos="NN" lemma="Dollar">
+      <span>
+        <target id="w63"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d013.s003.t007"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="dollar"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00028114n"/>
+      </externalReferences>
+    </term>
+    <term id="t64" pos="$(" lemma="(">
+      <span>
+        <target id="w64"/>
+      </span>
+    </term>
+    <term id="t65" pos="CARD" lemma="@card@">
+      <span>
+        <target id="w65"/>
+      </span>
+    </term>
+    <term id="t66" pos="NN" lemma="Million">
+      <span>
+        <target id="w66"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d013.s003.t008"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="million"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00000013n"/>
+      </externalReferences>
+    </term>
+    <term id="t67" pos="NN" lemma="Euro">
+      <span>
+        <target id="w67"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d013.s003.t009"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="euro"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00031888n"/>
+      </externalReferences>
+    </term>
+    <term id="t68" pos="$(" lemma=")">
+      <span>
+        <target id="w68"/>
+      </span>
+    </term>
+    <term id="t69" pos="$," lemma=",">
+      <span>
+        <target id="w69"/>
+      </span>
+    </term>
+    <term id="t70" pos="KOUI" lemma="um">
+      <span>
+        <target id="w70"/>
+      </span>
+    </term>
+    <term id="t71" pos="NN" lemma="Streitigkeit">
+      <span>
+        <target id="w71"/>
+      </span>
+    </term>
+    <term id="t72" pos="APPR" lemma="wegen">
+      <span>
+        <target id="w72"/>
+      </span>
+    </term>
+    <term id="t73" pos="ART" lemma="d">
+      <span>
+        <target id="w73"/>
+      </span>
+    </term>
+    <term id="t74" pos="NN" lemma="Pleite">
+      <span>
+        <target id="w74"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d013.s003.t010"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00057940n"/>
+      </externalReferences>
+    </term>
+    <term id="t75" pos="APPR" lemma="von">
+      <span>
+        <target id="w75"/>
+      </span>
+    </term>
+    <term id="t76" pos="CARD" lemma="fünf">
+      <span>
+        <target id="w76"/>
+      </span>
+    </term>
+    <term id="t77" pos="ADJA" lemma="groß">
+      <span>
+        <target id="w77"/>
+      </span>
+    </term>
+    <term id="t78" pos="NN" lemma="Genossenschaftsbank">
+      <span>
+        <target id="w78"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d013.s003.t011"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="genossenschaftsbank"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00023681n"/>
+      </externalReferences>
+    </term>
+    <term id="t79" pos="APPR" lemma="während">
+      <span>
+        <target id="w79"/>
+      </span>
+    </term>
+    <term id="t80" pos="ART" lemma="d">
+      <span>
+        <target id="w80"/>
+      </span>
+    </term>
+    <term id="t81" pos="NN" lemma="Finanzkrise">
+      <span>
+        <target id="w81"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d013.s003.t012"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="finanzkrise"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:02241308n"/>
+      </externalReferences>
+    </term>
+    <term id="t82" pos="VVIZU" lemma="beilegen">
+      <span>
+        <target id="w82"/>
+      </span>
+    </term>
+    <term id="t83" pos="$." lemma=".">
+      <span>
+        <target id="w83"/>
+      </span>
+    </term>
+    <term id="t84" pos="PPER" lemma="es">
+      <span>
+        <target id="w84"/>
+      </span>
+    </term>
+    <term id="t85" pos="VVFIN" lemma="gehen">
+      <span>
+        <target id="w85"/>
+      </span>
+    </term>
+    <term id="t86" pos="APPR" lemma="um">
+      <span>
+        <target id="w86"/>
+      </span>
+    </term>
+    <term id="t87" pos="ART" lemma="d">
+      <span>
+        <target id="w87"/>
+      </span>
+    </term>
+    <term id="t88" pos="NN" lemma="Verkauf">
+      <span>
+        <target id="w88"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d013.s004.t001"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00068915n"/>
+      </externalReferences>
+    </term>
+    <term id="t89" pos="APPR" lemma="von">
+      <span>
+        <target id="w89"/>
+      </span>
+    </term>
+    <term id="t90" pos="NN" lemma="Hypothekenpapieren">
+      <span>
+        <target id="w90"/>
+      </span>
+    </term>
+    <term id="t91" pos="$." lemma=".">
+      <span>
+        <target id="w91"/>
+      </span>
+    </term>
+    <term id="t92" pos="ART" lemma="d">
+      <span>
+        <target id="w92"/>
+      </span>
+    </term>
+    <term id="t93" pos="NN" lemma="Finanzmarktregulierer">
+      <span>
+        <target id="w93"/>
+      </span>
+    </term>
+    <term id="t94" pos="NN" lemma="NCUA">
+      <span>
+        <target id="w94"/>
+      </span>
+    </term>
+    <term id="t95" pos="VVFIN" lemma="werfen">
+      <span>
+        <target id="w95"/>
+      </span>
+    </term>
+    <term id="t96" pos="ART" lemma="ein">
+      <span>
+        <target id="w96"/>
+      </span>
+    </term>
+    <term id="t97" pos="ADJA" lemma="ganz">
+      <span>
+        <target id="w97"/>
+      </span>
+    </term>
+    <term id="t98" pos="NN" lemma="Reihe">
+      <span>
+        <target id="w98"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d013.s005.t001"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00074684n"/>
+      </externalReferences>
+    </term>
+    <term id="t99" pos="APPR" lemma="an">
+      <span>
+        <target id="w99"/>
+      </span>
+    </term>
+    <term id="t100" pos="NN" lemma="Großbank">
+      <span>
+        <target id="w100"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d013.s005.t002"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="groãbank"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:04932279n"/>
+      </externalReferences>
+    </term>
+    <term id="t101" pos="PTKVZ" lemma="vor">
+      <span>
+        <target id="w101"/>
+      </span>
+    </term>
+    <term id="t102" pos="$," lemma=",">
+      <span>
+        <target id="w102"/>
+      </span>
+    </term>
+    <term id="t103" pos="ART" lemma="d">
+      <span>
+        <target id="w103"/>
+      </span>
+    </term>
+    <term id="t104" pos="NN" lemma="Genossenschaftsbank">
+      <span>
+        <target id="w104"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d013.s005.t003"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="genossenschaftsbank"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00023681n"/>
+      </externalReferences>
+    </term>
+    <term id="t105" pos="APPR" lemma="mit">
+      <span>
+        <target id="w105"/>
+      </span>
+    </term>
+    <term id="t106" pos="ADJA" lemma="falsch">
+      <span>
+        <target id="w106"/>
+      </span>
+    </term>
+    <term id="t107" pos="NN" lemma="Versprechung">
+      <span>
+        <target id="w107"/>
+      </span>
+    </term>
+    <term id="t108" pos="APPRART" lemma="zum">
+      <span>
+        <target id="w108"/>
+      </span>
+    </term>
+    <term id="t109" pos="NN" lemma="Kauf">
+      <span>
+        <target id="w109"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d013.s005.t004"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00065265n"/>
+      </externalReferences>
+    </term>
+    <term id="t110" pos="ART" lemma="d">
+      <span>
+        <target id="w110"/>
+      </span>
+    </term>
+    <term id="t111" pos="NN" lemma="Finanzprodukt">
+      <span>
+        <target id="w111"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d013.s005.t005"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="geldanlage"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:03970205n"/>
+      </externalReferences>
+    </term>
+    <term id="t112" pos="VVPP" lemma="verleiten">
+      <span>
+        <target id="w112"/>
+      </span>
+    </term>
+    <term id="t113" pos="PTKZU" lemma="zu">
+      <span>
+        <target id="w113"/>
+      </span>
+    </term>
+    <term id="t114" pos="VAINF" lemma="haben">
+      <span>
+        <target id="w114"/>
+      </span>
+    </term>
+    <term id="t115" pos="$." lemma=";">
+      <span>
+        <target id="w115"/>
+      </span>
+    </term>
+    <term id="t116" pos="PPER" lemma="sie">
+      <span>
+        <target id="w116"/>
+      </span>
+    </term>
+    <term id="t117" pos="VAFIN" lemma="haben">
+      <span>
+        <target id="w117"/>
+      </span>
+    </term>
+    <term id="t118" pos="ART" lemma="d">
+      <span>
+        <target id="w118"/>
+      </span>
+    </term>
+    <term id="t119" pos="NN" lemma="Risiko">
+      <span>
+        <target id="w119"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d013.s005.t006"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="gefã¤hrdung"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="risiko"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00030747n"/>
+      </externalReferences>
+    </term>
+    <term id="t120" pos="VVPP" lemma="herunterspielen">
+      <span>
+        <target id="w120"/>
+      </span>
+    </term>
+    <term id="t121" pos="$." lemma=".">
+      <span>
+        <target id="w121"/>
+      </span>
+    </term>
+    <term id="t122" pos="ADJA" lemma="derartig">
+      <span>
+        <target id="w122"/>
+      </span>
+    </term>
+    <term id="t123" pos="NN" lemma="Papier">
+      <span>
+        <target id="w123"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d013.s006.t001"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="wertpapier"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00017368n"/>
+      </externalReferences>
+    </term>
+    <term id="t124" pos="VVPP" lemma="verlieren">
+      <span>
+        <target id="w124"/>
+      </span>
+    </term>
+    <term id="t125" pos="APPR" lemma="während">
+      <span>
+        <target id="w125"/>
+      </span>
+    </term>
+    <term id="t126" pos="ART" lemma="d">
+      <span>
+        <target id="w126"/>
+      </span>
+    </term>
+    <term id="t127" pos="NN" lemma="Finanzkrise">
+      <span>
+        <target id="w127"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d013.s006.t002"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="finanzkrise"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:02241308n"/>
+      </externalReferences>
+    </term>
+    <term id="t128" pos="ADJD" lemma="kräftig">
+      <span>
+        <target id="w128"/>
+      </span>
+    </term>
+    <term id="t129" pos="APPR" lemma="an">
+      <span>
+        <target id="w129"/>
+      </span>
+    </term>
+    <term id="t130" pos="NN" lemma="Wert">
+      <span>
+        <target id="w130"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d013.s006.t003"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="wert_(wirtschaft)"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00029680n"/>
+      </externalReferences>
+    </term>
+    <term id="t131" pos="KON" lemma="und">
+      <span>
+        <target id="w131"/>
+      </span>
+    </term>
+    <term id="t132" pos="VVFIN" lemma="reißen">
+      <span>
+        <target id="w132"/>
+      </span>
+    </term>
+    <term id="t133" pos="ART" lemma="d">
+      <span>
+        <target id="w133"/>
+      </span>
+    </term>
+    <term id="t134" pos="NN" lemma="Bank">
+      <span>
+        <target id="w134"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d013.s006.t004"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="bank"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00008364n"/>
+      </externalReferences>
+    </term>
+    <term id="t135" pos="APPR" lemma="mit">
+      <span>
+        <target id="w135"/>
+      </span>
+    </term>
+    <term id="t136" pos="APPR" lemma="in">
+      <span>
+        <target id="w136"/>
+      </span>
+    </term>
+    <term id="t137" pos="ART" lemma="d">
+      <span>
+        <target id="w137"/>
+      </span>
+    </term>
+    <term id="t138" pos="NN" lemma="Tiefe">
+      <span>
+        <target id="w138"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d013.s006.t005"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00025827n"/>
+      </externalReferences>
+    </term>
+    <term id="t139" pos="$." lemma=".">
+      <span>
+        <target id="w139"/>
+      </span>
+    </term>
+    <term id="t140" pos="$(" lemma="&quot;">
+      <span>
+        <target id="w140"/>
+      </span>
+    </term>
+    <term id="t141" pos="PPER" lemma="wir">
+      <span>
+        <target id="w141"/>
+      </span>
+    </term>
+    <term id="t142" pos="VAFIN" lemma="sein">
+      <span>
+        <target id="w142"/>
+      </span>
+    </term>
+    <term id="t143" pos="ADJD" lemma="zufrieden">
+      <span>
+        <target id="w143"/>
+      </span>
+    </term>
+    <term id="t144" pos="$," lemma=",">
+      <span>
+        <target id="w144"/>
+      </span>
+    </term>
+    <term id="t145" pos="KOUS" lemma="dass">
+      <span>
+        <target id="w145"/>
+      </span>
+    </term>
+    <term id="t146" pos="PPER" lemma="wir">
+      <span>
+        <target id="w146"/>
+      </span>
+    </term>
+    <term id="t147" pos="ART" lemma="d">
+      <span>
+        <target id="w147"/>
+      </span>
+    </term>
+    <term id="t148" pos="NN" lemma="Thema">
+      <span>
+        <target id="w148"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d013.s007.t001"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="thema_(literatur)"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00074900n"/>
+      </externalReferences>
+    </term>
+    <term id="t149" pos="VVINF" lemma="lösen">
+      <span>
+        <target id="w149"/>
+      </span>
+    </term>
+    <term id="t150" pos="VMFIN" lemma="können">
+      <span>
+        <target id="w150"/>
+      </span>
+    </term>
+    <term id="t151" pos="$," lemma=",">
+      <span>
+        <target id="w151"/>
+      </span>
+    </term>
+    <term id="t152" pos="APPR" lemma="ohne">
+      <span>
+        <target id="w152"/>
+      </span>
+    </term>
+    <term id="t153" pos="KOUS" lemma="dass">
+      <span>
+        <target id="w153"/>
+      </span>
+    </term>
+    <term id="t154" pos="ART" lemma="d">
+      <span>
+        <target id="w154"/>
+      </span>
+    </term>
+    <term id="t155" pos="NN" lemma="Partei">
+      <span>
+        <target id="w155"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d013.s007.t002"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="partei_(recht)"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00060837n"/>
+      </externalReferences>
+    </term>
+    <term id="t156" pos="APPR" lemma="vor">
+      <span>
+        <target id="w156"/>
+      </span>
+    </term>
+    <term id="t157" pos="NN" lemma="Gericht">
+      <span>
+        <target id="w157"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d013.s007.t003"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="tribunal"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00023301n"/>
+      </externalReferences>
+    </term>
+    <term id="t158" pos="VVINF" lemma="ziehen">
+      <span>
+        <target id="w158"/>
+      </span>
+    </term>
+    <term id="t159" pos="VMFIN" lemma="müssen">
+      <span>
+        <target id="w159"/>
+      </span>
+    </term>
+    <term id="t160" pos="$(" lemma="&quot;">
+      <span>
+        <target id="w160"/>
+      </span>
+    </term>
+    <term id="t161" pos="$," lemma=",">
+      <span>
+        <target id="w161"/>
+      </span>
+    </term>
+    <term id="t162" pos="VVFIN" lemma="sagen">
+      <span>
+        <target id="w162"/>
+      </span>
+    </term>
+    <term id="t163" pos="ART" lemma="ein">
+      <span>
+        <target id="w163"/>
+      </span>
+    </term>
+    <term id="t164" pos="NN" lemma="Deutsche-Bank-Sprecher">
+      <span>
+        <target id="w164"/>
+      </span>
+    </term>
+    <term id="t165" pos="APPR" lemma="in">
+      <span>
+        <target id="w165"/>
+      </span>
+    </term>
+    <term id="t166" pos="NE" lemma="new_york">
+      <span>
+        <target id="w166"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d013.s007.t004"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="new_york_city"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00041611n"/>
+      </externalReferences>
+    </term>
+    <term id="t167" pos="$." lemma=".">
+      <span>
+        <target id="w167"/>
+      </span>
+    </term>
+    <term id="t168" pos="ART" lemma="d">
+      <span>
+        <target id="w168"/>
+      </span>
+    </term>
+    <term id="t169" pos="NN" lemma="Bank">
+      <span>
+        <target id="w169"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d013.s008.t001"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="bank"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00008364n"/>
+      </externalReferences>
+    </term>
+    <term id="t170" pos="VVFIN" lemma="räumen">
+      <span>
+        <target id="w170"/>
+      </span>
+    </term>
+    <term id="t171" pos="APPR" lemma="mit">
+      <span>
+        <target id="w171"/>
+      </span>
+    </term>
+    <term id="t172" pos="ART" lemma="d">
+      <span>
+        <target id="w172"/>
+      </span>
+    </term>
+    <term id="t173" pos="NN" lemma="Vergleich">
+      <span>
+        <target id="w173"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d013.s008.t002"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="vergleich_(recht)"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00070725n"/>
+      </externalReferences>
+    </term>
+    <term id="t174" pos="PIAT" lemma="kein">
+      <span>
+        <target id="w174"/>
+      </span>
+    </term>
+    <term id="t175" pos="NN" lemma="Schuld">
+      <span>
+        <target id="w175"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d013.s008.t003"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="strafbarkeit"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00011099n"/>
+      </externalReferences>
+    </term>
+    <term id="t176" pos="PTKVZ" lemma="ein">
+      <span>
+        <target id="w176"/>
+      </span>
+    </term>
+    <term id="t177" pos="$." lemma=".">
+      <span>
+        <target id="w177"/>
+      </span>
+    </term>
+    <term id="t178" pos="PDS" lemma="d">
+      <span>
+        <target id="w178"/>
+      </span>
+    </term>
+    <term id="t179" pos="VVFIN" lemma="gelten">
+      <span>
+        <target id="w179"/>
+      </span>
+    </term>
+    <term id="t180" pos="ADV" lemma="auch">
+      <span>
+        <target id="w180"/>
+      </span>
+    </term>
+    <term id="t181" pos="APPR" lemma="für">
+      <span>
+        <target id="w181"/>
+      </span>
+    </term>
+    <term id="t182" pos="ART" lemma="d">
+      <span>
+        <target id="w182"/>
+      </span>
+    </term>
+    <term id="t183" pos="NN" lemma="Citigroup">
+      <span>
+        <target id="w183"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d013.s009.t001"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="citigroup"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:01344299n"/>
+      </externalReferences>
+    </term>
+    <term id="t184" pos="$," lemma=",">
+      <span>
+        <target id="w184"/>
+      </span>
+    </term>
+    <term id="t185" pos="PRELS" lemma="d">
+      <span>
+        <target id="w185"/>
+      </span>
+    </term>
+    <term id="t186" pos="PRF" lemma="er">
+      <span>
+        <target id="w186"/>
+      </span>
+    </term>
+    <term id="t187" pos="APPRART" lemma="zur">
+      <span>
+        <target id="w187"/>
+      </span>
+    </term>
+    <term id="t188" pos="NN" lemma="Zahlung">
+      <span>
+        <target id="w188"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d013.s009.t002"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="zahlung"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00061119n"/>
+      </externalReferences>
+    </term>
+    <term id="t189" pos="APPR" lemma="von">
+      <span>
+        <target id="w189"/>
+      </span>
+    </term>
+    <term id="t190" pos="CARD" lemma="@card@">
+      <span>
+        <target id="w190"/>
+      </span>
+    </term>
+    <term id="t191" pos="NN" lemma="Million">
+      <span>
+        <target id="w191"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d013.s009.t003"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="million"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00000013n"/>
+      </externalReferences>
+    </term>
+    <term id="t192" pos="NN" lemma="Dollar">
+      <span>
+        <target id="w192"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d013.s009.t004"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="dollar"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00028114n"/>
+      </externalReferences>
+    </term>
+    <term id="t193" pos="VVFIN" lemma="verpflichten">
+      <span>
+        <target id="w193"/>
+      </span>
+    </term>
+    <term id="t194" pos="$." lemma=".">
+      <span>
+        <target id="w194"/>
+      </span>
+    </term>
+    <term id="t195" pos="ART" lemma="d">
+      <span>
+        <target id="w195"/>
+      </span>
+    </term>
+    <term id="t196" pos="NN" lemma="NCUA-Vorsitzende">
+      <span>
+        <target id="w196"/>
+      </span>
+    </term>
+    <term id="t197" pos="NE" lemma="Debbie">
+      <span>
+        <target id="w197"/>
+      </span>
+    </term>
+    <term id="t198" pos="NE" lemma="Matz">
+      <span>
+        <target id="w198"/>
+      </span>
+    </term>
+    <term id="t199" pos="VVFIN" lemma="begrüßen">
+      <span>
+        <target id="w199"/>
+      </span>
+    </term>
+    <term id="t200" pos="ART" lemma="d">
+      <span>
+        <target id="w200"/>
+      </span>
+    </term>
+    <term id="t201" pos="NN" lemma="Entgegenkommen">
+      <span>
+        <target id="w201"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d013.s010.t001"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00021350n"/>
+      </externalReferences>
+    </term>
+    <term id="t202" pos="ART" lemma="d">
+      <span>
+        <target id="w202"/>
+      </span>
+    </term>
+    <term id="t203" pos="PIAT" lemma="beide">
+      <span>
+        <target id="w203"/>
+      </span>
+    </term>
+    <term id="t204" pos="NN" lemma="Geldhaus">
+      <span>
+        <target id="w204"/>
+      </span>
+    </term>
+    <term id="t205" pos="$." lemma=".">
+      <span>
+        <target id="w205"/>
+      </span>
+    </term>
+    <term id="t206" pos="ART" lemma="d">
+      <span>
+        <target id="w206"/>
+      </span>
+    </term>
+    <term id="t207" pos="FM" lemma="National">
+      <span>
+        <target id="w207"/>
+      </span>
+    </term>
+    <term id="t208" pos="NE" lemma="Credit">
+      <span>
+        <target id="w208"/>
+      </span>
+    </term>
+    <term id="t209" pos="NE" lemma="Union">
+      <span>
+        <target id="w209"/>
+      </span>
+    </term>
+    <term id="t210" pos="NN" lemma="Administration">
+      <span>
+        <target id="w210"/>
+      </span>
+    </term>
+    <term id="t211" pos="$(" lemma="(">
+      <span>
+        <target id="w211"/>
+      </span>
+    </term>
+    <term id="t212" pos="NN" lemma="NCUA">
+      <span>
+        <target id="w212"/>
+      </span>
+    </term>
+    <term id="t213" pos="$(" lemma=")">
+      <span>
+        <target id="w213"/>
+      </span>
+    </term>
+    <term id="t214" pos="VAFIN" lemma="sein">
+      <span>
+        <target id="w214"/>
+      </span>
+    </term>
+    <term id="t215" pos="APPR" lemma="für">
+      <span>
+        <target id="w215"/>
+      </span>
+    </term>
+    <term id="t216" pos="ART" lemma="d">
+      <span>
+        <target id="w216"/>
+      </span>
+    </term>
+    <term id="t217" pos="NN" lemma="US-Genossenschaftsbanken">
+      <span>
+        <target id="w217"/>
+      </span>
+    </term>
+    <term id="t218" pos="ADJD" lemma="zuständig">
+      <span>
+        <target id="w218"/>
+      </span>
+    </term>
+    <term id="t219" pos="KON" lemma="und">
+      <span>
+        <target id="w219"/>
+      </span>
+    </term>
+    <term id="t220" pos="VVFIN" lemma="springen">
+      <span>
+        <target id="w220"/>
+      </span>
+    </term>
+    <term id="t221" pos="APPR" lemma="bei">
+      <span>
+        <target id="w221"/>
+      </span>
+    </term>
+    <term id="t222" pos="NN" lemma="Pleite">
+      <span>
+        <target id="w222"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d013.s011.t003"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00057940n"/>
+      </externalReferences>
+    </term>
+    <term id="t223" pos="PTKVZ" lemma="ein">
+      <span>
+        <target id="w223"/>
+      </span>
+    </term>
+    <term id="t224" pos="$," lemma=",">
+      <span>
+        <target id="w224"/>
+      </span>
+    </term>
+    <term id="t225" pos="KOUI" lemma="um">
+      <span>
+        <target id="w225"/>
+      </span>
+    </term>
+    <term id="t226" pos="ART" lemma="d">
+      <span>
+        <target id="w226"/>
+      </span>
+    </term>
+    <term id="t227" pos="NN" lemma="Kundeneinlage">
+      <span>
+        <target id="w227"/>
+      </span>
+    </term>
+    <term id="t228" pos="PTKZU" lemma="zu">
+      <span>
+        <target id="w228"/>
+      </span>
+    </term>
+    <term id="t229" pos="VVINF" lemma="schützen">
+      <span>
+        <target id="w229"/>
+      </span>
+    </term>
+    <term id="t230" pos="$." lemma=".">
+      <span>
+        <target id="w230"/>
+      </span>
+    </term>
+    <term id="t231" pos="ART" lemma="d">
+      <span>
+        <target id="w231"/>
+      </span>
+    </term>
+    <term id="t232" pos="NN" lemma="NCUA">
+      <span>
+        <target id="w232"/>
+      </span>
+    </term>
+    <term id="t233" pos="VVPP" lemma="versuchen">
+      <span>
+        <target id="w233"/>
+      </span>
+    </term>
+    <term id="t234" pos="$," lemma=",">
+      <span>
+        <target id="w234"/>
+      </span>
+    </term>
+    <term id="t235" pos="ART" lemma="d">
+      <span>
+        <target id="w235"/>
+      </span>
+    </term>
+    <term id="t236" pos="ADJA" lemma="entstanden">
+      <span>
+        <target id="w236"/>
+      </span>
+    </term>
+    <term id="t237" pos="ADJA" lemma="milliardenschwer">
+      <span>
+        <target id="w237"/>
+      </span>
+    </term>
+    <term id="t238" pos="NN" lemma="Schaden">
+      <span>
+        <target id="w238"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d013.s012.t001"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="schaden"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:04892392n"/>
+      </externalReferences>
+    </term>
+    <term id="t239" pos="VVPP" lemma="ersetzen">
+      <span>
+        <target id="w239"/>
+      </span>
+    </term>
+    <term id="t240" pos="PTKZU" lemma="zu">
+      <span>
+        <target id="w240"/>
+      </span>
+    </term>
+    <term id="t241" pos="VVINF" lemma="bekommen">
+      <span>
+        <target id="w241"/>
+      </span>
+    </term>
+    <term id="t242" pos="$." lemma=".">
+      <span>
+        <target id="w242"/>
+      </span>
+    </term>
+    <term id="t243" pos="ART" lemma="d">
+      <span>
+        <target id="w243"/>
+      </span>
+    </term>
+    <term id="t244" pos="ADV" lemma="jetzt">
+      <span>
+        <target id="w244"/>
+      </span>
+    </term>
+    <term id="t245" pos="ADJA" lemma="geschlossen">
+      <span>
+        <target id="w245"/>
+      </span>
+    </term>
+    <term id="t246" pos="NN" lemma="Vergleich">
+      <span>
+        <target id="w246"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d013.s013.t001"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="vergleich_(recht)"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00070725n"/>
+      </externalReferences>
+    </term>
+    <term id="t247" pos="VAFIN" lemma="sein">
+      <span>
+        <target id="w247"/>
+      </span>
+    </term>
+    <term id="t248" pos="ART" lemma="d">
+      <span>
+        <target id="w248"/>
+      </span>
+    </term>
+    <term id="t249" pos="ADJA" lemma="erst">
+      <span>
+        <target id="w249"/>
+      </span>
+    </term>
+    <term id="t250" pos="PPOSAT" lemma="ihr">
+      <span>
+        <target id="w250"/>
+      </span>
+    </term>
+    <term id="t251" pos="NN" lemma="Art.">
+      <span>
+        <target id="w251"/>
+      </span>
+    </term>
+    <term id="t252" pos="ART" lemma="d">
+      <span>
+        <target id="w252"/>
+      </span>
+    </term>
+    <term id="t253" pos="NN" lemma="Regulierer">
+      <span>
+        <target id="w253"/>
+      </span>
+    </term>
+    <term id="t254" pos="VAFIN" lemma="haben">
+      <span>
+        <target id="w254"/>
+      </span>
+    </term>
+    <term id="t255" pos="PRF" lemma="er">
+      <span>
+        <target id="w255"/>
+      </span>
+    </term>
+    <term id="t256" pos="ADV" lemma="auch">
+      <span>
+        <target id="w256"/>
+      </span>
+    </term>
+    <term id="t257" pos="ADJA" lemma="ander">
+      <span>
+        <target id="w257"/>
+      </span>
+    </term>
+    <term id="t258" pos="NN" lemma="Großbank">
+      <span>
+        <target id="w258"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d013.s014.t001"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="groãbank"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:04932279n"/>
+      </externalReferences>
+    </term>
+    <term id="t259" pos="VVPP" lemma="vorknöpfen">
+      <span>
+        <target id="w259"/>
+      </span>
+    </term>
+    <term id="t260" pos="KON" lemma="und">
+      <span>
+        <target id="w260"/>
+      </span>
+    </term>
+    <term id="t261" pos="APPRART" lemma="im">
+      <span>
+        <target id="w261"/>
+      </span>
+    </term>
+    <term id="t262" pos="NN" lemma="Sommer">
+      <span>
+        <target id="w262"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d013.s014.t002"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="sommer"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00075151n"/>
+      </externalReferences>
+    </term>
+    <term id="t263" pos="NN" lemma="JPMorgan_Chase">
+      <span>
+        <target id="w263"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d013.s014.t003"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="jpmorgan_chase_&amp;_co."/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:01621195n"/>
+      </externalReferences>
+    </term>
+    <term id="t264" pos="$," lemma=",">
+      <span>
+        <target id="w264"/>
+      </span>
+    </term>
+    <term id="t265" pos="PRELS" lemma="d">
+      <span>
+        <target id="w265"/>
+      </span>
+    </term>
+    <term id="t266" pos="NE" lemma="Royal_Bank_of_Scotland">
+      <span>
+        <target id="w266"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d013.s014.t004"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="royal_bank_of_scotland"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:03812702n"/>
+      </externalReferences>
+    </term>
+    <term id="t267" pos="KON" lemma="und">
+      <span>
+        <target id="w267"/>
+      </span>
+    </term>
+    <term id="t268" pos="NE" lemma="goldman_sachs">
+      <span>
+        <target id="w268"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d013.s014.t005"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="goldman_sachs"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:02712473n"/>
+      </externalReferences>
+    </term>
+    <term id="t269" pos="VVPP" lemma="verklagen">
+      <span>
+        <target id="w269"/>
+      </span>
+    </term>
+    <term id="t270" pos="$." lemma=".">
+      <span>
+        <target id="w270"/>
+      </span>
+    </term>
+    <term id="t271" pos="APPR" lemma="bei">
+      <span>
+        <target id="w271"/>
+      </span>
+    </term>
+    <term id="t272" pos="ART" lemma="d">
+      <span>
+        <target id="w272"/>
+      </span>
+    </term>
+    <term id="t273" pos="ADJA" lemma="fraglich">
+      <span>
+        <target id="w273"/>
+      </span>
+    </term>
+    <term id="t274" pos="NN" lemma="Hypothekenpapieren">
+      <span>
+        <target id="w274"/>
+      </span>
+    </term>
+    <term id="t275" pos="VVFIN" lemma="handeln">
+      <span>
+        <target id="w275"/>
+      </span>
+    </term>
+    <term id="t276" pos="PPER" lemma="es">
+      <span>
+        <target id="w276"/>
+      </span>
+    </term>
+    <term id="t277" pos="PRF" lemma="er">
+      <span>
+        <target id="w277"/>
+      </span>
+    </term>
+    <term id="t278" pos="APPR" lemma="um">
+      <span>
+        <target id="w278"/>
+      </span>
+    </term>
+    <term id="t279" pos="ADJA" lemma="sogenannt">
+      <span>
+        <target id="w279"/>
+      </span>
+    </term>
+    <term id="t280" pos="NE" lemma="Mortgage_Backed_Securities">
+      <span>
+        <target id="w280"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d013.s015.t001"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="mortgage_backed_securities"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00055949n"/>
+      </externalReferences>
+    </term>
+    <term id="t281" pos="$." lemma=".">
+      <span>
+        <target id="w281"/>
+      </span>
+    </term>
+    <term id="t282" pos="PDS" lemma="dies">
+      <span>
+        <target id="w282"/>
+      </span>
+    </term>
+    <term id="t283" pos="VVFIN" lemma="liegen">
+      <span>
+        <target id="w283"/>
+      </span>
+    </term>
+    <term id="t284" pos="NN" lemma="Hauskredite">
+      <span>
+        <target id="w284"/>
+      </span>
+    </term>
+    <term id="t285" pos="PTKVZ" lemma="zugrunde">
+      <span>
+        <target id="w285"/>
+      </span>
+    </term>
+    <term id="t286" pos="$." lemma=".">
+      <span>
+        <target id="w286"/>
+      </span>
+    </term>
+    <term id="t287" pos="KOUS" lemma="als">
+      <span>
+        <target id="w287"/>
+      </span>
+    </term>
+    <term id="t288" pos="ART" lemma="d">
+      <span>
+        <target id="w288"/>
+      </span>
+    </term>
+    <term id="t289" pos="NN" lemma="US-Immobilienblase">
+      <span>
+        <target id="w289"/>
+      </span>
+    </term>
+    <term id="t290" pos="CARD" lemma="@card@">
+      <span>
+        <target id="w290"/>
+      </span>
+    </term>
+    <term id="t291" pos="VVFIN" lemma="platzen">
+      <span>
+        <target id="w291"/>
+      </span>
+    </term>
+    <term id="t292" pos="$," lemma=",">
+      <span>
+        <target id="w292"/>
+      </span>
+    </term>
+    <term id="t293" pos="VAFIN" lemma="werden">
+      <span>
+        <target id="w293"/>
+      </span>
+    </term>
+    <term id="t294" pos="PDS" lemma="dies">
+      <span>
+        <target id="w294"/>
+      </span>
+    </term>
+    <term id="t295" pos="ART" lemma="ein">
+      <span>
+        <target id="w295"/>
+      </span>
+    </term>
+    <term id="t296" pos="NN" lemma="Vielzahl">
+      <span>
+        <target id="w296"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d013.s017.t001"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00056302n"/>
+      </externalReferences>
+    </term>
+    <term id="t297" pos="APPR" lemma="von">
+      <span>
+        <target id="w297"/>
+      </span>
+    </term>
+    <term id="t298" pos="NN" lemma="Finanzfirma">
+      <span>
+        <target id="w298"/>
+      </span>
+    </term>
+    <term id="t299" pos="APPRART" lemma="zum">
+      <span>
+        <target id="w299"/>
+      </span>
+    </term>
+    <term id="t300" pos="NN" lemma="Verhängnis">
+      <span>
+        <target id="w300"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d013.s017.t002"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="verhã¤ngnis"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:04423631n"/>
+      </externalReferences>
+    </term>
+    <term id="t301" pos="$." lemma=".">
+      <span>
+        <target id="w301"/>
+      </span>
+    </term>
+    <term id="t302" pos="APPRART" lemma="im">
+      <span>
+        <target id="w302"/>
+      </span>
+    </term>
+    <term id="t303" pos="NN" lemma="September">
+      <span>
+        <target id="w303"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d013.s018.t001"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="september"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00070537n"/>
+      </externalReferences>
+    </term>
+    <term id="t304" pos="CARD" lemma="@card@">
+      <span>
+        <target id="w304"/>
+      </span>
+    </term>
+    <term id="t305" pos="$," lemma=",">
+      <span>
+        <target id="w305"/>
+      </span>
+    </term>
+    <term id="t306" pos="APPR" lemma="auf">
+      <span>
+        <target id="w306"/>
+      </span>
+    </term>
+    <term id="t307" pos="ART" lemma="d">
+      <span>
+        <target id="w307"/>
+      </span>
+    </term>
+    <term id="t308" pos="NN" lemma="Höhepunkt">
+      <span>
+        <target id="w308"/>
+      </span>
+    </term>
+    <term id="t309" pos="ART" lemma="d">
+      <span>
+        <target id="w309"/>
+      </span>
+    </term>
+    <term id="t310" pos="NN" lemma="Finanzkrise">
+      <span>
+        <target id="w310"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d013.s018.t003"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="finanzkrise"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:02241308n"/>
+      </externalReferences>
+    </term>
+    <term id="t311" pos="$," lemma=",">
+      <span>
+        <target id="w311"/>
+      </span>
+    </term>
+    <term id="t312" pos="VVFIN" lemma="kippen">
+      <span>
+        <target id="w312"/>
+      </span>
+    </term>
+    <term id="t313" pos="ART" lemma="d">
+      <span>
+        <target id="w313"/>
+      </span>
+    </term>
+    <term id="t314" pos="NN" lemma="US-Investmentbank">
+      <span>
+        <target id="w314"/>
+      </span>
+    </term>
+    <term id="t315" pos="NE" lemma="Lehman_Brothers">
+      <span>
+        <target id="w315"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d013.s018.t004"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="lehman_brothers"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:03774324n"/>
+      </externalReferences>
+    </term>
+    <term id="t316" pos="PTKVZ" lemma="um">
+      <span>
+        <target id="w316"/>
+      </span>
+    </term>
+    <term id="t317" pos="$." lemma=".">
+      <span>
+        <target id="w317"/>
+      </span>
+    </term>
+    <term id="t318" pos="ADV" lemma="auch">
+      <span>
+        <target id="w318"/>
+      </span>
+    </term>
+    <term id="t319" pos="KOUS" lemma="wenn">
+      <span>
+        <target id="w319"/>
+      </span>
+    </term>
+    <term id="t320" pos="ART" lemma="d">
+      <span>
+        <target id="w320"/>
+      </span>
+    </term>
+    <term id="t321" pos="NN" lemma="Ereignis">
+      <span>
+        <target id="w321"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d013.s019.t001"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00032021n"/>
+      </externalReferences>
+    </term>
+    <term id="t322" pos="ADV" lemma="schon">
+      <span>
+        <target id="w322"/>
+      </span>
+    </term>
+    <term id="t323" pos="PIAT" lemma="einige">
+      <span>
+        <target id="w323"/>
+      </span>
+    </term>
+    <term id="t324" pos="NN" lemma="Jahr">
+      <span>
+        <target id="w324"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d013.s019.t002"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="jahr"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00078738n"/>
+      </externalReferences>
+    </term>
+    <term id="t325" pos="VVINF" lemma="zurückliegen">
+      <span>
+        <target id="w325"/>
+      </span>
+    </term>
+    <term id="t326" pos="$," lemma=",">
+      <span>
+        <target id="w326"/>
+      </span>
+    </term>
+    <term id="t327" pos="ADV" lemma="so">
+      <span>
+        <target id="w327"/>
+      </span>
+    </term>
+    <term id="t328" pos="VVFIN" lemma="wehen">
+      <span>
+        <target id="w328"/>
+      </span>
+    </term>
+    <term id="t329" pos="ART" lemma="d">
+      <span>
+        <target id="w329"/>
+      </span>
+    </term>
+    <term id="t330" pos="NN" lemma="Bank">
+      <span>
+        <target id="w330"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d013.s019.t003"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="bank"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00008364n"/>
+      </externalReferences>
+    </term>
+    <term id="t331" pos="ADV" lemma="derzeit">
+      <span>
+        <target id="w331"/>
+      </span>
+    </term>
+    <term id="t332" pos="APPR" lemma="in">
+      <span>
+        <target id="w332"/>
+      </span>
+    </term>
+    <term id="t333" pos="ART" lemma="d">
+      <span>
+        <target id="w333"/>
+      </span>
+    </term>
+    <term id="t334" pos="NE" lemma="USA">
+      <span>
+        <target id="w334"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d013.s019.t004"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="vereinigte_staaten"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00003341n"/>
+      </externalReferences>
+    </term>
+    <term id="t335" pos="ART" lemma="ein">
+      <span>
+        <target id="w335"/>
+      </span>
+    </term>
+    <term id="t336" pos="ADJA" lemma="scharf">
+      <span>
+        <target id="w336"/>
+      </span>
+    </term>
+    <term id="t337" pos="NN" lemma="Wind">
+      <span>
+        <target id="w337"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d013.s019.t005"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="wind"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00002216n"/>
+      </externalReferences>
+    </term>
+    <term id="t338" pos="PTKVZ" lemma="entgegen">
+      <span>
+        <target id="w338"/>
+      </span>
+    </term>
+    <term id="t339" pos="$." lemma=".">
+      <span>
+        <target id="w339"/>
+      </span>
+    </term>
+    <term id="t340" pos="NN" lemma="Investor">
+      <span>
+        <target id="w340"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d013.s020.t001"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="anleger_(finanzmarkt)"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00047367n"/>
+      </externalReferences>
+    </term>
+    <term id="t341" pos="KON" lemma="und">
+      <span>
+        <target id="w341"/>
+      </span>
+    </term>
+    <term id="t342" pos="NN" lemma="Aufsichtsbehörde">
+      <span>
+        <target id="w342"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d013.s020.t002"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="aufsichtsbehã¶rde"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:04689827n"/>
+      </externalReferences>
+    </term>
+    <term id="t343" pos="VAFIN" lemma="haben">
+      <span>
+        <target id="w343"/>
+      </span>
+    </term>
+    <term id="t344" pos="ADJA" lemma="unzählig">
+      <span>
+        <target id="w344"/>
+      </span>
+    </term>
+    <term id="t345" pos="NN" lemma="Klage">
+      <span>
+        <target id="w345"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d013.s020.t003"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00001134n"/>
+      </externalReferences>
+    </term>
+    <term id="t346" pos="VVPP" lemma="anstrengen">
+      <span>
+        <target id="w346"/>
+      </span>
+    </term>
+    <term id="t347" pos="$," lemma=",">
+      <span>
+        <target id="w347"/>
+      </span>
+    </term>
+    <term id="t348" pos="KOUI" lemma="um">
+      <span>
+        <target id="w348"/>
+      </span>
+    </term>
+    <term id="t349" pos="NN" lemma="Wiedergutmachung">
+      <span>
+        <target id="w349"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d013.s020.t004"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="wiedergutmachung"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:04447464n"/>
+      </externalReferences>
+    </term>
+    <term id="t350" pos="PTKZU" lemma="zu">
+      <span>
+        <target id="w350"/>
+      </span>
+    </term>
+    <term id="t351" pos="VVINF" lemma="erhalten">
+      <span>
+        <target id="w351"/>
+      </span>
+    </term>
+    <term id="t352" pos="KON" lemma="oder">
+      <span>
+        <target id="w352"/>
+      </span>
+    </term>
+    <term id="t353" pos="NN" lemma="Verfehlung">
+      <span>
+        <target id="w353"/>
+      </span>
+    </term>
+    <term id="t354" pos="PTKZU" lemma="zu">
+      <span>
+        <target id="w354"/>
+      </span>
+    </term>
+    <term id="t355" pos="VVINF" lemma="ahnden">
+      <span>
+        <target id="w355"/>
+      </span>
+    </term>
+    <term id="t356" pos="$." lemma=".">
+      <span>
+        <target id="w356"/>
+      </span>
+    </term>
+    <term id="t357" pos="ART" lemma="d">
+      <span>
+        <target id="w357"/>
+      </span>
+    </term>
+    <term id="t358" pos="NN" lemma="Federal">
+      <span>
+        <target id="w358"/>
+      </span>
+    </term>
+    <term id="t359" pos="NE" lemma="Housing">
+      <span>
+        <target id="w359"/>
+      </span>
+    </term>
+    <term id="t360" pos="NN" lemma="Finance">
+      <span>
+        <target id="w360"/>
+      </span>
+    </term>
+    <term id="t361" pos="NE" lemma="Agency">
+      <span>
+        <target id="w361"/>
+      </span>
+    </term>
+    <term id="t362" pos="$(" lemma="(">
+      <span>
+        <target id="w362"/>
+      </span>
+    </term>
+    <term id="t363" pos="NE" lemma="FHFA">
+      <span>
+        <target id="w363"/>
+      </span>
+    </term>
+    <term id="t364" pos="$(" lemma=")">
+      <span>
+        <target id="w364"/>
+      </span>
+    </term>
+    <term id="t365" pos="VAFIN" lemma="haben">
+      <span>
+        <target id="w365"/>
+      </span>
+    </term>
+    <term id="t366" pos="ART" lemma="d">
+      <span>
+        <target id="w366"/>
+      </span>
+    </term>
+    <term id="t367" pos="ADJA" lemma="groß">
+      <span>
+        <target id="w367"/>
+      </span>
+    </term>
+    <term id="t368" pos="NN" lemma="Klagewelle">
+      <span>
+        <target id="w368"/>
+      </span>
+    </term>
+    <term id="t369" pos="VVPP" lemma="auslösen">
+      <span>
+        <target id="w369"/>
+      </span>
+    </term>
+    <term id="t370" pos="$." lemma=".">
+      <span>
+        <target id="w370"/>
+      </span>
+    </term>
+    <term id="t371" pos="PPER" lemma="Sie">
+      <span>
+        <target id="w371"/>
+      </span>
+    </term>
+    <term id="t372" pos="VVFIN" lemma="werfen">
+      <span>
+        <target id="w372"/>
+      </span>
+    </term>
+    <term id="t373" pos="CARD" lemma="18">
+      <span>
+        <target id="w373"/>
+      </span>
+    </term>
+    <term id="t374" pos="ADJA" lemma="international">
+      <span>
+        <target id="w374"/>
+      </span>
+    </term>
+    <term id="t375" pos="NN" lemma="Großbank">
+      <span>
+        <target id="w375"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d013.s022.t001"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="groãbank"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:04932279n"/>
+      </externalReferences>
+    </term>
+    <term id="t376" pos="PTKVZ" lemma="vor">
+      <span>
+        <target id="w376"/>
+      </span>
+    </term>
+    <term id="t377" pos="$," lemma=",">
+      <span>
+        <target id="w377"/>
+      </span>
+    </term>
+    <term id="t378" pos="PRELS" lemma="d">
+      <span>
+        <target id="w378"/>
+      </span>
+    </term>
+    <term id="t379" pos="CARD" lemma="zwei">
+      <span>
+        <target id="w379"/>
+      </span>
+    </term>
+    <term id="t380" pos="ADJA" lemma="staatlich">
+      <span>
+        <target id="w380"/>
+      </span>
+    </term>
+    <term id="t381" pos="NN" lemma="US-Immobilienfinanzierer">
+      <span>
+        <target id="w381"/>
+      </span>
+    </term>
+    <term id="t382" pos="NE" lemma="fannie_mae">
+      <span>
+        <target id="w382"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d013.s022.t002"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="fannie_mae"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00033638n"/>
+      </externalReferences>
+    </term>
+    <term id="t383" pos="KON" lemma="und">
+      <span>
+        <target id="w383"/>
+      </span>
+    </term>
+    <term id="t384" pos="NE" lemma="freddie_mac">
+      <span>
+        <target id="w384"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d013.s022.t003"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="freddie_mac"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00033911n"/>
+      </externalReferences>
+    </term>
+    <term id="t385" pos="APPR" lemma="bei">
+      <span>
+        <target id="w385"/>
+      </span>
+    </term>
+    <term id="t386" pos="NN" lemma="Hypothekengeschäften">
+      <span>
+        <target id="w386"/>
+      </span>
+    </term>
+    <term id="t387" pos="APPRART" lemma="im">
+      <span>
+        <target id="w387"/>
+      </span>
+    </term>
+    <term id="t388" pos="NN" lemma="Volumen">
+      <span>
+        <target id="w388"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d013.s022.t004"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="volumen"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00080229n"/>
+      </externalReferences>
+    </term>
+    <term id="t389" pos="APPR" lemma="von">
+      <span>
+        <target id="w389"/>
+      </span>
+    </term>
+    <term id="t390" pos="ADV" lemma="rund">
+      <span>
+        <target id="w390"/>
+      </span>
+    </term>
+    <term id="t391" pos="CARD" lemma="200">
+      <span>
+        <target id="w391"/>
+      </span>
+    </term>
+    <term id="t392" pos="NN" lemma="Milliarde">
+      <span>
+        <target id="w392"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d013.s022.t005"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="milliarde"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00000014n"/>
+      </externalReferences>
+    </term>
+    <term id="t393" pos="NN" lemma="Dollar">
+      <span>
+        <target id="w393"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d013.s022.t006"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="dollar"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00028114n"/>
+      </externalReferences>
+    </term>
+    <term id="t394" pos="VVPP" lemma="übervorteilen">
+      <span>
+        <target id="w394"/>
+      </span>
+    </term>
+    <term id="t395" pos="PTKZU" lemma="zu">
+      <span>
+        <target id="w395"/>
+      </span>
+    </term>
+    <term id="t396" pos="VAINF" lemma="haben">
+      <span>
+        <target id="w396"/>
+      </span>
+    </term>
+    <term id="t397" pos="$." lemma=".">
+      <span>
+        <target id="w397"/>
+      </span>
+    </term>
+    <term id="t398" pos="ADV" lemma="auch">
+      <span>
+        <target id="w398"/>
+      </span>
+    </term>
+    <term id="t399" pos="ART" lemma="d">
+      <span>
+        <target id="w399"/>
+      </span>
+    </term>
+    <term id="t400" pos="NE" lemma="Deutsche_Bank">
+      <span>
+        <target id="w400"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d013.s023.t001"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="deutsche_bank"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:03315023n"/>
+      </externalReferences>
+    </term>
+    <term id="t401" pos="VMFIN" lemma="müssen">
+      <span>
+        <target id="w401"/>
+      </span>
+    </term>
+    <term id="t402" pos="PRF" lemma="er">
+      <span>
+        <target id="w402"/>
+      </span>
+    </term>
+    <term id="t403" pos="ART" lemma="ein">
+      <span>
+        <target id="w403"/>
+      </span>
+    </term>
+    <term id="t404" pos="NN" lemma="Klage">
+      <span>
+        <target id="w404"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d013.s023.t002"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00001134n"/>
+      </externalReferences>
+    </term>
+    <term id="t405" pos="ART" lemma="d">
+      <span>
+        <target id="w405"/>
+      </span>
+    </term>
+    <term id="t406" pos="NE" lemma="FHFA">
+      <span>
+        <target id="w406"/>
+      </span>
+    </term>
+    <term id="t407" pos="VVFIN" lemma="stellen">
+      <span>
+        <target id="w407"/>
+      </span>
+    </term>
+    <term id="t408" pos="$," lemma=",">
+      <span>
+        <target id="w408"/>
+      </span>
+    </term>
+    <term id="t409" pos="ADV" lemma="hier">
+      <span>
+        <target id="w409"/>
+      </span>
+    </term>
+    <term id="t410" pos="VVFIN" lemma="gehen">
+      <span>
+        <target id="w410"/>
+      </span>
+    </term>
+    <term id="t411" pos="PPER" lemma="es">
+      <span>
+        <target id="w411"/>
+      </span>
+    </term>
+    <term id="t412" pos="APPR" lemma="um">
+      <span>
+        <target id="w412"/>
+      </span>
+    </term>
+    <term id="t413" pos="PIAT" lemma="mehrere">
+      <span>
+        <target id="w413"/>
+      </span>
+    </term>
+    <term id="t414" pos="NN" lemma="Geschäft">
+      <span>
+        <target id="w414"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d013.s023.t003"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00014152n"/>
+      </externalReferences>
+    </term>
+    <term id="t415" pos="APPRART" lemma="im">
+      <span>
+        <target id="w415"/>
+      </span>
+    </term>
+    <term id="t416" pos="NN" lemma="Wert">
+      <span>
+        <target id="w416"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d013.s023.t004"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="wert_(wirtschaft)"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00029680n"/>
+      </externalReferences>
+    </term>
+    <term id="t417" pos="APPR" lemma="von">
+      <span>
+        <target id="w417"/>
+      </span>
+    </term>
+    <term id="t418" pos="ADV" lemma="insgesamt">
+      <span>
+        <target id="w418"/>
+      </span>
+    </term>
+    <term id="t419" pos="CARD" lemma="@card@">
+      <span>
+        <target id="w419"/>
+      </span>
+    </term>
+    <term id="t420" pos="NN" lemma="Milliarde">
+      <span>
+        <target id="w420"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d013.s023.t005"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="milliarde"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00000014n"/>
+      </externalReferences>
+    </term>
+    <term id="t421" pos="NN" lemma="Dollar">
+      <span>
+        <target id="w421"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d013.s023.t006"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="dollar"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00028114n"/>
+      </externalReferences>
+    </term>
+    <term id="t422" pos="APPR" lemma="aus">
+      <span>
+        <target id="w422"/>
+      </span>
+    </term>
+    <term id="t423" pos="ART" lemma="d">
+      <span>
+        <target id="w423"/>
+      </span>
+    </term>
+    <term id="t424" pos="NN" lemma="Jahr">
+      <span>
+        <target id="w424"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d013.s023.t007"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="jahr"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00078738n"/>
+      </externalReferences>
+    </term>
+    <term id="t425" pos="CARD" lemma="2005">
+      <span>
+        <target id="w425"/>
+      </span>
+    </term>
+    <term id="t426" pos="KON" lemma="bis">
+      <span>
+        <target id="w426"/>
+      </span>
+    </term>
+    <term id="t427" pos="CARD" lemma="@card@">
+      <span>
+        <target id="w427"/>
+      </span>
+    </term>
+    <term id="t428" pos="$." lemma=".">
+      <span>
+        <target id="w428"/>
+      </span>
+    </term>
+    <term id="t429" pos="ART" lemma="d">
+      <span>
+        <target id="w429"/>
+      </span>
+    </term>
+    <term id="t430" pos="NN" lemma="Aufsichtsbehörde">
+      <span>
+        <target id="w430"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d013.s024.t001"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="aufsichtsbehã¶rde"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:04689827n"/>
+      </externalReferences>
+    </term>
+    <term id="t431" pos="VVPP" lemma="verlangen">
+      <span>
+        <target id="w431"/>
+      </span>
+    </term>
+    <term id="t432" pos="$," lemma=",">
+      <span>
+        <target id="w432"/>
+      </span>
+    </term>
+    <term id="t433" pos="KOUS" lemma="dass">
+      <span>
+        <target id="w433"/>
+      </span>
+    </term>
+    <term id="t434" pos="ART" lemma="d">
+      <span>
+        <target id="w434"/>
+      </span>
+    </term>
+    <term id="t435" pos="NN" lemma="Frankfurter">
+      <span>
+        <target id="w435"/>
+      </span>
+    </term>
+    <term id="t436" pos="APPR" lemma="für">
+      <span>
+        <target id="w436"/>
+      </span>
+    </term>
+    <term id="t437" pos="$(" lemma="&quot;">
+      <span>
+        <target id="w437"/>
+      </span>
+    </term>
+    <term id="t438" pos="ADJA" lemma="substantiell">
+      <span>
+        <target id="w438"/>
+      </span>
+    </term>
+    <term id="t439" pos="NN" lemma="Verlust">
+      <span>
+        <target id="w439"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d013.s024.t002"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00052050n"/>
+      </externalReferences>
+    </term>
+    <term id="t440" pos="$(" lemma="&quot;">
+      <span>
+        <target id="w440"/>
+      </span>
+    </term>
+    <term id="t441" pos="VVINF" lemma="geradestehen">
+      <span>
+        <target id="w441"/>
+      </span>
+    </term>
+    <term id="t442" pos="$," lemma=",">
+      <span>
+        <target id="w442"/>
+      </span>
+    </term>
+    <term id="t443" pos="KOUI" lemma="ohne">
+      <span>
+        <target id="w443"/>
+      </span>
+    </term>
+    <term id="t444" pos="ADV" lemma="allerdings">
+      <span>
+        <target id="w444"/>
+      </span>
+    </term>
+    <term id="t445" pos="ART" lemma="ein">
+      <span>
+        <target id="w445"/>
+      </span>
+    </term>
+    <term id="t446" pos="ADJA" lemma="genau">
+      <span>
+        <target id="w446"/>
+      </span>
+    </term>
+    <term id="t447" pos="NN" lemma="Summe">
+      <span>
+        <target id="w447"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d013.s024.t003"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00003601n"/>
+      </externalReferences>
+    </term>
+    <term id="t448" pos="PTKZU" lemma="zu">
+      <span>
+        <target id="w448"/>
+      </span>
+    </term>
+    <term id="t449" pos="VVINF" lemma="nennen">
+      <span>
+        <target id="w449"/>
+      </span>
+    </term>
+    <term id="t450" pos="$." lemma=".">
+      <span>
+        <target id="w450"/>
+      </span>
+    </term>
+    <term id="t451" pos="ART" lemma="d">
+      <span>
+        <target id="w451"/>
+      </span>
+    </term>
+    <term id="t452" pos="NN" lemma="Deutsche_Bank">
+      <span>
+        <target id="w452"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d013.s025.t001"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="deutsche_bank"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:03315023n"/>
+      </externalReferences>
+    </term>
+    <term id="t453" pos="VAFIN" lemma="haben">
+      <span>
+        <target id="w453"/>
+      </span>
+    </term>
+    <term id="t454" pos="ART" lemma="d">
+      <span>
+        <target id="w454"/>
+      </span>
+    </term>
+    <term id="t455" pos="NN" lemma="Forderung">
+      <span>
+        <target id="w455"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d013.s025.t002"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="forderung"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:04465692n"/>
+      </externalReferences>
+    </term>
+    <term id="t456" pos="KOKOM" lemma="als">
+      <span>
+        <target id="w456"/>
+      </span>
+    </term>
+    <term id="t457" pos="ADJD" lemma="haltlos">
+      <span>
+        <target id="w457"/>
+      </span>
+    </term>
+    <term id="t458" pos="VVPP" lemma="zurückweisen">
+      <span>
+        <target id="w458"/>
+      </span>
+    </term>
+    <term id="t459" pos="KON" lemma="und">
+      <span>
+        <target id="w459"/>
+      </span>
+    </term>
+    <term id="t460" pos="VVFIN" lemma="erklären">
+      <span>
+        <target id="w460"/>
+      </span>
+    </term>
+    <term id="t461" pos="$," lemma=",">
+      <span>
+        <target id="w461"/>
+      </span>
+    </term>
+    <term id="t462" pos="PRF" lemma="er">
+      <span>
+        <target id="w462"/>
+      </span>
+    </term>
+    <term id="t463" pos="VVINF" lemma="wehren">
+      <span>
+        <target id="w463"/>
+      </span>
+    </term>
+    <term id="t464" pos="PTKZU" lemma="zu">
+      <span>
+        <target id="w464"/>
+      </span>
+    </term>
+    <term id="t465" pos="VMINF" lemma="wollen">
+      <span>
+        <target id="w465"/>
+      </span>
+    </term>
+    <term id="t466" pos="$." lemma=".">
+      <span>
+        <target id="w466"/>
+      </span>
+    </term>
+  </terms>
+</NAF>

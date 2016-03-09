@@ -1,0 +1,1304 @@
+##################################################
+START: 2015-10-01T12:36:24CEST
+##################################################
+Processing semcor16
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown1/br-k13.naf
+/usr/local/lib/python2.7/dist-packages/numpy/core/_methods.py:55: RuntimeWarning: Mean of empty slice.
+  warnings.warn("Mean of empty slice.", RuntimeWarning)
+/usr/local/lib/python2.7/dist-packages/numpy/core/_methods.py:67: RuntimeWarning: invalid value encountered in double_scalars
+  ret = ret.dtype.type(ret / rcount)
+/usr/local/lib/python2.7/dist-packages/scipy/stats/stats.py:2436: RuntimeWarning: invalid value encountered in double_scalars
+  r = r_num / r_den
+/usr/local/lib/python2.7/dist-packages/scipy/stats/stats.py:2446: RuntimeWarning: invalid value encountered in double_scalars
+  prob = betai(0.5*df, 0.5, df / (df + t_squared))
+error processing command: grep "^n't%4" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^n't%4" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^at_the_same_time%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^at_the_same_time%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^pajamas%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^more_than%4" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown1/br-k09.naf
+error processing command: grep "^as_good_as%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^as_good_as%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^dismounted%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^dismounted%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^all_of%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^all_of%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^in_terms_of%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^in_terms_of%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^soaking%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^retreating%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^cursing%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^else%4" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^lowlying%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^lowlying%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^make_one's_way%2" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^make_one's_way%2" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^the_british%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown1/br-f43.naf
+error processing command: grep "^consist_of%2" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^consist_of%2" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^simpleminded%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^simpleminded%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^better_known%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^better_known%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^subject_to%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^subject_to%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^all_but%4" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^for_one_thing%4" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^not_only%4" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^condensed%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^condensed%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown1/br-e02.naf
+error processing command: grep "^resulting%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^added%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^in_addition%4" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^every_other%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^every_other%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^most%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^most%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^lengthening%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^lengthening%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^taken_over%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^record%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^record%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^largest%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^every_month%4" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^wellknown%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^wellknown%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^neither%4" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^rich_in%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^rich_in%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown1/br-j03.naf
+error processing command: grep "^lower%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^test%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^test%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^associated%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^crosssectional%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^crosssectional%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^with_respect_to%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^with_respect_to%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown1/br-e04.naf
+error processing command: grep "^in_relation_to%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^in_relation_to%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^although%4" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^how%4" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^incidental_to%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown1/br-j09.naf
+error processing command: grep "^as_expected%4" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown1/br-j12.naf
+error processing command: grep "^regard_to%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^rely_on%2" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^other_than%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^so%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^due_to%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown1/br-d01.naf
+error processing command: grep "^to_what_extent%4" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^at_ease%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^such_that%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown1/br-k18.naf
+error processing command: grep "^walkup%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^walkup%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^hairtonic%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^hairtonic%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^exboyfriend%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^lowdown%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^lowdown%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^pay_attention%2" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^pay_attention%2" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^twotime%2" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^twotime%2" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^a_hundred%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^named%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^weatherbeaten%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^weatherbeaten%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown1/br-d04.naf
+error processing command: grep "^that_is%4" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^wherefore%4" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^compelled%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^compelled%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^less_than%4" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown1/br-e29.naf
+error processing command: grep "^called%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^boileddown%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^boileddown%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^recommended%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^suggested%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^furnishings%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^luxury%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^business%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^business%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^equivalent_to%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^equivalent_to%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown1/br-j23.naf
+error processing command: grep "^dominantly%4" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^in_the_last_analysis%4" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^highest%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^such_as%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^promised%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^selfcontained%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^selfcontained%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^non%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^non%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^secularized%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^oldest%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^inter%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^inter%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^conserving%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown1/br-j22.naf
+error processing command: grep "^not_yet%4" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^selfdiscipline%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^selfdiscipline%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^farm%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^farm%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^modernizing%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^modernizing%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown1/br-j02.naf
+error processing command: grep "^cooled%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^cooled%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^see%4" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown1/br-k29.naf
+error processing command: grep "^printed%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^newest%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^imagined%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^with_authority%4" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^fellow%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^fellow%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^swarming_with%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^swarming_with%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^crawling%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^crawling%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^quarter%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^quarter%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^curdling%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown1/br-p01.naf
+error processing command: grep "^whirling%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^puckered%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^in_opposition%4" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^one_and_the_same%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^gloves%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^creaking%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^fluttering%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^fluttering%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^biggest%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown1/br-f10.naf
+error processing command: grep "^ridden%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^ridden%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^millions%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^as_many%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^as_many%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown1/br-k11.naf
+error processing command: grep "^freezing%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^freezing%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^stretching%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^sopping%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^rubberized%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^the_matter%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^the_matter%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^rebel%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^crumbled%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown1/br-j06.naf
+error processing command: grep "^resublimed%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^evacuated%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^purified%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^as_a_whole%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^sealed_off%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^thermostated%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown1/br-a12.naf
+error processing command: grep "^out_of_action%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^in_trouble%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^controlling%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^controlling%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^call_upon%2" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^call_upon%2" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^in_progress%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown1/br-k24.naf
+error processing command: grep "^doing%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^doing%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown1/br-f19.naf
+error processing command: grep "^in_proportion_to%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^frontier%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^frontier%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^robert_e_lee%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^robert_e_lee%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^rebelling%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^semi%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^semi%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^willynilly%4" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^willynilly%4" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^expanding%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^dominated_by%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^dominated_by%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^probing%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^probing%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^the_good_old_days%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown1/br-k07.naf
+error processing command: grep "^why%4" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown1/br-d02.naf
+error processing command: grep "^selfdestruction%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^selfdestruction%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^in_earnest%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^at_issue%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown1/br-a01.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown1/br-j57.naf
+error processing command: grep "^in_a_sense%4" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^wellread%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^wellread%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^goods%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown1/br-k25.naf
+error processing command: grep "^brokenbacked%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^brokenbacked%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^dripping%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^surprising%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^surprising%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^without_fear%4" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^else%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^in_a_moment%4" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown1/br-j17.naf
+error processing command: grep "^produced%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown1/br-j70.naf
+error processing command: grep "^pilot%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^pilot%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^indicative_of%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^indicative_of%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown1/br-m01.naf
+error processing command: grep "^brother%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^brother%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^facetoface%4" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^facetoface%4" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^at_first%4" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^longdistance%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^longdistance%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^held_up%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^presumed%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown1/br-j53.naf
+error processing command: grep "^out_of_focus%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^in_the_head%4" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown1/br-a11.naf
+error processing command: grep "^in_the_middle%4" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^at_the_start%4" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^estimated%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^pm%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^rival%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^rival%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^twentyone%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^twentyone%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^centerfield%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown1/br-j52.naf
+error processing command: grep "^turn_into%2" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^turn_into%2" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown1/br-j55.naf
+error processing command: grep "^nearer%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^speak_to%2" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^speak_to%2" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^a_thousand%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^hills%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown1/br-b13.naf
+error processing command: grep "^toe%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^pumps%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^sung%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^dabble_in%2" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^dabble_in%2" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^knickknacks%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^knickknacks%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^outofbounds%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^outofbounds%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown1/br-k19.naf
+error processing command: grep "^pointblank%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^pointblank%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^good_condition%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^a_hundred_thousand%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown1/br-k14.naf
+error processing command: grep "^scrap%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^reclining%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^every_day%4" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^acquainted_with%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown1/br-j56.naf
+error processing command: grep "^proposed%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^smallest%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^community%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^community%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^to_the_north%4" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown1/br-k10.naf
+error processing command: grep "^folded%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown1/br-k03.naf
+error processing command: grep "^triggerhappy%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^triggerhappy%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^country%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^country%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^at_birth%4" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^at_birth%4" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^mountain%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^supplies%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^supplies%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^a_million%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown1/br-k02.naf
+error processing command: grep "^sweaty%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^visiting%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^the_french%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^the_french%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown1/br-l12.naf
+error processing command: grep "^clearcut%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^clearcut%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^perspiring%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown1/br-f03.naf
+error processing command: grep "^bc%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^bc%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown1/br-j59.naf
+error processing command: grep "^threedimensional%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^threedimensional%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^expropriated%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^obliterating%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^opt_for%2" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^opt_for%2" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^pure_and_simple%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^atomlike%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown1/br-e24.naf
+error processing command: grep "^oddly_enough%4" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^in_full_view%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^lessening%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^lessening%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown1/br-k04.naf
+error processing command: grep "^avenging%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^avenging%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^lest%4" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^in_arrears%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^in_arrears%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^rebuilt%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^wellkept%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^wellkept%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^repaired%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^ornamented%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^in_hand%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^too_much%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown1/br-d03.naf
+error processing command: grep "^well_known%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^well_known%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown1/br-g01.naf
+error processing command: grep "^share_in%2" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^share_in%2" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^pre%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^pre%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^anglosaxon%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^anglosaxon%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^a_people%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown1/br-j19.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown1/br-a14.naf
+error processing command: grep "^head%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^head%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^headon%4" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^headon%4" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown1/br-j07.naf
+error processing command: grep "^open_to%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^nexttolast%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^nexttolast%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^extrapolated%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown1/br-l11.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown1/br-g15.naf
+error processing command: grep "^quivering%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^devoid_of%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^blueeyed%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^blueeyed%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown1/br-k06.naf
+error processing command: grep "^sprawled%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^familiar_with%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^greening%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^wreathed%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown1/br-r09.naf
+error processing command: grep "^hors_de_combat%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^long%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^carping%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown1/br-k17.naf
+error processing command: grep "^marshaling%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^marshaling%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^tugofwar%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^tugofwar%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^morning%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^blind_man%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown1/br-j37.naf
+error processing command: grep "^post%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^post%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^selfinterest%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^selfinterest%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^nonparty%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^nonparty%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown1/br-k16.naf
+error processing command: grep "^empty_of%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^highpitched%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^highpitched%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^lose_control%2" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^lose_control%2" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^infested%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^mooncurser%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^mooncurser%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^manofwar%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^manofwar%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^freed%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^chevauxdefrise%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^chevauxdefrise%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^choking%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^choking%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^plagued%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^free_of%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^perfectability%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown1/br-e01.naf
+error processing command: grep "^pulled%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^pinpoint%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^razorsharp%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^razorsharp%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown1/br-n05.naf
+error processing command: grep "^darkskinned%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^darkskinned%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^selfwill%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^selfwill%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^brokendown%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^brokendown%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown1/br-j20.naf
+error processing command: grep "^multi%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^multi%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown1/br-j04.naf
+error processing command: grep "^in_accord%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^in_accord%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^adsorbed%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown1/br-k05.naf
+error processing command: grep "^once%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^wasting_time%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^downed%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^curled_up%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^surfeited%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^selfindulgence%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^selfindulgence%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown1/br-j16.naf
+error processing command: grep "^walled%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown1/br-m02.naf
+error processing command: grep "^sorry_for%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^whining%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown1/br-j05.naf
+error processing command: grep "^oversimplified%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^peptizing%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^uptodate%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^uptodate%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^at_home%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^at_home%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^emulsified%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^cleaned%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown1/br-j13.naf
+error processing command: grep "^bunched%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^chosen%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown1/br-a15.naf
+error processing command: grep "^ways%4" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^switchhitter%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^switchhitter%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^each_month%4" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown1/br-k01.naf
+error processing command: grep "^peeling%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^each_day%4" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^with_attention%4" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^in_no_way%4" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^get_into_bed%2" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^get_into_bed%2" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^selfconsciousness%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^selfconsciousness%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^in_general%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown1/br-k28.naf
+error processing command: grep "^moving%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^moving%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^how_come%4" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^goingover%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^goingover%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^unworn%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^marching%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^marching%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^fool%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^fool%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown1/br-a02.naf
+error processing command: grep "^longrange%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^longrange%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown1/br-k12.naf
+error processing command: grep "^departing%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^autumn%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^autumn%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^barren_of%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^bloated%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^thick_with%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^thick_with%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^unrevealing%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown1/br-k26.naf
+error processing command: grep "^grayed%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^whole_thing%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown1/br-j18.naf
+error processing command: grep "^divisible_by%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^divisible_by%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown1/br-c02.naf
+error processing command: grep "^on_her_own%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^fun%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown1/br-j14.naf
+error processing command: grep "^present_time%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^make_possible%2" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown1/br-j08.naf
+error processing command: grep "^intra%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^intra%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^anesthetized%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^disseminating%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^airconditioning%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^airconditioning%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown1/br-g11.naf
+error processing command: grep "^get_tough%2" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^get_tough%2" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown1/br-k20.naf
+error processing command: grep "^cooing%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^chattering%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^caressing%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^pervading%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^lowwater_mark%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^lowwater_mark%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown1/br-j01.naf
+error processing command: grep "^emitting%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^see_also%4" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown1/br-k21.naf
+error processing command: grep "^rotting%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^rotting%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^stumbling%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^selfconscious%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^selfconscious%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^with_impatience%4" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown1/br-j10.naf
+error processing command: grep "^northamerican%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^northamerican%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^readymade%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^readymade%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^fertilized%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^in_full_swing%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^scavenging%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^finegrained%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^finegrained%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown1/br-c04.naf
+error processing command: grep "^respect_to%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^finest%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^touring%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown1/br-j15.naf
+error processing command: grep "^suggestive_of%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^transversus%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^transversus%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown1/br-c01.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown1/br-k08.naf
+error processing command: grep "^and_others%4" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^with_pride%4" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown1/br-k15.naf
+error processing command: grep "^scratched%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^wares%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^iced%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^iced%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown1/br-a13.naf
+error processing command: grep "^leftfield%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^rightfield%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^recordbook%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^recordbook%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^provide_for%2" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^provide_for%2" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown1/br-j58.naf
+error processing command: grep "^lingering%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^reference_to%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^quakeress%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^quakeress%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^intent_on%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown1/br-r08.naf
+error processing command: grep "^affianced%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^guest%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^thereupon%4" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^the_english%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^refrain_from%2" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^refrain_from%2" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^heavyhanded%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^heavyhanded%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^known_as%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^reminiscent_of%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^amoral%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown1/br-b20.naf
+error processing command: grep "^enemy%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^enemy%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^crash%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^crash%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^infighting%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^infighting%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown1/br-k23.naf
+error processing command: grep "^unreeling%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^paling%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^paling%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^bordering%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^bordering%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown1/br-e21.naf
+error processing command: grep "^rundown%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^rundown%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^state%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^state%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^in_width%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^adjoining%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^most_desirable%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^most_desirable%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown1/br-r05.naf
+error processing command: grep "^bit%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^bit%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^strangely_enough%4" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown1/br-j11.naf
+error processing command: grep "^maturing%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^maturing%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^in_length%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown1/br-k22.naf
+error processing command: grep "^birthcontrol%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^birthcontrol%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^the_irish%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^keep_waiting%2" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^keep_waiting%2" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown1/br-j54.naf
+error processing command: grep "^in_embryo%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^in_embryo%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^janusfaced%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^janusfaced%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^welldefined%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^welldefined%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown1/br-r06.naf
+error processing command: grep "^consist_in%2" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^consist_in%2" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown1/br-r07.naf
+error processing command: grep "^cookedover%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^cookedover%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^gaspingly%4" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^funny%4" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^ish%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^ish%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown1/br-j60.naf
+error processing command: grep "^intertwined%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^retail%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^household%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^household%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^fashions%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown1/br-h01.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown1/br-k27.naf
+error processing command: grep "^repair_to%2" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^repair_to%2" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^with_that%4" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown2/br-h16.naf
+error processing command: grep "^competing%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^condemned%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^pretrial%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown2/br-e30.naf
+error processing command: grep "^relation_to%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^midweek%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^on_leave%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^set_up%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^bluecollar%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^bluecollar%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^openended%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^openended%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown2/br-j34.naf
+error processing command: grep "^wideranging%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^wideranging%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^practicing%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^read%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^read%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^overlapping%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^many_more%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown2/br-j41.naf
+error processing command: grep "^in_check%4" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^seeking%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^felt%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^felt%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown2/br-n15.naf
+error processing command: grep "^prearranged%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^attack%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^attack%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^maneuvering%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^maneuvering%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown2/br-f15.naf
+error processing command: grep "^in_agreement%4" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^may_not%2" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^may_not%2" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^selfcontrol%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^selfcontrol%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^general_agreement%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^general_agreement%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown2/br-g16.naf
+error processing command: grep "^compensatory%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^remembered%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^suchandsuch%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^suchandsuch%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown2/br-g19.naf
+error processing command: grep "^first_and_foremost%4" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^hardboiled%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^hardboiled%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^bruised%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^permeated%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown2/br-j38.naf
+error processing command: grep "^declining%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^declining%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown2/br-h18.naf
+error processing command: grep "^called_for%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^under_control%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^under_control%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown2/br-g18.naf
+error processing command: grep "^speak_of%2" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^speak_of%2" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown2/br-n14.naf
+error processing command: grep "^same%4" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^locked%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^closer%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^closer%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown2/br-e23.naf
+error processing command: grep "^heavyweight%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^wideopen%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^wideopen%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^most_recently%4" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown2/br-g23.naf
+error processing command: grep "^appeal_to%2" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^appeal_to%2" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^coldblooded%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^coldblooded%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^wonder_drug%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^wonder_drug%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^halfmoon%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^halfmoon%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^with_confidence%4" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^may%2" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^may%2" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^must_not%2" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^must_not%2" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown2/br-n11.naf
+error processing command: grep "^slightest%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown2/br-h24.naf
+error processing command: grep "^on_time%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^on_duty%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown2/br-f08.naf
+error processing command: grep "^selfassertive%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^selfassertive%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^bed_hop%2" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^bed_hop%2" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown2/br-h21.naf
+error processing command: grep "^air%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^reserve%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown2/br-h11.naf
+error processing command: grep "^when%4" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^as_an_alternative%4" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^solidstate%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^solidstate%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown2/br-r04.naf
+error processing command: grep "^half_a_dozen%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^power%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^power%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^babbiting%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^babbiting%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^postponed%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown2/br-f20.naf
+error processing command: grep "^slum%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^slum%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^pressurecooker%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^pressurecooker%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^convicted%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^soldout%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^soldout%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^county%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^county%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^ballooning%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^ballooning%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^hijacking%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^bonded%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown2/br-j35.naf
+error processing command: grep "^based_on%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^trans%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^trans%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown2/br-l15.naf
+error processing command: grep "^the_bronx%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^pushing%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^find_fault_with%2" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^find_fault_with%2" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown2/br-f16.naf
+error processing command: grep "^toward_the_sea%4" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^onboard%4" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^in_view%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^deposed%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown2/br-f21.naf
+error processing command: grep "^sea%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^strewn%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^highanddry%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^highanddry%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown2/br-g12.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown2/br-e25.naf
+error processing command: grep "^rotating%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^rotating%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^pulsed%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown2/br-p07.naf
+error processing command: grep "^wildeyed%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^wildeyed%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^must%2" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^must%2" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^battleax%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^battleax%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^could%2" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^could%2" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^would%2" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^would%2" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^might%2" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^might%2" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^should%2" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^should%2" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^within_reason%4" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^with_sympathy%4" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown2/br-l17.naf
+error processing command: grep "^lefthand%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^lefthand%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^connecting%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^aboutface%2" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^aboutface%2" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^assembled%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^squadroom%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^squadroom%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^in_charge%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^scrawled%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown2/br-g20.naf
+error processing command: grep "^receiving%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^receiving%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^guerrilla%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown2/br-l08.naf
+error processing command: grep "^shaking%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^sound%4" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown2/br-f17.naf
+error processing command: grep "^develop_into%2" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^develop_into%2" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^the_swiss%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown2/br-l13.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown2/br-j31.naf
+error processing command: grep "^scolding%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^in_the_final_analysis%4" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^largescale%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^largescale%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^docked%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown2/br-n17.naf
+error processing command: grep "^lowpitched%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^lowpitched%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^in_color%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^in_color%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^highpowered%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^highpowered%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^had_better%2" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^had_better%2" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^gravel%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^deputy%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^deputy%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown2/br-h17.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown2/br-g14.naf
+error processing command: grep "^breaking%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^cast%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^faery%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^faery%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^embowered%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^latched%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^sunshiny%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^hoofmark%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^hoofmark%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown2/br-n16.naf
+error processing command: grep "^longer%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^tinted%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^tinted%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^darkhaired%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^darkhaired%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^swirling%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^righthand%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^righthand%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^screeching%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^kneeling%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^kneeling%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^hyphenated%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^halted%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^halted%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^baptist%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown2/br-j30.naf
+error processing command: grep "^tailormake%2" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^tailormake%2" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown2/br-g22.naf
+error processing command: grep "^accelerating%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^rugged_individualist%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^rugged_individualist%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^shortrange%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^shortrange%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^of_our_own%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown2/br-f22.naf
+error processing command: grep "^armchair%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^of_their_own%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^imbued%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^imbued%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^illustrated%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^illustrated%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown2/br-f13.naf
+error processing command: grep "^smallscale%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^smallscale%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^so_much%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown2/br-l14.naf
+error processing command: grep "^twentytwo%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^twentytwo%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^outoftheway%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^outoftheway%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^waving%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown2/br-h12.naf
+error processing command: grep "^deducted%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown2/br-f23.naf
+error processing command: grep "^imperfectability%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^selfdetermination%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^selfdetermination%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^backwoods%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^mob%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^mob%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown2/br-f14.naf
+error processing command: grep "^group%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^group%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^fringe%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^fringe%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^calming%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^wheels%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown2/br-p24.naf
+error processing command: grep "^stands%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^boiling%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^boiling%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^flatfooted%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^flatfooted%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^out_of_commission%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown2/br-n09.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown2/br-e22.naf
+error processing command: grep "^dancing%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^dancing%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown2/br-e26.naf
+error processing command: grep "^southcentral%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^southcentral%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^onward%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^galvanizing%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^galvanizing%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown2/br-h13.naf
+error processing command: grep "^priced%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^priced%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^twoway%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^twoway%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^traveling%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^count_upon%2" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^count_upon%2" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^the_americas%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^sailing%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^land%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown2/br-g44.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown2/br-g21.naf
+error processing command: grep "^on_his_own%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^led%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^led%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^symptomatic_of%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown2/br-j29.naf
+error processing command: grep "^predicted%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^released%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown2/br-p12.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown2/br-n20.naf
+error processing command: grep "^balled%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^balled%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^shimmering%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^shimmering%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^swamped%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown2/br-j42.naf
+error processing command: grep "^made_use_of%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^implied%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown2/br-l16.naf
+error processing command: grep "^gathering%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown2/br-l09.naf
+error processing command: grep "^supplied_with%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^spreading%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown2/br-n12.naf
+error processing command: grep "^flailing%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^flailing%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown2/br-j32.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown2/br-g17.naf
+error processing command: grep "^not_long%4" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^enslaving%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^enslaving%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^desensitized%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown2/br-h15.naf
+error processing command: grep "^lowlevel%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^lowlevel%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^of_value%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown2/br-h09.naf
+error processing command: grep "^mineralized%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^expended%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown2/br-p10.naf
+error processing command: grep "^costume%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^costume%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^keep_from%2" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^keep_from%2" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^one_of_these_days%4" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown2/br-f24.naf
+error processing command: grep "^hitandrun%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^hitandrun%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^the_buddha%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^in_harmony%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^kidnaped%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^building%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^building%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^bamboo%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^bamboo%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^festering%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^festering%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown2/br-j33.naf
+error processing command: grep "^stored_up%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^deprived_of%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^subordinator%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown2/br-f25.naf
+error processing command: grep "^workingclass%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^workingclass%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^buttondown%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^buttondown%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown2/br-p09.naf
+error processing command: grep "^rolled_out%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown2/br-e27.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown2/br-h14.naf
+error processing command: grep "^grantinaid%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^grantinaid%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^abrupt_change%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^abrupt_change%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown2/br-e28.naf
+error processing command: grep "^regarding%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^regarding%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^followthrough%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^followthrough%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^bulk%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^bulk%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^frills%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^tuned%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^shortchange%2" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^shortchange%2" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown2/br-l10.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown2/br-g43.naf
+error processing command: grep "^researchable%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown2/br-f44.naf
+error processing command: grep "^worshiping%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^coopt%2" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^coopt%2" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^cooptation%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^cooptation%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^involved_with%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^countervailing%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown2/br-n10.naf
+error processing command: grep "^sourdough%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^hunkered_down%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^secured%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown2/br-e31.naf
+error processing command: grep "^trade%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^carryover%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^carryover%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^financed%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^exploding%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown2/br-l18.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown2/br-f33.naf
+error processing command: grep "^enrolled%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^reputed%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^to_what_degree%4" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown2/br-g39.naf
+error processing command: grep "^hearted%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^folk%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^folk%[35]" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^grow_into%2" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^grow_into%2" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown2/br-g28.naf
+error processing command: grep "^with_nostalgia%4" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown2/br-f18.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brown2/br-g31.naf
+error processing command: grep "^feeling_of_identity%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^feeling_of_identity%1" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^presume_to%2" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^presume_to%2" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-g07.naf
+error processing command: grep "^take_counsel%2" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^take_counsel%2" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-c12.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-c03.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-a22.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-g03.naf
+error processing command: grep "^ride_herd_on%2" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-n02.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-b02.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-a07.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-a06.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-n07.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-e10.naf
+error processing command: grep "^ran_into%2" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-h06.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-b17.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-b16.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-c11.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-b07.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-d12.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-b09.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-a35.naf
+error processing command: grep "^draw_on%2" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^draw_on%2" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-e14.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-b04.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-e19.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-a19.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-a44.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-a03.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-p08.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-d05.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-c06.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-b06.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-c14.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-e13.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-f01.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-j26.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-c08.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-d11.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-c07.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-c15.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-l04.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-a40.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-f06.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-e08.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-f12.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-d15.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-r01.naf
+error processing command: grep "^ought%2" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^ought%2" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+error processing command: grep "^poohpooh%2" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^poohpooh%2" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-a21.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-h04.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-a34.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-e16.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-b19.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-a20.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-d14.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-d09.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-b05.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-n01.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-a42.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-a09.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-c10.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-e18.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-n04.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-a04.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-e15.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-m06.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-e17.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-r02.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-b08.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-f02.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-b21.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-b10.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-l01.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-d13.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-l06.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-b14.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-f11.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-e06.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-j21.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-f09.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-h05.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-n06.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-g08.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-h02.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-d07.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-d10.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-m05.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-a10.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-j27.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-c17.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-d06.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-p03.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-b25.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-a08.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-c05.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-d16.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-g10.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-p06.naf
+error processing command: grep "^forebear%2" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^forebear%2" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-a16.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-a32.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-l03.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-c16.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-b26.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-e09.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-a29.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-e05.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-b15.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-a41.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-p02.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-a25.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-a17.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-c09.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-b11.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-f07.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-a38.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-a18.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-b22.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-a27.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-b27.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-d17.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-l07.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-a37.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-a43.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-r03.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-h03.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-j28.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-j25.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-a24.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-g13.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-b23.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-n03.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-b12.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-e20.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-a28.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-b18.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-e12.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-a33.naf
+error processing command: grep "^stay_away_from%2" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^stay_away_from%2" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-h07.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-b01.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-c13.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-e03.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-a39.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-p05.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-a05.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-d08.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-a36.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-g04.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-g06.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-p04.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-f04.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-l02.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-a26.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-g09.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-g05.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-m04.naf
+error processing command: grep "^birthe%2" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^birthe%2" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-h10.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-e07.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-l05.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-a30.naf
+error processing command: grep "^fingerpaint%2" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-3.0/dict/index.sense
+error processing command: grep "^fingerpaint%2" /home/postma/In_progress/mfs_classifier/resources/wordnets/WordNet-2.0/dict/index.sense
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-g02.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-a31.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-f05.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-b03.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-m03.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-h08.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-a23.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-j24.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-e11.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-b24.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semcor1.6/brownv/br-n08.naf
+##################################################
+END: 2015-10-01T13:08:49CEST
+##################################################
+Num corpus: 1
+Num files: 352
+Num total instances: 195188
+	Positive: 131591
+	Negative: 63597
+Features: MFS_confidence_IMS Entropy_sense_ranking_IMS num_senses idf jex pos sense_entropy correlation_confidences_semcor_and_IMS correlation_confidences_semcor_and_UKB MFS_confidence_UKB Entropy_sense_ranking_UKB SuperSense_for_MFS WND_for_MFS ratio_WND
+##################################################

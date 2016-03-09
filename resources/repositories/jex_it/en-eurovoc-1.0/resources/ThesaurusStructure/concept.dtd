@@ -1,0 +1,31 @@
+
+<!-- DTD pour les concepts d'une langue -->
+
+<!ELEMENT CONCEPT (RECORD+)>
+
+<!ELEMENT RECORD (TERME,SN?,UF?,PERM?,MT,BT,NT*,RT?)>
+
+<!ELEMENT TERME	(#PCDATA)>
+
+<!ELEMENT SN		(#PCDATA)>
+
+<!ELEMENT UF		(UF_EL+)>
+
+<!ELEMENT PERM		(PERM_EL+)>
+
+<!ELEMENT MT		(#PCDATA)>
+
+<!ELEMENT BT		(#PCDATA)>
+
+<!ELEMENT NT		(#PCDATA)>
+
+<!ELEMENT RT		(RT_EL+)>
+
+<!ATTLIST MT
+			ID			CDATA		#REQUIRED >
+
+<!ATTLIST BT
+			NIV			CDATA		#REQUIRED >
+
+<!ATTLIST NT
+			NIV			CDATA		#REQUIRED >

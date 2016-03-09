@@ -1,0 +1,10 @@
+feature	diff accuracy
+best_setting	MFS_confidence_IMS-correlation_confidences_semcor_and_IMS-idf-jex-pos-ratio_WND
+worst_value	0.510360706063
+best_value	0.646201074444
+-correlation_confidences_semcor_and_IMS	0.075
+-idf	0.033
+-ratio_WND	0.031
+-pos	0.018
+-jex	0.01
+-MFS_confidence_IMS	0.005

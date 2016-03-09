@@ -1,0 +1,100 @@
+from subprocess import check_output
+from math import log
+
+from supersense_list import SS as SS_mapping
+
+
+def get_mfs_for_lemma_pos(lemma,pos,path_to_index_sense):
+    if pos == 'n':      pos = '1'
+    elif pos == 'v':    pos = '2'
+    elif pos == 'a':    pos = '[35]'
+    elif pos == 'r':    pos = '4'
+    elif pos == '3':    pos = '[35]'
+    elif pos == '5':    pos = '[35]'
+    
+    cmd = 'grep "^%s%%%s" %s | grep " 1 " | cut -d" " -f1' % (lemma,pos,path_to_index_sense)
+    mfs = check_output(cmd, shell=True)
+    return mfs.strip()
+    
+def get_senses_for_lemma_pos(lemma,pos,path_to_index_sense):
+    if pos == 'n':      pos = '1'
+    elif pos == 'v':    pos = '2'
+    elif pos == 'a':    pos = '[35]'
+    elif pos == 'r':    pos = '4'
+    elif pos == '3':    pos = '[35]'
+    elif pos == '5':    pos = '[35]'
+    
+    cmd = 'grep "^%s%%%s" %s' % (lemma,pos,path_to_index_sense)
+    output = check_output(cmd, shell=True)
+    data = []
+    for line in output.splitlines():
+        #style%1:07:00:: 04249815 2 274
+        fields = line.split()
+        data.append(fields)
+    return data
+
+
+def entropy(list_of_floats, normalized=False,base=2):
+    '''
+    given a list of floats, the entropy is returned
+    
+    >>> entropy([0.2,0.2,0.2,0.2,0.2],normalized=True)
+    1.0
+    
+    >>> entropy([0.2,0.2,0.2,0.2,0.2],normalized=False)
+    2.321928094887362
+    
+    >>> entropy([])
+    0.0
+    
+    @requires: math.log 
+    
+    @type  list_of_floats: list
+    @param list_of_floats: list of floats. for example [0.5,0.5]
+    
+    @type  normalized: bool
+    @param normalized: if True, entropy is normalized from 0 to 1 (default
+    is False)
+    
+    @type  base: int
+    @param base: base of log (default is 2)
+
+    @rtype: float
+    @return: normalized entropy. 0.0 is returned if list is empty
+    '''
+    #if empty list, return 0.0:
+    if not list_of_floats:
+        return 0.0 
+    
+    #calculate Shannon Entropy (S) = -Si(piLnpi)
+    S = -1.0 * sum([ (p * ( log(p,base) ) )
+                  for p in list_of_floats])
+    
+    #normalize if needed
+    if normalized:
+        len_list_of_floats = len(list_of_floats)
+        if len_list_of_floats > 1:
+            S = S/log(len_list_of_floats,2)
+    
+    return S
+    
+def get_supersense_from_lexkey(this_lex_key):
+    #lexkey = face%1:08:00::
+    fields = this_lex_key.split(':')
+    ss_code = fields[1]
+    return SS_mapping.get(ss_code,'UNK')
+
+def load_WND_for_synsets(path_to_file):
+    WND_for_synset = {}
+    fd = open(path_to_file, 'r')
+    for line in fd:
+        fields = line.strip().split('\t')
+        synset = fields[0]
+        
+        #Normalising all POS for adjectives to 'a'
+        if synset[-1] == 's':
+            synset = synset[:-1]+'a'
+        
+        WND_for_synset[synset] = fields[1]
+    fd.close()
+    return WND_for_synset

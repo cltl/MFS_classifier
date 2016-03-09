@@ -1,0 +1,15 @@
+
+all
+number correct: 23
+num_instances: 100
+perc correct: 0.23
+
+v
+number correct: 10
+num_instances: 45
+perc correct: 0.222222222222
+
+n
+number correct: 13
+num_instances: 55
+perc correct: 0.236363636364

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="/home/postma/In_progress/mfs_classifier/resources/repositories/jex_it/en-eurovoc-1.0/documents/3.naf.txt">
+    <category code="5315" label="Community programme" weight="0.1323861447721305 ">
+        <BroaderTerm label="Community action"/>
+    </category>
+    <category code="4056" label="European Social Fund" weight="0.1289412701130404 ">
+        <BroaderTerm label="Structural Funds"/>
+    </category>
+    <category code="5283" label="EU Member State" weight="0.12522564565467487 "/>
+    <category code="3717"
+        label="European Foundation for the Improvement of Living and Working Conditions" weight="0.12468952629724112 ">
+        <BroaderTerm label="EU body or agency"/>
+    </category>
+    <category code="688" label="equal treatment" weight="0.12136958147111372 ">
+        <BroaderTerm label="social rights"/>
+        <RelatedTerm label="disabled person"/>
+        <RelatedTerm label="sexual minority"/>
+        <RelatedTerm label="anti-discriminatory measure"/>
+        <RelatedTerm label="foreign national"/>
+        <RelatedTerm label="migrant worker"/>
+        <RelatedTerm label="Social Policy Agreement"/>
+        <RelatedTerm label="European Employment Strategy"/>
+    </category>
+    <category code="3489" label="cooperation policy" weight="0.1197441596783291 "/>
+</document>

@@ -1,0 +1,8 @@
+feature	diff accuracy
+best_setting	Entropy_sense_ranking_UKB-MFS_confidence_UKB-jex-ratio_WND
+worst_value	0.577415599534
+best_value	0.732246798603
+-ratio_WND	0.075
+-MFS_confidence_UKB	0.069
+-Entropy_sense_ranking_UKB	0.038
+-jex	0.023

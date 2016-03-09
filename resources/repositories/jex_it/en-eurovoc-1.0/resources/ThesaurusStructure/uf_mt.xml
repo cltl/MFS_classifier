@@ -1,0 +1,2771 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE USED_FOR SYSTEM "used_for.dtd">
+<USED_FOR LNG="MT" VERSION="4_3">
+<RECORD>
+<DESCRIPTEUR_ID>5453</DESCRIPTEUR_ID>
+<UF><UF_EL>ajruplan tal-ġlied</UF_EL>
+<UF_EL>fighter</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1094</DESCRIPTEUR_ID>
+<UF><UF_EL>Assoċjazzjoni Latino-Amerikana ta' Integrazzjoni</UF_EL>
+<UF_EL>Assoċjazzjoni Latino-Amerikana ta' Kummerċ Ħieles [LAFTA]</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>8542</DESCRIPTEUR_ID>
+<UF><UF_EL>grupp ta' funzjonijiet AD</UF_EL>
+<UF_EL>grupp ta' funzjonijiet ta' amministraturi</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6269</DESCRIPTEUR_ID>
+<UF><UF_EL>evalwazzjoni komparattiva</UF_EL>
+<UF_EL>riċerka komparattiva</UF_EL>
+<UF_EL>tqabbil</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1874</DESCRIPTEUR_ID>
+<UF><UF_EL>il-Prinċipat ta’ Andorra</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>8470</DESCRIPTEUR_ID>
+<UF><UF_EL>konservazzjoni diġitali</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1838</DESCRIPTEUR_ID>
+<UF><UF_EL>L-Assoċjazzjoni tan-Nazzjonijiet tal-Ażja tax-Xlokk</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>8407</DESCRIPTEUR_ID>
+<UF><UF_EL>grupp ta' funzjonijiet AST</UF_EL>
+<UF_EL>grupp ta' funzjonijiet ta' assistenti</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>421</DESCRIPTEUR_ID>
+<UF><UF_EL>Aġenzija Ewropea tal-Produttività</UF_EL>
+<UF_EL>EANPC</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5657</DESCRIPTEUR_ID>
+<UF><UF_EL>kooperazzjoni bejn awtoritajiet lokali</UF_EL>
+<UF_EL>kooperazzjoni interkomunali</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5446</DESCRIPTEUR_ID>
+<UF><UF_EL>SAARC</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>7415</DESCRIPTEUR_ID>
+<UF><UF_EL>ACS</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>3312</DESCRIPTEUR_ID>
+<UF><UF_EL>rinunzja tal-awtorità tal-ġenituri</UF_EL>
+<UF_EL>tneħħija tal-awtorità tal-ġenituri</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1034</DESCRIPTEUR_ID>
+<UF><UF_EL>IAEA</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>2829</DESCRIPTEUR_ID>
+<UF><UF_EL>Organizzazzjoni Ewropea għall-bini ta' pjattaformi għat-tajran ta' inġenji spazjali.</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1455</DESCRIPTEUR_ID>
+<UF><UF_EL>Aġenzija speċjalizzata tan-NU</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4744</DESCRIPTEUR_ID>
+<UF><UF_EL>BIAf</UF_EL>
+<UF_EL>Grupp tal-Bank Afrikan tal-Iżvilupp</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4838</DESCRIPTEUR_ID>
+<UF><UF_EL>BEI</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6337</DESCRIPTEUR_ID>
+<UF><UF_EL>BAĊIE</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5455</DESCRIPTEUR_ID>
+<UF><UF_EL>BĊE</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5460</DESCRIPTEUR_ID>
+<UF><UF_EL>Bank Ewropew għar-Rikostruzzjoni u l-Iżvilupp</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4859</DESCRIPTEUR_ID>
+<UF><UF_EL>l-Organizzazzjoni tal-Konsumaturi Ewropej</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>568</DESCRIPTEUR_ID>
+<UF><UF_EL>agrikoltura bijoloġika</UF_EL>
+<UF_EL>agrikoltura organika</UF_EL>
+<UF_EL>biedja bijoloġika</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>8412</DESCRIPTEUR_ID>
+<UF><UF_EL>bijodiżil</UF_EL>
+<UF_EL>bijoetanol</UF_EL>
+<UF_EL>bijofjuwil</UF_EL>
+<UF_EL>karburant li ma jniġġisx</UF_EL>
+<UF_EL>petrol li ma jniġġisx</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>7410</DESCRIPTEUR_ID>
+<UF><UF_EL>bijometrija</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6148</DESCRIPTEUR_ID>
+<UF><UF_EL>UNICE</UF_EL>
+<UF_EL>l-Unjin tal-Industriji tal-Komunità Ewropea</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5264</DESCRIPTEUR_ID>
+<UF><UF_EL>Komunità tal-Karibew</UF_EL>
+<UF_EL>Żona ta' Kummerċ Ħieles tal-Karibew [Carifta]</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>7185</DESCRIPTEUR_ID>
+<UF><UF_EL>il-Ftehim dwar il-Kummerċ Ħieles fl-Ewropa Ċentrali</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5248</DESCRIPTEUR_ID>
+<UF><UF_EL>Konferenza Ewropea tal-Amministrazzjonijiet tal-Posta u Telekomunikazzjoni</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5365</DESCRIPTEUR_ID>
+<UF><UF_EL>L-Organizzazzjoni Ewropea għar-Riċerka Nukleari</UF_EL>
+<UF_EL>Laboratorju Ewropew għall-Fiżika tal-Partikoli</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>118</DESCRIPTEUR_ID>
+<UF><UF_EL>CCC</UF_EL>
+<UF_EL>Kumitat ta' Tmexxija għall-Kultura [CDCULT]</UF_EL>
+<UF_EL>Kumitat ta' Tmexxija għall-Wirt Kulturali [CDPAT]</UF_EL>
+<UF_EL>Kumitat tat-Tmexxija għall-Edukazzjoni Għolja u r-Riċerka [CDESR]</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>381</DESCRIPTEUR_ID>
+<UF><UF_EL>pluraliżmu politiku</UF_EL>
+<UF_EL>ugwaljanza demokratika</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>8423</DESCRIPTEUR_ID>
+<UF><UF_EL>parteċipazzjoni demokratika</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>8424</DESCRIPTEUR_ID>
+<UF><UF_EL>demokrazija indiretta</UF_EL>
+<UF_EL>demokrazija parlamentari</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>950</DESCRIPTEUR_ID>
+<UF><UF_EL>tkeċċija</UF_EL>
+<UF_EL>tkeċċija ammnistrattiva</UF_EL>
+<UF_EL>tkeċċija mit-territorju</UF_EL>
+<UF_EL>ċaħda tad-dħul</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4014</DESCRIPTEUR_ID>
+<UF><UF_EL>Deċiżjoni tal-Kummissjoni</UF_EL>
+<UF_EL>Deċiżjoni tal-Kunsill</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5305</DESCRIPTEUR_ID>
+<UF><UF_EL>analiżi tal-laboratorju</UF_EL>
+<UF_EL>ekografija</UF_EL>
+<UF_EL>elettroenċefalografija</UF_EL>
+<UF_EL>elettrokardjografija</UF_EL>
+<UF_EL>endoskopija</UF_EL>
+<UF_EL>radjodijanjożi</UF_EL>
+<UF_EL>radjografija</UF_EL>
+<UF_EL>radjoloġija</UF_EL>
+<UF_EL>riżonanza manjetika nukleari</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>459</DESCRIPTEUR_ID>
+<UF><UF_EL>intollerenza reliġjuża</UF_EL>
+<UF_EL>iżlamofobija</UF_EL>
+<UF_EL>kristjanofobija</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>3180</DESCRIPTEUR_ID>
+<UF><UF_EL>DAU</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>496</DESCRIPTEUR_ID>
+<UF><UF_EL>il-Commonwealth ta' Dominika</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>566</DESCRIPTEUR_ID>
+<UF><UF_EL>konflitt tal-liġijiet</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>3899</DESCRIPTEUR_ID>
+<UF><UF_EL>libertà soċjali</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>3404</DESCRIPTEUR_ID>
+<UF><UF_EL>duplikazzjoni</UF_EL>
+<UF_EL>fotokopjar</UF_EL>
+<UF_EL>reprografija</UF_EL>
+<UF_EL>riproduzzjoni ta' dokumenti</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6358</DESCRIPTEUR_ID>
+<UF><UF_EL>Kunsill Affarijiet Ekonomiċi u Finanzjarji</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>176</DESCRIPTEUR_ID>
+<UF><UF_EL>Assoċjazzjoni Ewropea tal-Kummerċ Ħieles</UF_EL>
+<UF_EL>Awtorità ta' Sorveljanza tal-EFTA</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>7951</DESCRIPTEUR_ID>
+<UF><UF_EL>ekonomija żviluppata</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>691</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Repubblika ta' El Salvador</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>7947</DESCRIPTEUR_ID>
+<UF><UF_EL>emails foloz</UF_EL>
+<UF_EL>spemm</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>594</DESCRIPTEUR_ID>
+<UF><UF_EL>L-Istati Afrikani Assoċjati u l-Madagaskar</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5930</DESCRIPTEUR_ID>
+<UF><UF_EL>ix-Xatt tal-Punent</UF_EL>
+<UF_EL>l-Istrixxa ta' Gaża</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>535</DESCRIPTEUR_ID>
+<UF><UF_EL>IMPEL</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5769</DESCRIPTEUR_ID>
+<UF><UF_EL>aġenzija eżekuttiva</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1087</DESCRIPTEUR_ID>
+<UF><UF_EL>Kollettivitajiet territorjali tar-Repubblika Franċiża</UF_EL>
+<UF_EL>Territorji barranin tar-Repubblika Franċiża</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5278</DESCRIPTEUR_ID>
+<UF><UF_EL>ITC (UNCTAD/WTO)</UF_EL>
+<UF_EL>Ċentru tal-Kummerċ Internazzjonali Konġunt UNCTAD/WTO</UF_EL>
+<UF_EL>Ċentru tal-Kummerċ Internazzjonali UNCTAD/WTO</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>312</DESCRIPTEUR_ID>
+<UF><UF_EL>Federazzjoni Internazzjonali tas-Soċjetajiet tas-Salib l-Aħmar u tan-Nofs Qamar l-Aħmar [IFRC]</UF_EL>
+<UF_EL>Is-Salib l-Aħmar</UF_EL>
+<UF_EL>Kumitat Internazzjonali tas-Salib l-Aħmar [ICRC]</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6852</DESCRIPTEUR_ID>
+<UF><UF_EL>Sistema Ewropea ta' Navigazzjoni bis-Satellita [Galileo]</UF_EL>
+<UF_EL>Sistema Globali ta' Navigazzjoni bis-Satellita [GNSS]</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>2145</DESCRIPTEUR_ID>
+<UF><UF_EL>UNIDO</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4597</DESCRIPTEUR_ID>
+<UF><UF_EL>UEP</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6112</DESCRIPTEUR_ID>
+<UF><UF_EL>BSE</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>7928</DESCRIPTEUR_ID>
+<UF><UF_EL>L-Uffiċċju Ewropew Responsabbli mir-Reklutaġġ</UF_EL>
+<UF_EL>L-Uffiċċju tal-Komunitajiet Ewropej Responsabbli mir-Reklutaġġ</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6095</DESCRIPTEUR_ID>
+<UF><UF_EL>Istitut Ewropew għall-Istandards fit-Telekomunikazzjoni</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4054</DESCRIPTEUR_ID>
+<UF><UF_EL>Is-Servizzi Ewropej tax-Xogħol</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>906</DESCRIPTEUR_ID>
+<UF><UF_EL>Organizzazzjoni Ewropea għas-Sigurtà tan-Navigazzjoni bl-Ajru</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6723</DESCRIPTEUR_ID>
+<UF><UF_EL>Aġenzija ewropea għat-tisħiħ tal-kooperazzjoni ġudizzjarja</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>2198</DESCRIPTEUR_ID>
+<UF><UF_EL>L-Uffiċju tal-Istatistika tal-Komunitajiet Ewropej</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6160</DESCRIPTEUR_ID>
+<UF><UF_EL>Organizzazzjoni Ewropea tat-Telekomunikazzjonijiet bis-Satellita</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>8409</DESCRIPTEUR_ID>
+<UF><UF_EL>Ewrofobija</UF_EL>
+<UF_EL>Ewroxettiku</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>978</DESCRIPTEUR_ID>
+<UF><UF_EL>Fond Agrikolu Ewropew ta’ Garanzija</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>968</DESCRIPTEUR_ID>
+<UF><UF_EL>Organizzazzjoni tan-Nazzjonijiet Uniti għall-Alimentazzjoni u l-Agrikoltura</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>993</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Repubblika tal-Gżejjer Fiġi</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>8434</DESCRIPTEUR_ID>
+<UF><UF_EL>iffalsifikar tal-euro</UF_EL>
+<UF_EL>iffalsifikar ta' mezzi ta' ħlas</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1056</DESCRIPTEUR_ID>
+<UF><UF_EL>FEŻR</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5645</DESCRIPTEUR_ID>
+<UF><UF_EL>FEI</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>8549</DESCRIPTEUR_ID>
+<UF><UF_EL>EGF</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1043</DESCRIPTEUR_ID>
+<UF><UF_EL>FMI</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4056</DESCRIPTEUR_ID>
+<UF><UF_EL>FSE</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5644</DESCRIPTEUR_ID>
+<UF><UF_EL>Il-Fond tal-Kunsill ta’ l-Ewropa għal Twettiq mill-Ġdid</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5070</DESCRIPTEUR_ID>
+<UF><UF_EL>burokrazija</UF_EL>
+<UF_EL>formalità amministrattiva</UF_EL>
+<UF_EL>simplifikazzjoni amministrattiva</UF_EL>
+<UF_EL>simplifikazzjoni tal-formalitajiet amministrattivi</UF_EL>
+<UF_EL>spiża amministrattiva</UF_EL>
+<UF_EL>spiża tal-amministrazzjoni</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1085</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Repubblika Franċiża</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>8439</DESCRIPTEUR_ID>
+<UF><UF_EL>L-Aġenzija Ewropea għall-Ġestjoni ta' Kooperazzjoni Operattiva fil-Fruniteri Esterni tal-Istati Membri tal-Unjoni Ewropea</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5649</DESCRIPTEUR_ID>
+<UF><UF_EL>ġestjoni tal-fruntieri esterni tal-UE</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>3461</DESCRIPTEUR_ID>
+<UF><UF_EL>ftehim globali</UF_EL>
+<UF_EL>ftehim intergovernattiv</UF_EL>
+<UF_EL>ftehim internazzjonali tal-UE</UF_EL>
+<UF_EL>ftehim tal-Unjoni Ewropea</UF_EL>
+<UF_EL>trattat internazzjonali</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6115</DESCRIPTEUR_ID>
+<UF><UF_EL>Ftehim Ġenerali dwar il-Kummerċ fis-Servizzi</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6125</DESCRIPTEUR_ID>
+<UF><UF_EL>globalizzazzjoni ekonomika</UF_EL>
+<UF_EL>globalizzazzjoni tal-ekonomija</UF_EL>
+<UF_EL>internazzjonalizzazzjoni tal-ekonomija</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6894</DESCRIPTEUR_ID>
+<UF><UF_EL>amministrazzjoni elettronika</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1289</DESCRIPTEUR_ID>
+<UF><UF_EL>it-Territorju ta' Gwam</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>8441</DESCRIPTEUR_ID>
+<UF><UF_EL>kunflitt asimettriku</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>7132</DESCRIPTEUR_ID>
+<UF><UF_EL>Phare</UF_EL>
+<UF_EL>Sapard</UF_EL>
+<UF_EL>Strument għall-Politika Strutturali ta' Qabel l-Adeżjoni [ISPA]</UF_EL>
+<UF_EL>Strument ta' Assistenza ta' Qabel l-Adeżjoni [IPA]</UF_EL>
+<UF_EL>Strument ta' Qabel l-Adeżjoni</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>3074</DESCRIPTEUR_ID>
+<UF><UF_EL>assistenza umanitarja</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>7981</DESCRIPTEUR_ID>
+<UF><UF_EL>jiem frank taħt id-dispożizzjoni tal-ġenituri</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>336</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Renju tad-Danimarka</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4690</DESCRIPTEUR_ID>
+<UF><UF_EL>Ewropa tal-Balkani</UF_EL>
+<UF_EL>il-Balkani</UF_EL>
+<UF_EL>pajjiżi tal-Balkani tal-Punent</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4732</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Repubblika Popolari tal-Bangladexx</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4812</DESCRIPTEUR_ID>
+<UF><UF_EL>Grupp tal-Bank Dinji</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4567</DESCRIPTEUR_ID>
+<UF><UF_EL>Il-Commonwealth tal-Baħamas</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4572</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Renju tal-Baħrejn</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5458</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Repubblika tal-Belarus</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4839</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Renju tal-Belġju</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4846</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Repubblika tal-Benin</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5020</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Repubblika tal-Bolivja</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5029</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Repubblika tal-Botswana</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5040</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Repubblika Federali tal-Brażil</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5049</DESCRIPTEUR_ID>
+<UF><UF_EL>il-Brunej Darussalam</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5063</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Repubblika tal-Bulgarija</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5072</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Repubblika tal-Burundi</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4862</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Renju tal-Butan</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>249</DESCRIPTEUR_ID>
+<UF><UF_EL>il-Kosta tal-Avorju</UF_EL>
+<UF_EL>ir-Repubblika tal-Côte d'Ivoire</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>2368</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Repubblika tal-Filippini</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1019</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Repubblika tal-Finlandja</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>973</DESCRIPTEUR_ID>
+<UF><UF_EL>FKME</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>992</DESCRIPTEUR_ID>
+<UF><UF_EL>IFAD</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1124</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Repubblika Gaboniża</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1128</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Repubblika tal-Gambja</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1166</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Repubblika tal-Gana</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1216</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Repubblika tal-Ginea</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1217</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Repubblika tal-Ginea Bissaw</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1218</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Repubblika tal-Ginea Ekwatorjali</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1182</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Repubblika Ellenika</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1219</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Repubblika Kooperattiva tal-Gujana</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1208</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Repubblika tal-Gwatemala</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>3410</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Repubblika tal-Gżejjer Marshall</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6279</DESCRIPTEUR_ID>
+<UF><UF_EL>it-Territorju tal-Gżira Norfolk</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4775</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Repubblika tal-Jemen</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5095</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Repubblika tal-Kamerun</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5108</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Repubblika tal-Kap Verde</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>7926</DESCRIPTEUR_ID>
+<UF><UF_EL>propjetà intelletwali</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5693</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Repubblika tal-Kazakistan</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1557</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Repubblika tal-Kenja</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5694</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Repubblika Kirgiża</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6036</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Repubblika tal-Kolumbja</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>33</DESCRIPTEUR_ID>
+<UF><UF_EL>l-Unjoni tal-Komoros</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6159</DESCRIPTEUR_ID>
+<UF><UF_EL>ECCAS</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5107</DESCRIPTEUR_ID>
+<UF><UF_EL>EAC</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5370</DESCRIPTEUR_ID>
+<UF><UF_EL>ETUC</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5284</DESCRIPTEUR_ID>
+<UF><UF_EL>ECAC</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>111</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Repubblika tal-Kongo</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6131</DESCRIPTEUR_ID>
+<UF><UF_EL>APEC</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>235</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Repubblika tal-Korea</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>236</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Repubblika Demokratika Popolari tal-Korea</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>247</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Repubblika tal-Kosta Rika</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5563</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Repubblika tal-Kroazja</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>7346</DESCRIPTEUR_ID>
+<UF><UF_EL>CLRAE</UF_EL>
+<UF_EL>il-Kungress għall-Awtoritajiet Lokali u Reġjonali tal-Kunsill tal-Ewropa</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5530</DESCRIPTEUR_ID>
+<UF><UF_EL>GCC</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1560</DESCRIPTEUR_ID>
+<UF><UF_EL>l-Istat tal-Kuwajt</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>3500</DESCRIPTEUR_ID>
+<UF><UF_EL>Kurdistan</UF_EL>
+<UF_EL>il-kwistjoni Kurda</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>3501</DESCRIPTEUR_ID>
+<UF><UF_EL>artijiet Palestinjani okkupati</UF_EL>
+<UF_EL>gwerra Għarbija-Iżraeljana</UF_EL>
+<UF_EL>il-kwistjoni Palestinjana</UF_EL>
+<UF_EL>kunflitt Għarbi-Iżraeljan</UF_EL>
+<UF_EL>territorju Palestinjan okkupat</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1584</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Repubblika Demokratika Popolari tal-Laos</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5706</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Repubblika tal-Latvja</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1611</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Renju tal-Lesoto</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1613</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Repubblika Libaniża</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1639</DESCRIPTEUR_ID>
+<UF><UF_EL>il-Ġamaħirija Għarbija Libjana Popolari u Soċjalista</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1649</DESCRIPTEUR_ID>
+<UF><UF_EL>il-Prinċipat ta' Liechtenstein</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5709</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Repubblika tal-Litwanja</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1712</DESCRIPTEUR_ID>
+<UF><UF_EL>il-Gran Dukat tal-Lussemburgu</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1729</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Repubblika tal-Madagaskar</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1766</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Repubblika tal-Malawi</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1768</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Repubblika tal-Maldive</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1296</DESCRIPTEUR_ID>
+<UF><UF_EL>il-Commonwealth tal-Gżejjer tal-Marjana tat-Tramuntana</UF_EL>
+<UF_EL>il-Marjanas tat-Tramuntana</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1819</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Renju tal-Marokk</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1842</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Repubblika Islamika tal-Mawritanja</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1841</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Repubblika tal-Mawrizju</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1899</DESCRIPTEUR_ID>
+<UF><UF_EL>l-Istati Uniti Messikani</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4966</DESCRIPTEUR_ID>
+<UF><UF_EL>l-Unjoni tal-Mjanmar</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5858</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Repubblika tal-Moldova</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5746</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Repubblika tal-Montenegro</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>2018</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Repubblika tal-Możambik</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5781</DESCRIPTEUR_ID>
+<UF><UF_EL>Il-pajjiżi tas-CEEC</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>2222</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Repubblika Islamika tal-Pakistan</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6278</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Repubblika tal-Palau</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>2224</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Repubblika tal-Panama</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>2229</DESCRIPTEUR_ID>
+<UF><UF_EL>l-Istat Indipendenti tal-Papwa Ginea Ġdida</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>2231</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Repubblika tal-Paragwaj</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>2331</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Repubblika tal-Perù</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>7932</DESCRIPTEUR_ID>
+<UF><UF_EL>ENP</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>2543</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Repubblika tal-Polonja</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>2563</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Repubblika tal-Portugall</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>7933</DESCRIPTEUR_ID>
+<UF><UF_EL>UNIDCP</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4183</DESCRIPTEUR_ID>
+<UF><UF_EL>is-sitwazzjoni tal-UE</UF_EL>
+<UF_EL>prospetti Komunitarji</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>2866</DESCRIPTEUR_ID>
+<UF><UF_EL>l-Istat tal-Qatar</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5328</DESCRIPTEUR_ID>
+<UF><UF_EL>Qorti tal-Prim’ Istanza</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>255</DESCRIPTEUR_ID>
+<UF><UF_EL>QTĠ</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4648</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Repubblika tal-Vanwatu</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4662</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Repubblika Bolivarjana tal-Venezwela</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4707</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Repubblika Soċjalista tal-Vjetnam</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1318</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Repubblika Federali tal-Ġermanja</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1532</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Renju Ħaxemita tal-Ġordan</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1253</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Repubblika tal-Ħonduras</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4549</DESCRIPTEUR_ID>
+<UF><UF_EL>impjieg mhux iddikjarat</UF_EL>
+<UF_EL>xogħol bla ktieb</UF_EL>
+<UF_EL>xogħol minn taħt</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>2027</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Repubblika tan-Namibja</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>2052</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Renju tan-Nepal</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>2055</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Repubblika tan-Nikaragwa</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6280</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Repubblika tan-Niue</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>2057</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Repubblika tan-Niġer</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>2058</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Repubblika Federali tan-Niġerja</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>2084</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Renju tan-Norveġja</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>7950</DESCRIPTEUR_ID>
+<UF><UF_EL>URL</UF_EL>
+<UF_EL>indirizz tas-sajt</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1356</DESCRIPTEUR_ID>
+<UF><UF_EL>politika ta' industrijalizzazzjoni</UF_EL>
+<UF_EL>ħolqien tal-industrija</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>8464</DESCRIPTEUR_ID>
+<UF><UF_EL>H5N1</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5150</DESCRIPTEUR_ID>
+<UF><UF_EL>IMP</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>2359</DESCRIPTEUR_ID>
+<UF><UF_EL>impriżi żgħar u medji</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4619</DESCRIPTEUR_ID>
+<UF><UF_EL>ippjanar urban</UF_EL>
+<UF_EL>pjanifikazzjoni urbana</UF_EL>
+<UF_EL>politika tal-ippjanar tal-ibliet</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5876</DESCRIPTEUR_ID>
+<UF><UF_EL>il-Federazzjoni Russa</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>3784</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Repubblika tar-Rwanda</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6094</DESCRIPTEUR_ID>
+<UF><UF_EL>Kumitat Ewropew għall-Istandardizzazzjoni Elettroteknika</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>3411</DESCRIPTEUR_ID>
+<UF><UF_EL>it-Territorju tas-Samoa Amerikana</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4092</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Repubblika tas-Senegal</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5892</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Repubblika tas-Serbja</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4148</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Repubblika tas-Seychelles</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4354</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Repubblika Għarbija Sirjana</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5883</DESCRIPTEUR_ID>
+<UF><UF_EL>SEBĊ</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5859</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Repubblika Slovakka</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5898</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Repubblika tas-Slovenja</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4246</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Repubblika Demokratika Soċjalista tas-Sri Lanka</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4217</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Repubblika tas-Sudan</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4342</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Repubblika tas-Surinam</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4351</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Renju tas-Sważiland</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1510</DESCRIPTEUR_ID>
+<UF><UF_EL>l-Organizzazzjoni Internazzjonali tal-Istandardizzazzjoni</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>8382</DESCRIPTEUR_ID>
+<UF><UF_EL>Instraw</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>8383</DESCRIPTEUR_ID>
+<UF><UF_EL>Unicri</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>8380</DESCRIPTEUR_ID>
+<UF><UF_EL>Istitut ta' Riċerka u ta' Taħriġ tan-Nazzjonijiet Uniti</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>8381</DESCRIPTEUR_ID>
+<UF><UF_EL>Istitut tan-NU għar-riċerka dwar id-diżarm</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>3718</DESCRIPTEUR_ID>
+<UF><UF_EL>Istitut Universitarju Ewropew ta' Firenze</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>877</DESCRIPTEUR_ID>
+<UF><UF_EL>stabbiliment penitenzjarju</UF_EL>
+<UF_EL>ħabs</UF_EL>
+<UF_EL>ħabs miftuħ</UF_EL>
+<UF_EL>ħabs ta' sigurtà għolja</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4453</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Renju tat-Tajlandja</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4375</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Repubblika taċ-Ċina</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4376</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Repubblika Unita tat-Tanzanija</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5925</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Repubblika tat-Taġikistan</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4461</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Repubblika Demokratika tat-Timor Leste</UF_EL>
+<UF_EL>ir-Repubblika Demokratika tat-Timor tal-Lvant</UF_EL>
+<UF_EL>it-Timor tal-Lvant</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4465</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Repubblika Togoliża</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4068</DESCRIPTEUR_ID>
+<UF><UF_EL>It-Trattat UE</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>7137</DESCRIPTEUR_ID>
+<UF><UF_EL>l-Qorti  Kriminali Internazzjonali għar-Rwanda</UF_EL>
+<UF_EL>l-Qorti Kriminali Internazzjonali għall-Ex-Jugoslavja</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4570</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Repubblika ta' Trinidad u Tobago</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4578</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Repubblika tat-Tuneżija</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4580</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Repubblika tat-Turkija</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4410</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Repubblika taċ-Ċad</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5965</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Repubblika taċ-Ċilì</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5969</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Repubblika Popolari taċ-Ċina</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4780</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Repubblika taż-Żambja</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4782</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Repubblika taż-Żimbabwe</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1555</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Renju tal-Kambodja</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1559</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Repubblika ta' Kiribati</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6010</DESCRIPTEUR_ID>
+<UF><UF_EL>klijentela</UF_EL>
+<UF_EL>relazzjonijiet mal-klijenti</UF_EL>
+<UF_EL>sodisfazzjoni tal-klijenti</UF_EL>
+<UF_EL>ġestjoni tal-klijenti</UF_EL>
+<UF_EL>ġestjoni tar-relazzjonijiet mal-klijenti [CRM]</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>8417</DESCRIPTEUR_ID>
+<UF><UF_EL>kompliċi</UF_EL>
+<UF_EL>kompliċi f'att</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1190</DESCRIPTEUR_ID>
+<UF><UF_EL>Komunità tal-Andina</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4586</DESCRIPTEUR_ID>
+<UF><UF_EL>CAEMC</UF_EL>
+<UF_EL>Komunità Ekonomika u Monetarja Ċentru Afrikana</UF_EL>
+<UF_EL>Unjoni Doganali Ekwatorjali [UDE]</UF_EL>
+<UF_EL>Unjoni Doganali u Ekonomika Ċentru Afrikana [CACEU]</UF_EL>
+<UF_EL>Unjoni Monetarja Ċentru Afrikana [CAMU]</UF_EL>
+<UF_EL>Unjoni tal-Istati Ċentru Afrikani [UEAC]</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>8399</DESCRIPTEUR_ID>
+<UF><UF_EL>SADC</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>8398</DESCRIPTEUR_ID>
+<UF><UF_EL>CEN-SAD</UF_EL>
+<UF_EL>Comessa</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5479</DESCRIPTEUR_ID>
+<UF><UF_EL>KSI</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6083</DESCRIPTEUR_ID>
+<UF><UF_EL>Summit Dinji</UF_EL>
+<UF_EL>Summit Dinji dwar l-Iżvilupp Sostenibbli</UF_EL>
+<UF_EL>Summit ta' Rio</UF_EL>
+<UF_EL>UNCED</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>8418</DESCRIPTEUR_ID>
+<UF><UF_EL>dibattitu miftuħ</UF_EL>
+<UF_EL>dibattitu pubbliku</UF_EL>
+<UF_EL>konsultazzjoni miftuħa</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>3259</DESCRIPTEUR_ID>
+<UF><UF_EL>kontribuzzjoni finanzjarja</UF_EL>
+<UF_EL>kumpens baġitarju</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>7927</DESCRIPTEUR_ID>
+<UF><UF_EL>EDPS</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5326</DESCRIPTEUR_ID>
+<UF><UF_EL>KEDB</UF_EL>
+<UF_EL>Konvenzjoni għall-Protezzjoni tad-Drittijiet tal-Bniedem u tal-Libertajiet Fundamentali</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5552</DESCRIPTEUR_ID>
+<UF><UF_EL>kooperazzjoni doganali u bejn il-pulizija tal-UE</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5547</DESCRIPTEUR_ID>
+<UF><UF_EL>metodu intergovernattiv</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5550</DESCRIPTEUR_ID>
+<UF><UF_EL>netwerk ġudizzjarju Ewropew</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>8480</DESCRIPTEUR_ID>
+<UF><UF_EL>netwerk ġudizzjarju Ewropew fl-ambitu ċivili u kummerċjali</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5761</DESCRIPTEUR_ID>
+<UF><UF_EL>grupp TREVI</UF_EL>
+<UF_EL>grupp ad hoc dwar l-immigrazzjoni</UF_EL>
+<UF_EL>grupp dwar id-droga u l-kriminalità organizzata</UF_EL>
+<UF_EL>grupp dwar il-moviment ħieles tal-persuni [grupp ta' Rodi]</UF_EL>
+<UF_EL>grupp ta' kooperazzjoni doganali u tal-pulizija</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>7127</DESCRIPTEUR_ID>
+<UF><UF_EL>Trattat Kostituzzjonali</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>3225</DESCRIPTEUR_ID>
+<UF><UF_EL>kriżi finanzjarja</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>314</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Repubblika ta' Kuba</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6054</DESCRIPTEUR_ID>
+<UF><UF_EL>KESE</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6093</DESCRIPTEUR_ID>
+<UF><UF_EL>CEN</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>8475</DESCRIPTEUR_ID>
+<UF><UF_EL>EUMC</UF_EL>
+<UF_EL>Kumitat Militari tal-Unjoni Ewropea</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>8478</DESCRIPTEUR_ID>
+<UF><UF_EL>KPS</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>304</DESCRIPTEUR_ID>
+<UF><UF_EL>CREST</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>8385</DESCRIPTEUR_ID>
+<UF><UF_EL>Kummissarju Għoli tan-NU għad-Drittijiet tal-Bniedem [UNHCR]</UF_EL>
+<UF_EL>Uffiċċju tal-Kummissarju Għoli għad-Drittijiet tal-Bniedem [OHCHR]</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>8386</DESCRIPTEUR_ID>
+<UF><UF_EL>Kummissjoni Ekonomika għall-Afrika [ECA]</UF_EL>
+<UF_EL>Kummissjoni Ekonomika għall-Amerika Latin u l-Karibew [ECLAC]</UF_EL>
+<UF_EL>Kummissjoni Ekonomika tan-Nazzjonijiet Uniti għall-Ewropa  [NU/KEE]</UF_EL>
+<UF_EL>Kummissjoni Ekonomika u Soċjali għall-Ażja tal-Punent [ESCWA]</UF_EL>
+<UF_EL>Kummissjoni Ekonomika u Soċjali għall-Ażja u l-Paċifiku [ESCAP]</UF_EL>
+<UF_EL>Kummissjoni Reġjonali tan-NU</UF_EL>
+<UF_EL>Kummissjoni Reġjonali tan-Nazzjonijiet Uniti</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>23</DESCRIPTEUR_ID>
+<UF><UF_EL>Forum tan-NU dwar il-Foresti [UNFF]</UF_EL>
+<UF_EL>Kummissjoni Statistika tan-NU</UF_EL>
+<UF_EL>Kummissjoni Teknika tan-NU</UF_EL>
+<UF_EL>Kummissjoni Teknika tan-Nazzjonijiet Uniti</UF_EL>
+<UF_EL>Kummissjoni tan-NU dwar id-Drittijiet tal-Bniedem</UF_EL>
+<UF_EL>Kummissjoni tan-NU dwar id-Drogi Narkotiċi</UF_EL>
+<UF_EL>Kummissjoni tan-NU dwar il-Popolazzjoni u l-Iżvilupp</UF_EL>
+<UF_EL>Kummissjoni tan-NU dwar il-Qagħda tan-Nisa</UF_EL>
+<UF_EL>Kummissjoni tan-NU dwar ix-Xjenza u t-Teknoloġija għall-Iżvilupp</UF_EL>
+<UF_EL>Kummissjoni tan-NU dwar l-Iżvilupp Sostenibbli</UF_EL>
+<UF_EL>Kummissjoni tan-NU għall-Iżvilupp Soċjali</UF_EL>
+<UF_EL>Kummissjoni tan-NU għall-Ġustizzja Kriminali u l-Prevenzjoni tal-Kriminalità</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1247</DESCRIPTEUR_ID>
+<UF><UF_EL>holding</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4195</DESCRIPTEUR_ID>
+<UF><UF_EL>titoli trasferibbli</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>8463</DESCRIPTEUR_ID>
+<UF><UF_EL>kumpanija tal-ajru Iow-cost</UF_EL>
+<UF_EL>trasportatur tal-ajru bi prezzijiet baxxi</UF_EL>
+<UF_EL>trasportatur tal-ajru low-cost</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>83</DESCRIPTEUR_ID>
+<UF><UF_EL>lifestyle</UF_EL>
+<UF_EL>ritmu tal-ħajja</UF_EL>
+<UF_EL>stil ta' ħajja</UF_EL>
+<UF_EL>tip ta' ħajja</UF_EL>
+<UF_EL>titjib tal-kundizzjonijiet tal-għixien</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>8416</DESCRIPTEUR_ID>
+<UF><UF_EL>dikjarazzjoni ta' kunflitt ta' interess</UF_EL>
+<UF_EL>kunflitt ta' interessi</UF_EL>
+<UF_EL>riskju ta' kunflitt ta' interess</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>121</DESCRIPTEUR_ID>
+<UF><UF_EL>KtE</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>8396</DESCRIPTEUR_ID>
+<UF><UF_EL>CBSS</UF_EL>
+<UF_EL>Kunsill tal-Baħar Baltiku</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>8370</DESCRIPTEUR_ID>
+<UF><UF_EL>CAEU</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5478</DESCRIPTEUR_ID>
+<UF><UF_EL>EAPC</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>8356</DESCRIPTEUR_ID>
+<UF><UF_EL>gwerra tal-Kaxmir</UF_EL>
+<UF_EL>kunflitt tal-Kaxmir</UF_EL>
+<UF_EL>kwistjoni tal-Indja u l-Pakistan</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>8357</DESCRIPTEUR_ID>
+<UF><UF_EL>gwerra tal-Kosovo</UF_EL>
+<UF_EL>kunflitt tal-Kosovo</UF_EL>
+<UF_EL>sitwazzjoni fil-Kosovo</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>8355</DESCRIPTEUR_ID>
+<UF><UF_EL>kunflitt Russu-Ċeċen</UF_EL>
+<UF_EL>kunflitt Ċeċen</UF_EL>
+<UF_EL>kwistjoni Ċeċena</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>261</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Repubblika Islamika tal-Afganistan</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>321</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Repubblika tal-Afrika t'Isfel</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1125</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Repubblika tal-Albanija</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1196</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Repubblika Demokratika Popolari tal-Alġerija</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1876</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Repubblika tal-Angola</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5445</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Repubblika tal-Armenja</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5495</DESCRIPTEUR_ID>
+<UF><UF_EL>il-Kumitat ta' Koordinament għall-Kontroll multilaterali ta' esportazzjonijiet [Cocom]</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>2525</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Repubblika Arġentina</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4160</DESCRIPTEUR_ID>
+<UF><UF_EL>il-Commonwealth tal-Awstralja</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4353</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Repubblika tal-Awstrija</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>7126</DESCRIPTEUR_ID>
+<UF><UF_EL>EFSA</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5454</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Repubblika tal-Azerbajġan</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>7938</DESCRIPTEUR_ID>
+<UF><UF_EL>ENISA</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5426</DESCRIPTEUR_ID>
+<UF><UF_EL>EMEA</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5427</DESCRIPTEUR_ID>
+<UF><UF_EL>EU-OSHA</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>7984</DESCRIPTEUR_ID>
+<UF><UF_EL>ECHA</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>7985</DESCRIPTEUR_ID>
+<UF><UF_EL>L-Aġenzija Ewropea għas-Sigurta' u l-Interoperabblità tat-Trejns</UF_EL>
+<UF_EL>L-Aġenzija Ewropea tat-Trejns</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6219</DESCRIPTEUR_ID>
+<UF><UF_EL>FRA</UF_EL>
+<UF_EL>Ċentru Ewropew ta’ Monitoraġġ dwar ir-Razziżmu u l-Ksenofobija [EUMC]</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>7936</DESCRIPTEUR_ID>
+<UF><UF_EL>EMSA</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>7937</DESCRIPTEUR_ID>
+<UF><UF_EL>EASA</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>841</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Repubblika tal-Ekwador</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5617</DESCRIPTEUR_ID>
+<UF><UF_EL>l-Istat tal-Eritrea</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5619</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Repubblika tal-Estonja</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>891</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Repubblika Demokratika Federali tal-Etjopja</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5713</DESCRIPTEUR_ID>
+<UF><UF_EL>FYROM</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>7896</DESCRIPTEUR_ID>
+<UF><UF_EL>Dodekanese</UF_EL>
+<UF_EL>Ċiklades</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>690</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Repubblika Għarbija tal-Eġittu</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>2336</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Renju tal-Għarabja Sawdita</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1338</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Repubblika tal-Indja</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1355</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Repubblika tal-Indoneżja</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1501</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Repubblika Islamika tal-Iran</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1500</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Repubblika tal-Iraq</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>888</DESCRIPTEUR_ID>
+<UF><UF_EL>USA</UF_EL>
+<UF_EL>l-Istati Uniti tal-Amerika</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>7953</DESCRIPTEUR_ID>
+<UF><UF_EL>EUISS</UF_EL>
+<UF_EL>ISS</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5679</DESCRIPTEUR_ID>
+<UF><UF_EL>EIPA</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1449</DESCRIPTEUR_ID>
+<UF><UF_EL>ETUI-REHS</UF_EL>
+<UF_EL>L-Istitut Ewropew tat-Trade Unions – Riċerka, Edukazzjoni, Saħħa u Sigurtà</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1519</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Repubblika Taljana</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1509</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Repubblika tal-Iżlanda</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1518</DESCRIPTEUR_ID>
+<UF><UF_EL>l-Istat tal-Iżrael</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4320</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Renju tal-Iżvezja</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>2286</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Renju tal-Olanda</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>2138</DESCRIPTEUR_ID>
+<UF><UF_EL>is-Sultanat tal-Oman</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>7203</DESCRIPTEUR_ID>
+<UF><UF_EL>WTO (L-Organizzazzjoni Dinjija tat-Turimu)</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5765</DESCRIPTEUR_ID>
+<UF><UF_EL>WTO (l-Organizzazzjoni Dinjija tal-Kummerċ)</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>2153</DESCRIPTEUR_ID>
+<UF><UF_EL>L-Uffiċċju għall-Pubblikazzjonijiet Uffiċjali tal-Komunitajiet Ewropej</UF_EL>
+<UF_EL>OPOCE</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>2203</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Repubblika tal-Uganda</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1255</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Repubblika tal-Ungerija</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4621</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Repubblika Orjentali tal-Urugwaj</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5770</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Repubblika tal-Uzbekistan</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6067</DESCRIPTEUR_ID>
+<UF><UF_EL>bibljoteka diġitali</UF_EL>
+<UF_EL>bibljoteka virtwali</UF_EL>
+<UF_EL>librerija diġitali</UF_EL>
+<UF_EL>ċiberbibljoteka</UF_EL>
+<UF_EL>ċiberlibrerija</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>8435</DESCRIPTEUR_ID>
+<UF><UF_EL>oġġett pirotekniku</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1716</DESCRIPTEUR_ID>
+<UF><UF_EL>Reġjun Amministrattiv Speċjali ta' Macau tar-Repubblika tal-Popolari taċ-Ċina</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1730</DESCRIPTEUR_ID>
+<UF><UF_EL>Ir-reġjun awtonomu ta' Madeira</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1769</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Repubblika ta' Mali</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1774</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Repubblika ta' Malta</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5683</DESCRIPTEUR_ID>
+<UF><UF_EL>borra</UF_EL>
+<UF_EL>maltempata</UF_EL>
+<UF_EL>silġ</UF_EL>
+<UF_EL>ġelu</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1778</DESCRIPTEUR_ID>
+<UF><UF_EL>deputat li jirriżenja</UF_EL>
+<UF_EL>kabinett li jirriżenja</UF_EL>
+<UF_EL>mandat lokali</UF_EL>
+<UF_EL>mandat nazzjonali</UF_EL>
+<UF_EL>mandat obbligatorju</UF_EL>
+<UF_EL>mandat parlamentari</UF_EL>
+<UF_EL>mandat rappreżentattiv</UF_EL>
+<UF_EL>membru li jirriżenja</UF_EL>
+<UF_EL>tmiem mandat elettorali</UF_EL>
+<UF_EL>tul tal-mandat</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>8447</DESCRIPTEUR_ID>
+<UF><UF_EL>infezzjoni tal-għajnejn</UF_EL>
+<UF_EL>kundizzjoni tal-għajnejn</UF_EL>
+<UF_EL>mard tal-għajnejn</UF_EL>
+<UF_EL>patoloġija tal-għajnejn</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1759</DESCRIPTEUR_ID>
+<UF><UF_EL>epatite</UF_EL>
+<UF_EL>kolera</UF_EL>
+<UF_EL>lebbra</UF_EL>
+<UF_EL>malarja</UF_EL>
+<UF_EL>marda batterika</UF_EL>
+<UF_EL>marda infettiva</UF_EL>
+<UF_EL>marda komunikabbli</UF_EL>
+<UF_EL>marda parażżitarja</UF_EL>
+<UF_EL>marda tan-ngħas</UF_EL>
+<UF_EL>tripanożomjażi</UF_EL>
+<UF_EL>tuberkolożi</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5738</DESCRIPTEUR_ID>
+<UF><UF_EL>Suq Komuni ta' Nofsinhar</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5291</DESCRIPTEUR_ID>
+<UF><UF_EL>dfin</UF_EL>
+<UF_EL>dikjarazzjoni ta' assenza</UF_EL>
+<UF_EL>funeral</UF_EL>
+<UF_EL>inċinerazzjoni</UF_EL>
+<UF_EL>kawża tal-mewt</UF_EL>
+<UF_EL>kremazzjoni</UF_EL>
+<UF_EL>kummissjonant</UF_EL>
+<UF_EL>marid terminali</UF_EL>
+<UF_EL>mewt naturali</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>469</DESCRIPTEUR_ID>
+<UF><UF_EL>fanal għaċ-ċpar</UF_EL>
+<UF_EL>fanal kontra t-tgħammix</UF_EL>
+<UF_EL>fanal tal-ġenb</UF_EL>
+<UF_EL>mezz ta' twissija li tinstema'</UF_EL>
+<UF_EL>sinjal ta' stop</UF_EL>
+<UF_EL>sinjali tal-vetturi</UF_EL>
+<UF_EL>sistema ta' dawl</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>8482</DESCRIPTEUR_ID>
+<UF><UF_EL>missjoni militari tal-Unjoni Ewropea</UF_EL>
+<UF_EL>operazzjoni militari tal-Unjoni Ewropea</UF_EL>
+<UF_EL>operazzjoni miltari tal-UE</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>8481</DESCRIPTEUR_ID>
+<UF><UF_EL>EUPOL</UF_EL>
+<UF_EL>MPUE</UF_EL>
+<UF_EL>missjoni tal-pulizija tal-Unjoni Ewropea</UF_EL>
+<UF_EL>operazzjoni tal-pulizija tal-UE</UF_EL>
+<UF_EL>operazzjoni tal-pulizija tal-Unjoni Ewropea</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1965</DESCRIPTEUR_ID>
+<UF><UF_EL>il-Prinċipalità ta' Monako</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>7373</DESCRIPTEUR_ID>
+<UF><UF_EL>Forum Soċjali Dinji</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>49</DESCRIPTEUR_ID>
+<UF><UF_EL>prassi politika</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5430</DESCRIPTEUR_ID>
+<UF><UF_EL>Ftehim Nord-Amerikan għall-Kummerċ Ħieles</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>7931</DESCRIPTEUR_ID>
+<UF><UF_EL>nanobioteknoloġija</UF_EL>
+<UF_EL>nanomaterjali</UF_EL>
+<UF_EL>nanoxjenza</UF_EL>
+<UF_EL>nonoelettronika</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>2199</DESCRIPTEUR_ID>
+<UF><UF_EL>Organizzazzjoni tat-Trattat tal-Atlantiku tat-Tramuntana</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>2037</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Repubblika ta' Nauru</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4130</DESCRIPTEUR_ID>
+<UF><UF_EL>kawżola tan-nazzjon l-aktar vantaġġat</UF_EL>
+<UF_EL>trattament tan-nazzjoni l-aktar vantaġġat</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>8449</DESCRIPTEUR_ID>
+<UF><UF_EL>reat ta' nuqqas ta' azzjoni</UF_EL>
+<UF_EL>reat ta' omissjoni</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6711</DESCRIPTEUR_ID>
+<UF><UF_EL>ECC-Net</UF_EL>
+<UF_EL>Netwerk Ekstra-Ġudizzjarju Ewropew [EEJ-Net]</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>3424</DESCRIPTEUR_ID>
+<UF><UF_EL>FADN</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>7944</DESCRIPTEUR_ID>
+<UF><UF_EL>nuqqas ta' osservazzjoni tar-regolamenti tas-sewqan</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>2105</DESCRIPTEUR_ID>
+<UF><UF_EL>Organizzazzjoni għal Kooperazzjoni u Żvilupp Ekonomiku</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>2102</DESCRIPTEUR_ID>
+<UF><UF_EL>Organizzazzjoni komuni Afrikana u Mawrizjana</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>2147</DESCRIPTEUR_ID>
+<UF><UF_EL>l-Organizzazzjoni tal-Pajjiżi li Jesportaw iż-Żejt</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5129</DESCRIPTEUR_ID>
+<UF><UF_EL>opinjoni tal-Kumitat Ekonomiku u Soċjali</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>8489</DESCRIPTEUR_ID>
+<UF><UF_EL>opinjoni tal-Kumitat tar-Reġjuni</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>8466</DESCRIPTEUR_ID>
+<UF><UF_EL>politika pubblika</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>2167</DESCRIPTEUR_ID>
+<UF><UF_EL>organizzazzjoni intergovernattiva Afrikana</UF_EL>
+<UF_EL>organizzazzjoni reġjonali Afrikana</UF_EL>
+<UF_EL>organizzazzjoni tal-Afrika tal-Lvant</UF_EL>
+<UF_EL>organizzazzjoni tal-Afrika tal-Punent</UF_EL>
+<UF_EL>organizzazzjoni tal-Afrika tan-Nofsinhar</UF_EL>
+<UF_EL>organizzazzjoni tal-Afrika Ċentrali</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>2170</DESCRIPTEUR_ID>
+<UF><UF_EL>organizzazzjoni intergovernattiva Amerikana</UF_EL>
+<UF_EL>organizzazzjoni reġjonali Amerikana</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>2172</DESCRIPTEUR_ID>
+<UF><UF_EL>organizzazzjoni intergovernattiva Ażjatika</UF_EL>
+<UF_EL>organizzazzjoni reġjonali Ażjatika</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6129</DESCRIPTEUR_ID>
+<UF><UF_EL>Kunsill għall-Kooperazzjoni Doganali</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>2187</DESCRIPTEUR_ID>
+<UF><UF_EL>organizzazzjoni intergovernattiva Ewropea</UF_EL>
+<UF_EL>organizzazzjoni reġjonali Ewropea</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6091</DESCRIPTEUR_ID>
+<UF><UF_EL>ESO</UF_EL>
+<UF_EL>Entità Ewropea tal-Istandardizzar</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>2093</DESCRIPTEUR_ID>
+<UF><UF_EL>ICAO</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>7202</DESCRIPTEUR_ID>
+<UF><UF_EL>OPCW</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>2171</DESCRIPTEUR_ID>
+<UF><UF_EL>organizzazzjoni intergovernattiva Għarbija</UF_EL>
+<UF_EL>organizzazzjoni reġjonali Għarbija</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5991</DESCRIPTEUR_ID>
+<UF><UF_EL>OIM</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>2130</DESCRIPTEUR_ID>
+<UF><UF_EL>ILO</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>2141</DESCRIPTEUR_ID>
+<UF><UF_EL>IMO</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>2191</DESCRIPTEUR_ID>
+<UF><UF_EL>NGO</UF_EL>
+<UF_EL>organizzazzjoni dinjija mhux governattiva</UF_EL>
+<UF_EL>organizzazzjoni internazzjonali mhux governattiva</UF_EL>
+<UF_EL>organizzazzjoni reġjonali mhux governattiva</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>2190</DESCRIPTEUR_ID>
+<UF><UF_EL>organizzazzjoni intergovernattiva tal-Amerika Latina</UF_EL>
+<UF_EL>organizzazzjoni reġjonali tal-Amerika Latina</UF_EL>
+<UF_EL>organizzazzjoni tal-Amerika Ċentrali</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>2026</DESCRIPTEUR_ID>
+<UF><UF_EL>NAFO</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>8384</DESCRIPTEUR_ID>
+<UF><UF_EL>Organu sussidjarju tan-Nazzjonijiet Uniti</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>3514</DESCRIPTEUR_ID>
+<UF><UF_EL>Organizzazzjoni għas-Sigurtà u l-Kooperazzjoni fl-Ewropa</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>2297</DESCRIPTEUR_ID>
+<UF><UF_EL>pajjiż sinjur</UF_EL>
+<UF_EL>pajjiż żviluppat</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>2299</DESCRIPTEUR_ID>
+<UF><UF_EL>PAŻ</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>8450</DESCRIPTEUR_ID>
+<UF><UF_EL>park artiġjanali</UF_EL>
+<UF_EL>park industrijali</UF_EL>
+<UF_EL>park kummerċjali</UF_EL>
+<UF_EL>park ta' attivitajiet kummerċjali</UF_EL>
+<UF_EL>park ta' impriżi</UF_EL>
+<UF_EL>żona industrijali</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>2258</DESCRIPTEUR_ID>
+<UF><UF_EL>formazzjoni politika</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1528</DESCRIPTEUR_ID>
+<UF><UF_EL>adolexxenti</UF_EL>
+<UF_EL>adolexxenza</UF_EL>
+<UF_EL>minuri</UF_EL>
+<UF_EL>żagħżugħ/a</UF_EL>
+<UF_EL>żgħażagħ</UF_EL>
+<UF_EL>żgħożija</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6709</DESCRIPTEUR_ID>
+<UF><UF_EL>difiża komuni</UF_EL>
+<UF_EL>politika Ewropea ta' sigurtà u difiża</UF_EL>
+<UF_EL>politika Ewropea ta' sigurtà u ta' difiża</UF_EL>
+<UF_EL>politika komuni ta' difiża</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4704</DESCRIPTEUR_ID>
+<UF><UF_EL>ħajja politika</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>3589</DESCRIPTEUR_ID>
+<UF><UF_EL>personalità politika</UF_EL>
+<UF_EL>statista</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>8452</DESCRIPTEUR_ID>
+<UF><UF_EL>vjadott</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5799</DESCRIPTEUR_ID>
+<UF><UF_EL>Eskimiżi</UF_EL>
+<UF_EL>Indjani tal-Amerika</UF_EL>
+<UF_EL>aboriġeni</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>3329</DESCRIPTEUR_ID>
+<UF><UF_EL>dekorazzjoni</UF_EL>
+<UF_EL>medalja</UF_EL>
+<UF_EL>medalja Ewropea</UF_EL>
+<UF_EL>onorifiċenza</UF_EL>
+<UF_EL>premju Nobel</UF_EL>
+<UF_EL>premju ta' eċċellenza</UF_EL>
+<UF_EL>premju ta' unur</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6375</DESCRIPTEUR_ID>
+<UF><UF_EL>prevenzjoni tal-gwerra</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>8468</DESCRIPTEUR_ID>
+<UF><UF_EL>ċertezza ġuridika</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>2781</DESCRIPTEUR_ID>
+<UF><UF_EL>prodott mhux sensittiv</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5315</DESCRIPTEUR_ID>
+<UF><UF_EL>programm kwadru Komunitarju</UF_EL>
+<UF_EL>programm kwadru tal-KE</UF_EL>
+<UF_EL>programm ta' qafas Komunitarju</UF_EL>
+<UF_EL>programm ta' qafas tal-KE</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>8454</DESCRIPTEUR_ID>
+<UF><UF_EL>RDFP</UF_EL>
+<UF_EL>programm kwadru R&amp;TD</UF_EL>
+<UF_EL>programm kwadru ta' riċerka</UF_EL>
+<UF_EL>programm kwadru ta' riċerka u żvilupp teknoloġiku</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>2431</DESCRIPTEUR_ID>
+<UF><UF_EL>Programm ta' Żvilupp tan-Nazzjonijiet Uniti</UF_EL>
+<UF_EL>UNDP</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>8455</DESCRIPTEUR_ID>
+<UF><UF_EL>miżura ta' protezzjoni tax-xhieda</UF_EL>
+<UF_EL>programm ta' protezzjoni tax-xhieda</UF_EL>
+<UF_EL>protezzjoni tal-kollaboraturi mal-ġustizzja</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>3142</DESCRIPTEUR_ID>
+<UF><UF_EL>ġestjoni tax-xtut</UF_EL>
+<UF_EL>ħarsien tax-xtut</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>8453</DESCRIPTEUR_ID>
+<UF><UF_EL>prova diġitali</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>2562</DESCRIPTEUR_ID>
+<UF><UF_EL>l-Istat Liberu Assoċjat ta' Puerto Rico</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>257</DESCRIPTEUR_ID>
+<UF><UF_EL>Kummissjoni Ewropea tad-Drittijiet tal-Bniedem</UF_EL>
+<UF_EL>QEDB</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6101</DESCRIPTEUR_ID>
+<UF><UF_EL>Qorti tal-Ġustizzja tal-EFTA</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>574</DESCRIPTEUR_ID>
+<UF><UF_EL>falsifikar</UF_EL>
+<UF_EL>falsifikar ta' flus</UF_EL>
+<UF_EL>fattura falza</UF_EL>
+<UF_EL>infrazzjoni ekonomika</UF_EL>
+<UF_EL>kont falz</UF_EL>
+<UF_EL>kriminalità ekonomika</UF_EL>
+<UF_EL>qerq</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>3128</DESCRIPTEUR_ID>
+<UF><UF_EL>kaċċa selettiva</UF_EL>
+<UF_EL>perjodu tal-kaċċa</UF_EL>
+<UF_EL>permess tal-kaċċa</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>3196</DESCRIPTEUR_ID>
+<UF><UF_EL>bilateraliżmu</UF_EL>
+<UF_EL>relazzjoni bilaterali</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>3241</DESCRIPTEUR_ID>
+<UF><UF_EL>multilateraliżmu</UF_EL>
+<UF_EL>relazzjoni multilaterali</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>8306</DESCRIPTEUR_ID>
+<UF><UF_EL>reġjun ta' Kardjali</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>8307</DESCRIPTEUR_ID>
+<UF><UF_EL>reġjun ta' Pazardjik</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>8309</DESCRIPTEUR_ID>
+<UF><UF_EL>reġjun ta' Smolian</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>8457</DESCRIPTEUR_ID>
+<UF><UF_EL>rikonoxximent de facto</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>8460</DESCRIPTEUR_ID>
+<UF><UF_EL>rimbors ta' appoġġ Komunitarju</UF_EL>
+<UF_EL>rimbors ta' għajnuniet Komunitarji</UF_EL>
+<UF_EL>rimbors ta' sussidju</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>3307</DESCRIPTEUR_ID>
+<UF><UF_EL>bank tal-isperma</UF_EL>
+<UF_EL>donatur tal-isperma</UF_EL>
+<UF_EL>donazzjoni ta' embrijuni</UF_EL>
+<UF_EL>donazzjoni ta' sperma</UF_EL>
+<UF_EL>fertilizzazzjoni artfiċjali</UF_EL>
+<UF_EL>prokreazzjoni artifiċjali umana</UF_EL>
+<UF_EL>prokreazzjoni medika assistita</UF_EL>
+<UF_EL>riproduzzjoni umana assistita</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>3457</DESCRIPTEUR_ID>
+<UF><UF_EL>park naturali</UF_EL>
+<UF_EL>riżerva tal-bijosfera</UF_EL>
+<UF_EL>riżerva tal-fawna</UF_EL>
+<UF_EL>riżerva tal-flora</UF_EL>
+<UF_EL>sit naturali protett</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>3112</DESCRIPTEUR_ID>
+<UF><UF_EL>negozjati ta' paċi</UF_EL>
+<UF_EL>riżoluzzjoni ta' kunflitti</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>8552</DESCRIPTEUR_ID>
+<UF><UF_EL>ċiklu ta' Doha</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>3830</DESCRIPTEUR_ID>
+<UF><UF_EL>Tristan da Cunha</UF_EL>
+<UF_EL>il-Gżira ta’ Ascencion</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>3403</DESCRIPTEUR_ID>
+<UF><UF_EL>il-Federazzjoni ta' Saint Kitts u Nevis</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>3858</DESCRIPTEUR_ID>
+<UF><UF_EL>l-Istat Indipendenti ta' Samoa</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>3814</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Repubblika ta' San Marino</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5279</DESCRIPTEUR_ID>
+<UF><UF_EL>Komunità tal-Paċifiku</UF_EL>
+<UF_EL>Kummissjoni tal-Paċifiku tan-Nofsinhar</UF_EL>
+<UF_EL>SPC</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>8387</DESCRIPTEUR_ID>
+<UF><UF_EL>Segretarju Ġenerali tan-Nazzjonijiet Uniti</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5362</DESCRIPTEUR_ID>
+<UF><UF_EL>sehem finanzjarju</UF_EL>
+<UF_EL>titolu</UF_EL>
+<UF_EL>ċertifikat ta' ishma</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4161</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Repubblika ta' Sierra Leone</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4164</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Repubblika ta' Singapor</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>2020</DESCRIPTEUR_ID>
+<UF><UF_EL>demokrazija multipartitika</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>2116</DESCRIPTEUR_ID>
+<UF><UF_EL>SICA</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>2590</DESCRIPTEUR_ID>
+<UF><UF_EL>SPĠ</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>8414</DESCRIPTEUR_ID>
+<UF><UF_EL>timbru uffiċjali</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>8459</DESCRIPTEUR_ID>
+<UF><UF_EL>ħlas uniku</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>863</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Renju ta' Spanja</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1083</DESCRIPTEUR_ID>
+<UF><UF_EL>spejjeż amministrattivi</UF_EL>
+<UF_EL>spejjeż finanzjarji</UF_EL>
+<UF_EL>spejjeż ġenerali</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>7217</DESCRIPTEUR_ID>
+<UF><UF_EL>Statut għad-Deputati</UF_EL>
+<UF_EL>Statut għall-Membri</UF_EL>
+<UF_EL>Statut għas-senaturi</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>8400</DESCRIPTEUR_ID>
+<UF><UF_EL>Comesa</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>3727</DESCRIPTEUR_ID>
+<UF><UF_EL>CACM</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>3135</DESCRIPTEUR_ID>
+<UF><UF_EL>dijossina</UF_EL>
+<UF_EL>prodott tossiku</UF_EL>
+<UF_EL>skariku tossiku</UF_EL>
+<UF_EL>sustanza perikoluża</UF_EL>
+<UF_EL>tossiċità</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>3888</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Repubblika Demokratika ta' São Tomé u Príncipe</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>7934</DESCRIPTEUR_ID>
+<UF><UF_EL>PPP</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6155</DESCRIPTEUR_ID>
+<UF><UF_EL>Tariffa Integrata tal-Komunità Ewropea</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4381</DESCRIPTEUR_ID>
+<UF><UF_EL>TDK</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5195</DESCRIPTEUR_ID>
+<UF><UF_EL>prezz tal-komunikazzjoni telefonika</UF_EL>
+<UF_EL>prezz tal-komunikazzjonijiet</UF_EL>
+<UF_EL>prezz tas-sejħiet telefoniċi</UF_EL>
+<UF_EL>sistema ta' tariffi tal-komunikazzjonijiet</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1456</DESCRIPTEUR_ID>
+<UF><UF_EL>modernizzazzjoni tal-abitazzjonijiet</UF_EL>
+<UF_EL>titjib fil-housing</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>3281</DESCRIPTEUR_ID>
+<UF><UF_EL>riabilitazzjoni urbana</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6900</DESCRIPTEUR_ID>
+<UF><UF_EL>tkeċċija minn dar</UF_EL>
+<UF_EL>tkeċċija ta' kerrej</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4466</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Renju ta' Tonga</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4515</DESCRIPTEUR_ID>
+<UF><UF_EL>trasport fuq ix-xmajjar</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4479</DESCRIPTEUR_ID>
+<UF><UF_EL>Trattati tal-Unjoni Ewropea</UF_EL>
+<UF_EL>leġiżlazzjoni primarja</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6145</DESCRIPTEUR_ID>
+<UF><UF_EL>miżuri ta' investiment relatat mal-kummerċ</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6146</DESCRIPTEUR_ID>
+<UF><UF_EL>aspetti marbuta mal-kummerċ tad-drittijiet tal-proprjetà intellettwali</UF_EL>
+<UF_EL>ftehim TRIPS</UF_EL>
+<UF_EL>ftehim dwar id-drittijiet tal-proprjetà intellettwali</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>8471</DESCRIPTEUR_ID>
+<UF><UF_EL>ekoturiżmu</UF_EL>
+<UF_EL>turiżmu ambjentali</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>8472</DESCRIPTEUR_ID>
+<UF><UF_EL>turiżmu alternattiv</UF_EL>
+<UF_EL>turiżmu etiku</UF_EL>
+<UF_EL>turiżmu responsabbli</UF_EL>
+<UF_EL>turiżmu umanitarju</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>8461</DESCRIPTEUR_ID>
+<UF><UF_EL>kruċiera fuq ix-xmajjar</UF_EL>
+<UF_EL>turiżmu nawtiku</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4581</DESCRIPTEUR_ID>
+<UF><UF_EL>kura</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6256</DESCRIPTEUR_ID>
+<UF><UF_EL>OLAF</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5250</DESCRIPTEUR_ID>
+<UF><UF_EL>Programm tan-NU għall-Kolonji Umani [UNHSP]</UF_EL>
+<UF_EL>Ċentru tan-Nazzjonijiet Uniti għall-Kolonji Umani [UNHCS]</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>8393</DESCRIPTEUR_ID>
+<UF><UF_EL>Programm Konġunt tan-Nazzjonijiet Uniti dwar l-HIV/AIDS</UF_EL>
+<UF_EL>Programm tan-NU dwar l-HIV/AIDS</UF_EL>
+<UF_EL>Programm tan-Nazzjonijiet Uniti dwar l-HIV/AIDS</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>3710</DESCRIPTEUR_ID>
+<UF><UF_EL>Kummissarju Għoli għar-Refuġjati</UF_EL>
+<UF_EL>Kummissarju Għoli tan-NU għar-Refuġjati</UF_EL>
+<UF_EL>Kummissarju Għoli tan-Nazzjonijiet Uniti għar-Refuġjati</UF_EL>
+<UF_EL>Uffiċju tal-Kummissarju Għoli tan-Nazzjonijiet Uniti għar-Refuġjati</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1022</DESCRIPTEUR_ID>
+<UF><UF_EL>Fond Internazzjonali ta' Emerġenza tan-Nazzjonijiet Uniti għat-Tfal</UF_EL>
+<UF_EL>Fond tan-Nazzjonijiet Uniti għat-Tfal</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4610</DESCRIPTEUR_ID>
+<UF><UF_EL>Sistema Universali għall-Informazzjoni fix-Xjenza u t-Teknoloġija</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>8403</DESCRIPTEUR_ID>
+<UF><UF_EL>SACU</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>3722</DESCRIPTEUR_ID>
+<UF><UF_EL>Komunità Ekonomika tal-Afrika tal-Punent [WAEC]</UF_EL>
+<UF_EL>Unjoni Doganali tal-Istati tal-Afrika tal-Punent [CUWAS]</UF_EL>
+<UF_EL>WAEMU</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4591</DESCRIPTEUR_ID>
+<UF><UF_EL>UIT</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4614</DESCRIPTEUR_ID>
+<UF><UF_EL>l-Aġenzija tal-Għajnuna u x-Xogħol għar-Refuġjati Palestinjani tan-Nazzjonijiet Uniti</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6161</DESCRIPTEUR_ID>
+<UF><UF_EL>ELEC</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>7956</DESCRIPTEUR_ID>
+<UF><UF_EL>bidla fil-bini tal-kumpanija</UF_EL>
+<UF_EL>ma bqajniex lokali</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6207</DESCRIPTEUR_ID>
+<UF><UF_EL>CEEP</UF_EL>
+<UF_EL>Ċentru Ewropew ta' Intrapriżi b'Parteċipazzjoni Pubblika u ta' Intrapriżi ta' Interess Ekonomiku Ġenerali</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>8395</DESCRIPTEUR_ID>
+<UF><UF_EL>ECPRD</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5282</DESCRIPTEUR_ID>
+<UF><UF_EL>CDE</UF_EL>
+<UF_EL>Ċentru għall-Iżvilupp tal-Industrija [CDI]</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5354</DESCRIPTEUR_ID>
+<UF><UF_EL>JRC</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4594</DESCRIPTEUR_ID>
+<UF><UF_EL>UNCRD</UF_EL>
+<UF_EL>Ċentru tan-Nazzjonijiet Uniti għall-Iżvilupp Reġjonali</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5989</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Repubblika ta' Ċipru</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>8438</DESCRIPTEUR_ID>
+<UF><UF_EL>kejl tad-dinja</UF_EL>
+<UF_EL>kejl ġeodesiku</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>484</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Repubblika ta' Ġibuti</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>8410</DESCRIPTEUR_ID>
+<UF><UF_EL>assistenza għat-tneħħija tal-mini</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1221</DESCRIPTEUR_ID>
+<UF><UF_EL>ambjent uman</UF_EL>
+<UF_EL>ħabitat uman</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1222</DESCRIPTEUR_ID>
+<UF><UF_EL>ambjent rurali</UF_EL>
+<UF_EL>spazju rurali</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1223</DESCRIPTEUR_ID>
+<UF><UF_EL>ambjent urban</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1228</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Repubblika ta' Ħaiti</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5465</DESCRIPTEUR_ID>
+<UF><UF_EL>riċiklaġġ ta' fondi</UF_EL>
+<UF_EL>riċiklaġġ tal-flus</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>8465</DESCRIPTEUR_ID>
+<UF><UF_EL>mandat tal-membri</UF_EL>
+<UF_EL>nomina tal-membri</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1254</DESCRIPTEUR_ID>
+<UF><UF_EL>ir-Reġjun Amministrattiv Speċjali ta' Ħong Kong</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4801</DESCRIPTEUR_ID>
+<UF><UF_EL>spazju protett</UF_EL>
+<UF_EL>żona ppreservata</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4804</DESCRIPTEUR_ID>
+<UF><UF_EL>subborg</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6222</DESCRIPTEUR_ID>
+<UF><UF_EL>ġustizzja u affarijiet interni</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>7195</DESCRIPTEUR_ID>
+<UF><UF_EL>żvilupp tal-individwu</UF_EL>
+<UF_EL>żvilupp tal-personalità</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1818</DESCRIPTEUR_ID>
+<UF><UF_EL>adulterju</UF_EL>
+<UF_EL>unjoni konjugali</UF_EL>
+<UF_EL>unjoni matrimonjali</UF_EL>
+</UF>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>8448</DESCRIPTEUR_ID>
+<UF><UF_EL>żwieġ imgiegħel</UF_EL>
+<UF_EL>żwieġ prekoċi</UF_EL>
+<UF_EL>żwieġ tat-tfal</UF_EL>
+</UF>
+</RECORD>
+</USED_FOR>

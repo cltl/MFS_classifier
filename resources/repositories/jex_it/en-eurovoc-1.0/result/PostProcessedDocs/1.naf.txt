@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="/home/postma/In_progress/mfs_classifier/resources/repositories/jex_it/en-eurovoc-1.0/documents/1.naf.txt">
+    <category code="3813" label="medicament" weight="0.20629553813132714 ">
+        <BroaderTerm label="pharmaceutical product"/>
+    </category>
+    <category code="4307" label="carcinogenic substance" weight="0.16840174543581565 ">
+        <BroaderTerm label="dangerous substance"/>
+        <RelatedTerm label="cancer"/>
+    </category>
+    <category code="1594" label="pharmaceutical legislation" weight="0.1651857567336558 ">
+        <BroaderTerm label="organisation of health care"/>
+        <RelatedTerm label="pharmacology"/>
+        <RelatedTerm label="pharmaceutical product"/>
+    </category>
+    <category code="5916" label="drug surveillance" weight="0.15937859024339565 ">
+        <BroaderTerm label="pharmaceutical legislation"/>
+    </category>
+    <category code="2479" label="health policy" weight="0.15590640549859502 "/>
+    <category code="3885" label="public health" weight="0.13888198923693496 ">
+        <BroaderTerm label="organisation of health care"/>
+    </category>
+</document>

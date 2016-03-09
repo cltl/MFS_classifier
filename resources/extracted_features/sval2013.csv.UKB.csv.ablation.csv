@@ -1,0 +1,9 @@
+feature	diff accuracy
+best_setting	MFS_confidence_UKB-idf-jex-pos-ratio_WND
+worst_value	0.514198004605
+best_value	0.681504221028
+-MFS_confidence_UKB	0.084
+-jex	0.035
+-idf	0.034
+-ratio_WND	0.027
+-pos	0.014

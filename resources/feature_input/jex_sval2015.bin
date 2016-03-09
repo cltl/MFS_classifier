@@ -1,0 +1,92 @@
+ccollections
+defaultdict
+p1
+(c__builtin__
+dict
+p2
+tRp3
+S'4.naf'
+p4
+(dp5
+S'health control'
+p6
+F0.082785163464693598
+sS'public health'
+p7
+F0.10588409471308574
+sS'domestic animal'
+p8
+F0.12807631709785833
+sS'pharmaceutical legislation'
+p9
+F0.084196513931537903
+sS'veterinary legislation'
+p10
+F0.090695357424299058
+sS'medicament'
+p11
+F0.090276216798179959
+ssS'2.naf'
+p12
+(dp13
+S'economic concentration'
+p14
+F0.04162962656602999
+sS'approximation of laws'
+p15
+F0.039401329779326366
+sS'merger control'
+p16
+F0.037775040553191232
+sS'Germany'
+p17
+F0.036894146499157156
+sS'information transfer'
+p18
+F0.039177781951596907
+sS'competition law'
+p19
+F0.036318671351305856
+ssS'3.naf'
+p20
+(dp21
+S'European Foundation for the Improvement of Living and Working Conditions'
+p22
+F0.12468952629724112
+sS'equal treatment'
+p23
+F0.12136958147111372
+sS'Community programme'
+p24
+F0.13238614477213051
+sS'EU Member State'
+p25
+F0.12522564565467487
+sS'cooperation policy'
+p26
+F0.1197441596783291
+sS'European Social Fund'
+p27
+F0.12894127011304041
+ssS'1.naf'
+p28
+(dp29
+S'drug surveillance'
+p30
+F0.15937859024339565
+sS'public health'
+p31
+F0.13888198923693496
+sS'pharmaceutical legislation'
+p32
+F0.16518575673365579
+sS'carcinogenic substance'
+p33
+F0.16840174543581565
+sS'health policy'
+p34
+F0.15590640549859502
+sS'medicament'
+p35
+F0.20629553813132714
+ss.

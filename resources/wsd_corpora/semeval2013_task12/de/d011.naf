@@ -1,0 +1,3896 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="de" version="1.0">
+  <nafHeader>
+    <linguisticProcessors layer="text">
+      <lp name="SemEval2013_task#12_tokens" version="1.0" timestamp="2015-01-13T13:56:02CET" beginTimestamp="2015-01-13T13:56:02CET" endTimestamp="2015-01-13T13:56:02CET" hostname="kyoto"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="terms">
+      <lp name="SemEval2013_task#12_terms" version="1.0" timestamp="2015-01-13T13:56:02CET" beginTimestamp="2015-01-13T13:56:02CET" endTimestamp="2015-01-13T13:56:02CET" hostname="kyoto"/>
+    </linguisticProcessors>
+  </nafHeader>
+  <text>
+    <wf id="w1" offset="0" sent="1">Spanier</wf>
+    <wf id="w2" offset="8" sent="1">haben</wf>
+    <wf id="w3" offset="14" sent="1">mehr</wf>
+    <wf id="w4" offset="19" sent="1">Spielgelegenheiten</wf>
+    <wf id="w5" offset="38" sent="1">als</wf>
+    <wf id="w6" offset="42" sent="1">die</wf>
+    <wf id="w7" offset="46" sent="1">Ticos</wf>
+    <wf id="w8" offset="52" sent="2">Von</wf>
+    <wf id="w9" offset="56" sent="2">den</wf>
+    <wf id="w10" offset="60" sent="2">22</wf>
+    <wf id="w11" offset="63" sent="2">aus</wf>
+    <wf id="w12" offset="67" sent="2">Spanien</wf>
+    <wf id="w13" offset="75" sent="2">abgerufenen</wf>
+    <wf id="w14" offset="87" sent="2">Spielern</wf>
+    <wf id="w15" offset="96" sent="2">haben</wf>
+    <wf id="w16" offset="102" sent="2">zehn</wf>
+    <wf id="w17" offset="107" sent="2">über</wf>
+    <wf id="w18" offset="112" sent="2">50</wf>
+    <wf id="w19" offset="115" sent="2">internationale</wf>
+    <wf id="w20" offset="130" sent="2">Spiele</wf>
+    <wf id="w21" offset="137" sent="2">auf</wf>
+    <wf id="w22" offset="141" sent="2">dem</wf>
+    <wf id="w23" offset="145" sent="2">Buckel</wf>
+    <wf id="w24" offset="152" sent="2">.</wf>
+    <wf id="w25" offset="154" sent="3">Von</wf>
+    <wf id="w26" offset="158" sent="3">Seiten</wf>
+    <wf id="w27" offset="165" sent="3">Costa_Ricas</wf>
+    <wf id="w28" offset="177" sent="3">hat</wf>
+    <wf id="w29" offset="181" sent="3">nur</wf>
+    <wf id="w30" offset="185" sent="3">einer</wf>
+    <wf id="w31" offset="191" sent="3">der</wf>
+    <wf id="w32" offset="195" sent="3">22</wf>
+    <wf id="w33" offset="198" sent="3">Einberufenen</wf>
+    <wf id="w34" offset="211" sent="3">50</wf>
+    <wf id="w35" offset="214" sent="3">Spiele</wf>
+    <wf id="w36" offset="221" sent="3">hinter</wf>
+    <wf id="w37" offset="228" sent="3">sich</wf>
+    <wf id="w38" offset="233" sent="3">.</wf>
+    <wf id="w39" offset="235" sent="4">Ein</wf>
+    <wf id="w40" offset="239" sent="4">Riesenunterschied</wf>
+    <wf id="w41" offset="257" sent="4">für</wf>
+    <wf id="w42" offset="261" sent="4">Costa_Rica</wf>
+    <wf id="w43" offset="272" sent="4">,</wf>
+    <wf id="w44" offset="274" sent="4">wenn</wf>
+    <wf id="w45" offset="279" sent="4">die</wf>
+    <wf id="w46" offset="283" sent="4">22</wf>
+    <wf id="w47" offset="286" sent="4">für</wf>
+    <wf id="w48" offset="290" sent="4">das</wf>
+    <wf id="w49" offset="294" sent="4">Freundschaftsspiel</wf>
+    <wf id="w50" offset="313" sent="4">,</wf>
+    <wf id="w51" offset="315" sent="4">das</wf>
+    <wf id="w52" offset="319" sent="4">heute</wf>
+    <wf id="w53" offset="325" sent="4">um</wf>
+    <wf id="w54" offset="328" sent="4">15.05</wf>
+    <wf id="w55" offset="334" sent="4">Uhr</wf>
+    <wf id="w56" offset="338" sent="4">im</wf>
+    <wf id="w57" offset="341" sent="4">Nationalstadion</wf>
+    <wf id="w58" offset="357" sent="4">von</wf>
+    <wf id="w59" offset="361" sent="4">San_José</wf>
+    <wf id="w60" offset="370" sent="4">stattfindet</wf>
+    <wf id="w61" offset="382" sent="4">,</wf>
+    <wf id="w62" offset="384" sent="4">aufgestellten</wf>
+    <wf id="w63" offset="398" sent="4">Spieler</wf>
+    <wf id="w64" offset="406" sent="4">aus</wf>
+    <wf id="w65" offset="410" sent="4">beiden</wf>
+    <wf id="w66" offset="417" sent="4">Ländern</wf>
+    <wf id="w67" offset="425" sent="4">miteinander</wf>
+    <wf id="w68" offset="437" sent="4">verglichen</wf>
+    <wf id="w69" offset="448" sent="4">werden</wf>
+    <wf id="w70" offset="455" sent="4">.</wf>
+    <wf id="w71" offset="457" sent="5">Während</wf>
+    <wf id="w72" offset="465" sent="5">die</wf>
+    <wf id="w73" offset="469" sent="5">Welt-</wf>
+    <wf id="w74" offset="475" sent="5">und</wf>
+    <wf id="w75" offset="479" sent="5">Europameister</wf>
+    <wf id="w76" offset="493" sent="5">,</wf>
+    <wf id="w77" offset="495" sent="5">die</wf>
+    <wf id="w78" offset="499" sent="5">Nummer</wf>
+    <wf id="w79" offset="506" sent="5">eins</wf>
+    <wf id="w80" offset="511" sent="5">auf</wf>
+    <wf id="w81" offset="515" sent="5">dem</wf>
+    <wf id="w82" offset="519" sent="5">Monatsranking</wf>
+    <wf id="w83" offset="533" sent="5">der</wf>
+    <wf id="w84" offset="537" sent="5">FIFA</wf>
+    <wf id="w85" offset="542" sent="5">,</wf>
+    <wf id="w86" offset="544" sent="5">auf</wf>
+    <wf id="w87" offset="548" sent="5">eine</wf>
+    <wf id="w88" offset="553" sent="5">beachtliche</wf>
+    <wf id="w89" offset="565" sent="5">Anzahl</wf>
+    <wf id="w90" offset="572" sent="5">von</wf>
+    <wf id="w91" offset="576" sent="5">Auswahlspielen</wf>
+    <wf id="w92" offset="591" sent="5">der</wf>
+    <wf id="w93" offset="595" sent="5">Klasse</wf>
+    <wf id="w94" offset="602" sent="5">A</wf>
+    <wf id="w95" offset="604" sent="5">zurückblicken</wf>
+    <wf id="w96" offset="618" sent="5">kann</wf>
+    <wf id="w97" offset="623" sent="5">,</wf>
+    <wf id="w98" offset="625" sent="5">verfügt</wf>
+    <wf id="w99" offset="633" sent="5">die</wf>
+    <wf id="w100" offset="637" sent="5">dreifarbige</wf>
+    <wf id="w101" offset="649" sent="5">Mannschaft</wf>
+    <wf id="w102" offset="660" sent="5">nur</wf>
+    <wf id="w103" offset="664" sent="5">über</wf>
+    <wf id="w104" offset="669" sent="5">den</wf>
+    <wf id="w105" offset="673" sent="5">Verteidigungsspieler</wf>
+    <wf id="w106" offset="694" sent="5">Michael_Umana</wf>
+    <wf id="w107" offset="708" sent="5">als</wf>
+    <wf id="w108" offset="712" sent="5">einzigem</wf>
+    <wf id="w109" offset="721" sent="5">mit</wf>
+    <wf id="w110" offset="725" sent="5">über</wf>
+    <wf id="w111" offset="730" sent="5">50</wf>
+    <wf id="w112" offset="733" sent="5">internationalen</wf>
+    <wf id="w113" offset="749" sent="5">Spielen</wf>
+    <wf id="w114" offset="757" sent="5">.</wf>
+    <wf id="w115" offset="759" sent="6">Diese</wf>
+    <wf id="w116" offset="765" sent="6">Zahl</wf>
+    <wf id="w117" offset="770" sent="6">erreichte</wf>
+    <wf id="w118" offset="780" sent="6">er</wf>
+    <wf id="w119" offset="783" sent="6">am</wf>
+    <wf id="w120" offset="786" sent="6">letzten</wf>
+    <wf id="w121" offset="794" sent="6">Freitag</wf>
+    <wf id="w122" offset="802" sent="6">mit</wf>
+    <wf id="w123" offset="806" sent="6">dem</wf>
+    <wf id="w124" offset="810" sent="6">Spiel</wf>
+    <wf id="w125" offset="816" sent="6">gegen</wf>
+    <wf id="w126" offset="822" sent="6">Panama</wf>
+    <wf id="w127" offset="829" sent="6">(</wf>
+    <wf id="w128" offset="831" sent="6">0-2</wf>
+    <wf id="w129" offset="835" sent="6">)</wf>
+    <wf id="w130" offset="837" sent="6">im</wf>
+    <wf id="w131" offset="840" sent="6">Rommel_Fernández</wf>
+    <wf id="w132" offset="857" sent="6">.</wf>
+    <wf id="w133" offset="859" sent="7">Die</wf>
+    <wf id="w134" offset="863" sent="7">spanischen</wf>
+    <wf id="w135" offset="874" sent="7">Spieler</wf>
+    <wf id="w136" offset="882" sent="7">,</wf>
+    <wf id="w137" offset="884" sent="7">die</wf>
+    <wf id="w138" offset="888" sent="7">in</wf>
+    <wf id="w139" offset="891" sent="7">der</wf>
+    <wf id="w140" offset="895" sent="7">Liga</wf>
+    <wf id="w141" offset="900" sent="7">de</wf>
+    <wf id="w142" offset="903" sent="7">las</wf>
+    <wf id="w143" offset="907" sent="7">Estrellas</wf>
+    <wf id="w144" offset="917" sent="7">(</wf>
+    <wf id="w145" offset="919" sent="7">Starliga</wf>
+    <wf id="w146" offset="928" sent="7">)</wf>
+    <wf id="w147" offset="930" sent="7">und</wf>
+    <wf id="w148" offset="934" sent="7">einflussreichen</wf>
+    <wf id="w149" offset="950" sent="7">Clubs</wf>
+    <wf id="w150" offset="956" sent="7">der</wf>
+    <wf id="w151" offset="960" sent="7">Premier_League</wf>
+    <wf id="w152" offset="975" sent="7">von</wf>
+    <wf id="w153" offset="979" sent="7">England</wf>
+    <wf id="w154" offset="987" sent="7">spielen</wf>
+    <wf id="w155" offset="995" sent="7">,</wf>
+    <wf id="w156" offset="997" sent="7">haben</wf>
+    <wf id="w157" offset="1003" sent="7">jedes</wf>
+    <wf id="w158" offset="1009" sent="7">Jahr</wf>
+    <wf id="w159" offset="1014" sent="7">die</wf>
+    <wf id="w160" offset="1018" sent="7">Gelegenheit</wf>
+    <wf id="w161" offset="1030" sent="7">zur</wf>
+    <wf id="w162" offset="1034" sent="7">Teilnahme</wf>
+    <wf id="w163" offset="1044" sent="7">an</wf>
+    <wf id="w164" offset="1047" sent="7">zahlreichen</wf>
+    <wf id="w165" offset="1059" sent="7">Heimspielen</wf>
+    <wf id="w166" offset="1071" sent="7">(</wf>
+    <wf id="w167" offset="1073" sent="7">Liga-</wf>
+    <wf id="w168" offset="1079" sent="7">und</wf>
+    <wf id="w169" offset="1083" sent="7">Cup-Meisterschaften</wf>
+    <wf id="w170" offset="1103" sent="7">)</wf>
+    <wf id="w171" offset="1105" sent="7">sowie</wf>
+    <wf id="w172" offset="1111" sent="7">hochrangigen</wf>
+    <wf id="w173" offset="1124" sent="7">Europacups</wf>
+    <wf id="w174" offset="1135" sent="7">wie</wf>
+    <wf id="w175" offset="1139" sent="7">die</wf>
+    <wf id="w176" offset="1143" sent="7">Champions_League</wf>
+    <wf id="w177" offset="1160" sent="7">.</wf>
+    <wf id="w178" offset="1162" sent="8">Hinzu</wf>
+    <wf id="w179" offset="1168" sent="8">kommen</wf>
+    <wf id="w180" offset="1175" sent="8">die</wf>
+    <wf id="w181" offset="1179" sent="8">Erfahrungen</wf>
+    <wf id="w182" offset="1191" sent="8">mit</wf>
+    <wf id="w183" offset="1195" sent="8">der</wf>
+    <wf id="w184" offset="1199" sent="8">Spanischen</wf>
+    <wf id="w185" offset="1210" sent="8">Furie</wf>
+    <wf id="w186" offset="1216" sent="8">bei</wf>
+    <wf id="w187" offset="1220" sent="8">komplizierten</wf>
+    <wf id="w188" offset="1234" sent="8">Ausscheidungsspielen</wf>
+    <wf id="w189" offset="1255" sent="8">beim</wf>
+    <wf id="w190" offset="1260" sent="8">Eurocup</wf>
+    <wf id="w191" offset="1268" sent="8">und</wf>
+    <wf id="w192" offset="1272" sent="8">den</wf>
+    <wf id="w193" offset="1276" sent="8">Fußballweltmeisterschaften</wf>
+    <wf id="w194" offset="1303" sent="8">.</wf>
+    <wf id="w195" offset="1305" sent="9">Die</wf>
+    <wf id="w196" offset="1309" sent="9">Tico-Fußballer</wf>
+    <wf id="w197" offset="1324" sent="9">verfügen</wf>
+    <wf id="w198" offset="1333" sent="9">hingegen</wf>
+    <wf id="w199" offset="1342" sent="9">über</wf>
+    <wf id="w200" offset="1347" sent="9">wenige</wf>
+    <wf id="w201" offset="1354" sent="9">internationale</wf>
+    <wf id="w202" offset="1369" sent="9">Begegnungen</wf>
+    <wf id="w203" offset="1381" sent="9">im</wf>
+    <wf id="w204" offset="1384" sent="9">Rahmen</wf>
+    <wf id="w205" offset="1391" sent="9">des</wf>
+    <wf id="w206" offset="1395" sent="9">Concacaf</wf>
+    <wf id="w207" offset="1404" sent="9">,</wf>
+    <wf id="w208" offset="1406" sent="9">der</wf>
+    <wf id="w209" offset="1410" sent="9">auf</wf>
+    <wf id="w210" offset="1414" sent="9">der</wf>
+    <wf id="w211" offset="1418" sent="9">FIFA-Rangliste</wf>
+    <wf id="w212" offset="1433" sent="9">ganz</wf>
+    <wf id="w213" offset="1438" sent="9">unten</wf>
+    <wf id="w214" offset="1444" sent="9">steht</wf>
+    <wf id="w215" offset="1450" sent="9">.</wf>
+    <wf id="w216" offset="1452" sent="10">Wir</wf>
+    <wf id="w217" offset="1456" sent="10">werden</wf>
+    <wf id="w218" offset="1463" sent="10">sehen</wf>
+    <wf id="w219" offset="1469" sent="10">,</wf>
+    <wf id="w220" offset="1471" sent="10">wie</wf>
+    <wf id="w221" offset="1475" sent="10">die</wf>
+    <wf id="w222" offset="1479" sent="10">spanische</wf>
+    <wf id="w223" offset="1489" sent="10">Mannschaft</wf>
+    <wf id="w224" offset="1500" sent="10">ihren</wf>
+    <wf id="w225" offset="1506" sent="10">letzten</wf>
+    <wf id="w226" offset="1514" sent="10">Register</wf>
+    <wf id="w227" offset="1523" sent="10">zieht</wf>
+    <wf id="w228" offset="1529" sent="10">:</wf>
+    <wf id="w229" offset="1531" sent="10">Den</wf>
+    <wf id="w230" offset="1535" sent="10">Torwart</wf>
+    <wf id="w231" offset="1543" sent="10">Iker_Casillas</wf>
+    <wf id="w232" offset="1557" sent="10">,</wf>
+    <wf id="w233" offset="1559" sent="10">der</wf>
+    <wf id="w234" offset="1563" sent="10">am</wf>
+    <wf id="w235" offset="1566" sent="10">letzten</wf>
+    <wf id="w236" offset="1574" sent="10">Samstag</wf>
+    <wf id="w237" offset="1582" sent="10">gegen</wf>
+    <wf id="w238" offset="1588" sent="10">England</wf>
+    <wf id="w239" offset="1596" sent="10">(</wf>
+    <wf id="w240" offset="1598" sent="10">Niederlage</wf>
+    <wf id="w241" offset="1609" sent="10">0-1</wf>
+    <wf id="w242" offset="1613" sent="10">in</wf>
+    <wf id="w243" offset="1616" sent="10">London</wf>
+    <wf id="w244" offset="1623" sent="10">)</wf>
+    <wf id="w245" offset="1625" sent="10">mit</wf>
+    <wf id="w246" offset="1629" sent="10">126</wf>
+    <wf id="w247" offset="1633" sent="10">Auslandsspielen</wf>
+    <wf id="w248" offset="1649" sent="10">einen</wf>
+    <wf id="w249" offset="1655" sent="10">Gleichstand</wf>
+    <wf id="w250" offset="1667" sent="10">mit</wf>
+    <wf id="w251" offset="1671" sent="10">dem</wf>
+    <wf id="w252" offset="1675" sent="10">ehemaligen</wf>
+    <wf id="w253" offset="1686" sent="10">Torwart</wf>
+    <wf id="w254" offset="1694" sent="10">Andoni_Zubizarreta</wf>
+    <wf id="w255" offset="1713" sent="10">erreichte</wf>
+    <wf id="w256" offset="1723" sent="10">.</wf>
+    <wf id="w257" offset="1725" sent="11">Casillas</wf>
+    <wf id="w258" offset="1734" sent="11">wird</wf>
+    <wf id="w259" offset="1739" sent="11">heute</wf>
+    <wf id="w260" offset="1745" sent="11">gegen</wf>
+    <wf id="w261" offset="1751" sent="11">die</wf>
+    <wf id="w262" offset="1755" sent="11">dreifarbigen</wf>
+    <wf id="w263" offset="1768" sent="11">Mannschaft</wf>
+    <wf id="w264" offset="1779" sent="11">spielen</wf>
+    <wf id="w265" offset="1787" sent="11">und</wf>
+    <wf id="w266" offset="1791" sent="11">Spanien</wf>
+    <wf id="w267" offset="1799" sent="11">einen</wf>
+    <wf id="w268" offset="1805" sent="11">neuen</wf>
+    <wf id="w269" offset="1811" sent="11">Rekord</wf>
+    <wf id="w270" offset="1818" sent="11">von</wf>
+    <wf id="w271" offset="1822" sent="11">127</wf>
+    <wf id="w272" offset="1826" sent="11">Auslandsspielen</wf>
+    <wf id="w273" offset="1842" sent="11">.</wf>
+    <wf id="w274" offset="1844" sent="12">Xavi_Hernández</wf>
+    <wf id="w275" offset="1859" sent="12">,</wf>
+    <wf id="w276" offset="1861" sent="12">Spieler</wf>
+    <wf id="w277" offset="1869" sent="12">des</wf>
+    <wf id="w278" offset="1873" sent="12">Fußballklubs</wf>
+    <wf id="w279" offset="1886" sent="12">Barcelona</wf>
+    <wf id="w280" offset="1896" sent="12">,</wf>
+    <wf id="w281" offset="1898" sent="12">besitzt</wf>
+    <wf id="w282" offset="1906" sent="12">106</wf>
+    <wf id="w283" offset="1910" sent="12">.</wf>
+    <wf id="w284" offset="1912" sent="13">Casillas</wf>
+    <wf id="w285" offset="1921" sent="13">und</wf>
+    <wf id="w286" offset="1925" sent="13">Xavi</wf>
+    <wf id="w287" offset="1930" sent="13">erhielten</wf>
+    <wf id="w288" offset="1940" sent="13">letzte</wf>
+    <wf id="w289" offset="1947" sent="13">Woche</wf>
+    <wf id="w290" offset="1953" sent="13">sogar</wf>
+    <wf id="w291" offset="1959" sent="13">eine</wf>
+    <wf id="w292" offset="1964" sent="13">Anerkennung</wf>
+    <wf id="w293" offset="1976" sent="13">von</wf>
+    <wf id="w294" offset="1980" sent="13">der</wf>
+    <wf id="w295" offset="1984" sent="13">UEFA</wf>
+    <wf id="w296" offset="1989" sent="13">,</wf>
+    <wf id="w297" offset="1991" sent="13">zusammen</wf>
+    <wf id="w298" offset="2000" sent="13">mit</wf>
+    <wf id="w299" offset="2004" sent="13">anderen</wf>
+    <wf id="w300" offset="2012" sent="13">der</wf>
+    <wf id="w301" offset="2016" sent="13">iberischen</wf>
+    <wf id="w302" offset="2027" sent="13">Mannschaft</wf>
+    <wf id="w303" offset="2038" sent="13">,</wf>
+    <wf id="w304" offset="2040" sent="13">die</wf>
+    <wf id="w305" offset="2044" sent="13">die</wf>
+    <wf id="w306" offset="2048" sent="13">magische</wf>
+    <wf id="w307" offset="2057" sent="13">Zahl</wf>
+    <wf id="w308" offset="2062" sent="13">100</wf>
+    <wf id="w309" offset="2066" sent="13">erreicht</wf>
+    <wf id="w310" offset="2075" sent="13">hatten</wf>
+    <wf id="w311" offset="2082" sent="13">:</wf>
+    <wf id="w312" offset="2084" sent="13">der</wf>
+    <wf id="w313" offset="2088" sent="13">zitierte</wf>
+    <wf id="w314" offset="2097" sent="13">Zubizarreta</wf>
+    <wf id="w315" offset="2109" sent="13">mit</wf>
+    <wf id="w316" offset="2113" sent="13">126</wf>
+    <wf id="w317" offset="2117" sent="13">und</wf>
+    <wf id="w318" offset="2121" sent="13">der</wf>
+    <wf id="w319" offset="2125" sent="13">Mittelstürmer</wf>
+    <wf id="w320" offset="2139" sent="13">von</wf>
+    <wf id="w321" offset="2143" sent="13">Schalke</wf>
+    <wf id="w322" offset="2151" sent="13">,</wf>
+    <wf id="w323" offset="2153" sent="13">Raúl_González</wf>
+    <wf id="w324" offset="2167" sent="13">,</wf>
+    <wf id="w325" offset="2169" sent="13">mit</wf>
+    <wf id="w326" offset="2173" sent="13">102</wf>
+    <wf id="w327" offset="2177" sent="13">.</wf>
+    <wf id="w328" offset="2179" sent="14">Der</wf>
+    <wf id="w329" offset="2183" sent="14">Zahl</wf>
+    <wf id="w330" offset="2188" sent="14">Hundert</wf>
+    <wf id="w331" offset="2196" sent="14">nähert</wf>
+    <wf id="w332" offset="2203" sent="14">sich</wf>
+    <wf id="w333" offset="2208" sent="14">auch</wf>
+    <wf id="w334" offset="2213" sent="14">Carles_Puyol</wf>
+    <wf id="w335" offset="2226" sent="14">mit</wf>
+    <wf id="w336" offset="2230" sent="14">97</wf>
+    <wf id="w337" offset="2233" sent="14">Spielen</wf>
+    <wf id="w338" offset="2241" sent="14">.</wf>
+    <wf id="w339" offset="2243" sent="15">Ihm</wf>
+    <wf id="w340" offset="2247" sent="15">folgen</wf>
+    <wf id="w341" offset="2254" sent="15">Xabi_Alonso</wf>
+    <wf id="w342" offset="2266" sent="15">mit</wf>
+    <wf id="w343" offset="2270" sent="15">91</wf>
+    <wf id="w344" offset="2273" sent="15">,</wf>
+    <wf id="w345" offset="2275" sent="15">Fernando_Torres</wf>
+    <wf id="w346" offset="2291" sent="15">mit</wf>
+    <wf id="w347" offset="2295" sent="15">90</wf>
+    <wf id="w348" offset="2298" sent="15">,</wf>
+    <wf id="w349" offset="2300" sent="15">David_Villa</wf>
+    <wf id="w350" offset="2312" sent="15">und</wf>
+    <wf id="w351" offset="2316" sent="15">Sergio_Ramos</wf>
+    <wf id="w352" offset="2329" sent="15">beide</wf>
+    <wf id="w353" offset="2335" sent="15">mit</wf>
+    <wf id="w354" offset="2339" sent="15">81</wf>
+    <wf id="w355" offset="2342" sent="15">,</wf>
+    <wf id="w356" offset="2344" sent="15">Andrés_Iniesta</wf>
+    <wf id="w357" offset="2359" sent="15">mit</wf>
+    <wf id="w358" offset="2363" sent="15">62</wf>
+    <wf id="w359" offset="2366" sent="15">,</wf>
+    <wf id="w360" offset="2368" sent="15">Cesc_Fábregas</wf>
+    <wf id="w361" offset="2382" sent="15">mit</wf>
+    <wf id="w362" offset="2386" sent="15">61</wf>
+    <wf id="w363" offset="2389" sent="15">und</wf>
+    <wf id="w364" offset="2393" sent="15">David_Silva</wf>
+    <wf id="w365" offset="2405" sent="15">mit</wf>
+    <wf id="w366" offset="2409" sent="15">53.</wf>
+    <wf id="w367" offset="2413" sent="16">Von</wf>
+    <wf id="w368" offset="2417" sent="16">Seiten</wf>
+    <wf id="w369" offset="2424" sent="16">der</wf>
+    <wf id="w370" offset="2428" sent="16">Ticos</wf>
+    <wf id="w371" offset="2434" sent="16">und</wf>
+    <wf id="w372" offset="2438" sent="16">nahe</wf>
+    <wf id="w373" offset="2443" sent="16">bei</wf>
+    <wf id="w374" offset="2447" sent="16">Michael_Umana</wf>
+    <wf id="w375" offset="2461" sent="16">sind</wf>
+    <wf id="w376" offset="2466" sent="16">der</wf>
+    <wf id="w377" offset="2470" sent="16">linke</wf>
+    <wf id="w378" offset="2476" sent="16">Seitenstürmer</wf>
+    <wf id="w379" offset="2490" sent="16">Júnior_Díaz</wf>
+    <wf id="w380" offset="2502" sent="16">mit</wf>
+    <wf id="w381" offset="2506" sent="16">48</wf>
+    <wf id="w382" offset="2509" sent="16">Spielen</wf>
+    <wf id="w383" offset="2517" sent="16">und</wf>
+    <wf id="w384" offset="2521" sent="16">der</wf>
+    <wf id="w385" offset="2525" sent="16">Stürmer</wf>
+    <wf id="w386" offset="2533" sent="16">Bryan_Ruiz</wf>
+    <wf id="w387" offset="2544" sent="16">mit</wf>
+    <wf id="w388" offset="2548" sent="16">45.</wf>
+    <wf id="w389" offset="2552" sent="17">Ab</wf>
+    <wf id="w390" offset="2555" sent="17">da</wf>
+    <wf id="w391" offset="2558" sent="17">kamen</wf>
+    <wf id="w392" offset="2564" sent="17">nur</wf>
+    <wf id="w393" offset="2568" sent="17">fünf</wf>
+    <wf id="w394" offset="2573" sent="17">auf</wf>
+    <wf id="w395" offset="2577" sent="17">über</wf>
+    <wf id="w396" offset="2582" sent="17">30</wf>
+    <wf id="w397" offset="2585" sent="17">Spiele</wf>
+    <wf id="w398" offset="2592" sent="17">:</wf>
+    <wf id="w399" offset="2594" sent="17">Keilor</wf>
+    <wf id="w400" offset="2601" sent="17">Navas</wf>
+    <wf id="w401" offset="2607" sent="17">mit</wf>
+    <wf id="w402" offset="2611" sent="17">31</wf>
+    <wf id="w403" offset="2614" sent="17">,</wf>
+    <wf id="w404" offset="2616" sent="17">Randall_Azofeifa</wf>
+    <wf id="w405" offset="2633" sent="17">mit</wf>
+    <wf id="w406" offset="2637" sent="17">32</wf>
+    <wf id="w407" offset="2640" sent="17">,</wf>
+    <wf id="w408" offset="2642" sent="17">Michael</wf>
+    <wf id="w409" offset="2650" sent="17">Barrantes</wf>
+    <wf id="w410" offset="2660" sent="17">mit</wf>
+    <wf id="w411" offset="2664" sent="17">31</wf>
+    <wf id="w412" offset="2667" sent="17">,</wf>
+    <wf id="w413" offset="2669" sent="17">Carlos_Hernández</wf>
+    <wf id="w414" offset="2686" sent="17">mit</wf>
+    <wf id="w415" offset="2690" sent="17">36</wf>
+    <wf id="w416" offset="2693" sent="17">und</wf>
+    <wf id="w417" offset="2697" sent="17">José_Luis_López</wf>
+    <wf id="w418" offset="2713" sent="17">mit</wf>
+    <wf id="w419" offset="2717" sent="17">35.</wf>
+    <wf id="w420" offset="2721" sent="18">Die</wf>
+    <wf id="w421" offset="2725" sent="18">mit</wf>
+    <wf id="w422" offset="2729" sent="18">den</wf>
+    <wf id="w423" offset="2733" sent="18">wenigsten</wf>
+    <wf id="w424" offset="2743" sent="18">Spielen</wf>
+    <wf id="w425" offset="2751" sent="18">.</wf>
+    <wf id="w426" offset="2753" sent="19">Weniger</wf>
+    <wf id="w427" offset="2761" sent="19">als</wf>
+    <wf id="w428" offset="2765" sent="19">30</wf>
+    <wf id="w429" offset="2768" sent="19">Spiele</wf>
+    <wf id="w430" offset="2775" sent="19">weisen</wf>
+    <wf id="w431" offset="2782" sent="19">im</wf>
+    <wf id="w432" offset="2785" sent="19">spanischen</wf>
+    <wf id="w433" offset="2796" sent="19">Team</wf>
+    <wf id="w434" offset="2801" sent="19">Gerard_Piqué</wf>
+    <wf id="w435" offset="2814" sent="19">(</wf>
+    <wf id="w436" offset="2816" sent="19">37</wf>
+    <wf id="w437" offset="2819" sent="19">)</wf>
+    <wf id="w438" offset="2821" sent="19">,</wf>
+    <wf id="w439" offset="2823" sent="19">Sergio_Busquets</wf>
+    <wf id="w440" offset="2839" sent="19">(</wf>
+    <wf id="w441" offset="2841" sent="19">36</wf>
+    <wf id="w442" offset="2844" sent="19">)</wf>
+    <wf id="w443" offset="2846" sent="19">,</wf>
+    <wf id="w444" offset="2848" sent="19">Santiago</wf>
+    <wf id="w445" offset="2857" sent="19">Santi_Cazorla</wf>
+    <wf id="w446" offset="2871" sent="19">(</wf>
+    <wf id="w447" offset="2873" sent="19">32</wf>
+    <wf id="w448" offset="2876" sent="19">)</wf>
+    <wf id="w449" offset="2878" sent="19">,</wf>
+    <wf id="w450" offset="2880" sent="19">Álvaro_Arbeloa</wf>
+    <wf id="w451" offset="2895" sent="19">(</wf>
+    <wf id="w452" offset="2897" sent="19">31</wf>
+    <wf id="w453" offset="2900" sent="19">)</wf>
+    <wf id="w454" offset="2902" sent="19">und</wf>
+    <wf id="w455" offset="2906" sent="19">Raúl_Albiol</wf>
+    <wf id="w456" offset="2918" sent="19">(</wf>
+    <wf id="w457" offset="2920" sent="19">31</wf>
+    <wf id="w458" offset="2923" sent="19">)</wf>
+    <wf id="w459" offset="2925" sent="19">auf</wf>
+    <wf id="w460" offset="2929" sent="19">.</wf>
+    <wf id="w461" offset="2931" sent="20">Von</wf>
+    <wf id="w462" offset="2935" sent="20">Seiten</wf>
+    <wf id="w463" offset="2942" sent="20">der</wf>
+    <wf id="w464" offset="2946" sent="20">Nationalmannschaft</wf>
+    <wf id="w465" offset="2965" sent="20">kommen</wf>
+    <wf id="w466" offset="2972" sent="20">auf</wf>
+    <wf id="w467" offset="2976" sent="20">weniger</wf>
+    <wf id="w468" offset="2984" sent="20">als</wf>
+    <wf id="w469" offset="2988" sent="20">30</wf>
+    <wf id="w470" offset="2991" sent="20">Spiele</wf>
+    <wf id="w471" offset="2998" sent="20">Roy</wf>
+    <wf id="w472" offset="3002" sent="20">Miller</wf>
+    <wf id="w473" offset="3009" sent="20">mit</wf>
+    <wf id="w474" offset="3013" sent="20">26</wf>
+    <wf id="w475" offset="3016" sent="20">,</wf>
+    <wf id="w476" offset="3018" sent="20">Winston</wf>
+    <wf id="w477" offset="3026" sent="20">Parks</wf>
+    <wf id="w478" offset="3032" sent="20">mit</wf>
+    <wf id="w479" offset="3036" sent="20">26</wf>
+    <wf id="w480" offset="3039" sent="20">,</wf>
+    <wf id="w481" offset="3041" sent="20">Gabriel_Badilla</wf>
+    <wf id="w482" offset="3057" sent="20">mit</wf>
+    <wf id="w483" offset="3061" sent="20">25</wf>
+    <wf id="w484" offset="3064" sent="20">und</wf>
+    <wf id="w485" offset="3068" sent="20">Roy</wf>
+    <wf id="w486" offset="3072" sent="20">Myrie</wf>
+    <wf id="w487" offset="3078" sent="20">mit</wf>
+    <wf id="w488" offset="3082" sent="20">23.</wf>
+    <wf id="w489" offset="3086" sent="21">Der</wf>
+    <wf id="w490" offset="3090" sent="21">Rest</wf>
+    <wf id="w491" offset="3095" sent="21">nähert</wf>
+    <wf id="w492" offset="3102" sent="21">sich</wf>
+    <wf id="w493" offset="3107" sent="21">nicht</wf>
+    <wf id="w494" offset="3113" sent="21">einmal</wf>
+    <wf id="w495" offset="3120" sent="21">der</wf>
+    <wf id="w496" offset="3124" sent="21">20er-Grenze</wf>
+    <wf id="w497" offset="3136" sent="21">.</wf>
+    <wf id="w498" offset="3138" sent="22">Während</wf>
+    <wf id="w499" offset="3146" sent="22">Nacho</wf>
+    <wf id="w500" offset="3152" sent="22">Moreal</wf>
+    <wf id="w501" offset="3159" sent="22">nur</wf>
+    <wf id="w502" offset="3163" sent="22">vier</wf>
+    <wf id="w503" offset="3168" sent="22">Spiele</wf>
+    <wf id="w504" offset="3175" sent="22">hat</wf>
+    <wf id="w505" offset="3179" sent="22">und</wf>
+    <wf id="w506" offset="3183" sent="22">Jordi_Alba</wf>
+    <wf id="w507" offset="3194" sent="22">zwei</wf>
+    <wf id="w508" offset="3199" sent="22">,</wf>
+    <wf id="w509" offset="3201" sent="22">verzeichnet</wf>
+    <wf id="w510" offset="3213" sent="22">in</wf>
+    <wf id="w511" offset="3216" sent="22">Costa_Rica</wf>
+    <wf id="w512" offset="3227" sent="22">Víctor</wf>
+    <wf id="w513" offset="3234" sent="22">Bolívar</wf>
+    <wf id="w514" offset="3242" sent="22">nur</wf>
+    <wf id="w515" offset="3246" sent="22">eins</wf>
+    <wf id="w516" offset="3251" sent="22">und</wf>
+    <wf id="w517" offset="3255" sent="22">Ólman</wf>
+    <wf id="w518" offset="3261" sent="22">Vargas</wf>
+    <wf id="w519" offset="3268" sent="22">und</wf>
+    <wf id="w520" offset="3272" sent="22">Edder</wf>
+    <wf id="w521" offset="3278" sent="22">Nelson</wf>
+    <wf id="w522" offset="3285" sent="22">hatten</wf>
+    <wf id="w523" offset="3292" sent="22">ihr</wf>
+    <wf id="w524" offset="3296" sent="22">Debüt</wf>
+    <wf id="w525" offset="3302" sent="22">noch</wf>
+    <wf id="w526" offset="3307" sent="22">nicht</wf>
+    <wf id="w527" offset="3313" sent="22">.</wf>
+    <wf id="w528" offset="3315" sent="23">Der</wf>
+    <wf id="w529" offset="3319" sent="23">geschichtsträchtige</wf>
+    <wf id="w530" offset="3339" sent="23">Torhüter</wf>
+    <wf id="w531" offset="3348" sent="23">Spaniens</wf>
+    <wf id="w532" offset="3357" sent="23">ist</wf>
+    <wf id="w533" offset="3361" sent="23">David_Villa</wf>
+    <wf id="w534" offset="3373" sent="23">mit</wf>
+    <wf id="w535" offset="3377" sent="23">50</wf>
+    <wf id="w536" offset="3380" sent="23">Treffern</wf>
+    <wf id="w537" offset="3389" sent="23">,</wf>
+    <wf id="w538" offset="3391" sent="23">gefolgt</wf>
+    <wf id="w539" offset="3399" sent="23">von</wf>
+    <wf id="w540" offset="3403" sent="23">Fernando_Torres</wf>
+    <wf id="w541" offset="3419" sent="23">mit</wf>
+    <wf id="w542" offset="3423" sent="23">27.</wf>
+    <wf id="w543" offset="3427" sent="24">Für</wf>
+    <wf id="w544" offset="3431" sent="24">Costa_Rica</wf>
+    <wf id="w545" offset="3442" sent="24">hat</wf>
+    <wf id="w546" offset="3446" sent="24">Bryan_Ruiz</wf>
+    <wf id="w547" offset="3457" sent="24">mit</wf>
+    <wf id="w548" offset="3461" sent="24">neun</wf>
+    <wf id="w549" offset="3466" sent="24">die</wf>
+    <wf id="w550" offset="3470" sent="24">meisten</wf>
+    <wf id="w551" offset="3478" sent="24">Tore</wf>
+    <wf id="w552" offset="3483" sent="24">geschossen</wf>
+    <wf id="w553" offset="3494" sent="24">,</wf>
+    <wf id="w554" offset="3496" sent="24">zwei</wf>
+    <wf id="w555" offset="3501" sent="24">mehr</wf>
+    <wf id="w556" offset="3506" sent="24">als</wf>
+    <wf id="w557" offset="3510" sent="24">Carlos</wf>
+    <wf id="w558" offset="3517" sent="24">Hernández</wf>
+    <wf id="w559" offset="3527" sent="24">und</wf>
+    <wf id="w560" offset="3531" sent="24">drei</wf>
+    <wf id="w561" offset="3536" sent="24">mehr</wf>
+    <wf id="w562" offset="3541" sent="24">als</wf>
+    <wf id="w563" offset="3545" sent="24">Roy</wf>
+    <wf id="w564" offset="3549" sent="24">Myrie</wf>
+    <wf id="w565" offset="3555" sent="24">und</wf>
+    <wf id="w566" offset="3559" sent="24">Parks</wf>
+    <wf id="w567" offset="3565" sent="24">.</wf>
+  </text>
+  <terms>
+    <term id="t1" pos="NN" lemma="Spanier">
+      <span>
+        <target id="w1"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d011.s001.t001"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="spanier"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:02389392n"/>
+      </externalReferences>
+    </term>
+    <term id="t2" pos="VAFIN" lemma="haben">
+      <span>
+        <target id="w2"/>
+      </span>
+    </term>
+    <term id="t3" pos="PIAT" lemma="mehr">
+      <span>
+        <target id="w3"/>
+      </span>
+    </term>
+    <term id="t4" pos="NN" lemma="Spielgelegenheit">
+      <span>
+        <target id="w4"/>
+      </span>
+    </term>
+    <term id="t5" pos="KOKOM" lemma="als">
+      <span>
+        <target id="w5"/>
+      </span>
+    </term>
+    <term id="t6" pos="ART" lemma="d">
+      <span>
+        <target id="w6"/>
+      </span>
+    </term>
+    <term id="t7" pos="NN" lemma="Ticos">
+      <span>
+        <target id="w7"/>
+      </span>
+    </term>
+    <term id="t8" pos="APPR" lemma="von">
+      <span>
+        <target id="w8"/>
+      </span>
+    </term>
+    <term id="t9" pos="ART" lemma="d">
+      <span>
+        <target id="w9"/>
+      </span>
+    </term>
+    <term id="t10" pos="CARD" lemma="22">
+      <span>
+        <target id="w10"/>
+      </span>
+    </term>
+    <term id="t11" pos="APPR" lemma="aus">
+      <span>
+        <target id="w11"/>
+      </span>
+    </term>
+    <term id="t12" pos="NE" lemma="Spanien">
+      <span>
+        <target id="w12"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d011.s002.t001"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="spanien"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00031605n"/>
+      </externalReferences>
+    </term>
+    <term id="t13" pos="ADJA" lemma="abgerufen">
+      <span>
+        <target id="w13"/>
+      </span>
+    </term>
+    <term id="t14" pos="NN" lemma="Spieler">
+      <span>
+        <target id="w14"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d011.s002.t002"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00060799n"/>
+      </externalReferences>
+    </term>
+    <term id="t15" pos="VAFIN" lemma="haben">
+      <span>
+        <target id="w15"/>
+      </span>
+    </term>
+    <term id="t16" pos="CARD" lemma="zehn">
+      <span>
+        <target id="w16"/>
+      </span>
+    </term>
+    <term id="t17" pos="APPR" lemma="über">
+      <span>
+        <target id="w17"/>
+      </span>
+    </term>
+    <term id="t18" pos="CARD" lemma="50">
+      <span>
+        <target id="w18"/>
+      </span>
+    </term>
+    <term id="t19" pos="ADJA" lemma="international">
+      <span>
+        <target id="w19"/>
+      </span>
+    </term>
+    <term id="t20" pos="NN" lemma="Spiel">
+      <span>
+        <target id="w20"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d011.s002.t003"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00037181n"/>
+      </externalReferences>
+    </term>
+    <term id="t21" pos="APPR" lemma="auf">
+      <span>
+        <target id="w21"/>
+      </span>
+    </term>
+    <term id="t22" pos="ART" lemma="d">
+      <span>
+        <target id="w22"/>
+      </span>
+    </term>
+    <term id="t23" pos="NN" lemma="Buckel">
+      <span>
+        <target id="w23"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d011.s002.t004"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00013761n"/>
+      </externalReferences>
+    </term>
+    <term id="t24" pos="$." lemma=".">
+      <span>
+        <target id="w24"/>
+      </span>
+    </term>
+    <term id="t25" pos="APPR" lemma="von">
+      <span>
+        <target id="w25"/>
+      </span>
+    </term>
+    <term id="t26" pos="NN" lemma="Seite">
+      <span>
+        <target id="w26"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d011.s003.t001"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00071432n"/>
+      </externalReferences>
+    </term>
+    <term id="t27" pos="NE" lemma="costa_rica">
+      <span>
+        <target id="w27"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d011.s003.t002"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="costa_rica"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00023012n"/>
+      </externalReferences>
+    </term>
+    <term id="t28" pos="VAFIN" lemma="haben">
+      <span>
+        <target id="w28"/>
+      </span>
+    </term>
+    <term id="t29" pos="ADV" lemma="nur">
+      <span>
+        <target id="w29"/>
+      </span>
+    </term>
+    <term id="t30" pos="PIS" lemma="ein">
+      <span>
+        <target id="w30"/>
+      </span>
+    </term>
+    <term id="t31" pos="ART" lemma="d">
+      <span>
+        <target id="w31"/>
+      </span>
+    </term>
+    <term id="t32" pos="CARD" lemma="22">
+      <span>
+        <target id="w32"/>
+      </span>
+    </term>
+    <term id="t33" pos="NN" lemma="Einberufene">
+      <span>
+        <target id="w33"/>
+      </span>
+    </term>
+    <term id="t34" pos="CARD" lemma="50">
+      <span>
+        <target id="w34"/>
+      </span>
+    </term>
+    <term id="t35" pos="NN" lemma="Spiel">
+      <span>
+        <target id="w35"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d011.s003.t003"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00037181n"/>
+      </externalReferences>
+    </term>
+    <term id="t36" pos="APPR" lemma="hinter">
+      <span>
+        <target id="w36"/>
+      </span>
+    </term>
+    <term id="t37" pos="PRF" lemma="er">
+      <span>
+        <target id="w37"/>
+      </span>
+    </term>
+    <term id="t38" pos="$." lemma=".">
+      <span>
+        <target id="w38"/>
+      </span>
+    </term>
+    <term id="t39" pos="ART" lemma="eine">
+      <span>
+        <target id="w39"/>
+      </span>
+    </term>
+    <term id="t40" pos="NN" lemma="Riesenunterschied">
+      <span>
+        <target id="w40"/>
+      </span>
+    </term>
+    <term id="t41" pos="APPR" lemma="für">
+      <span>
+        <target id="w41"/>
+      </span>
+    </term>
+    <term id="t42" pos="NE" lemma="costa_rica">
+      <span>
+        <target id="w42"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d011.s004.t001"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="costa_rica"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00023012n"/>
+      </externalReferences>
+    </term>
+    <term id="t43" pos="$," lemma=",">
+      <span>
+        <target id="w43"/>
+      </span>
+    </term>
+    <term id="t44" pos="KOUS" lemma="wenn">
+      <span>
+        <target id="w44"/>
+      </span>
+    </term>
+    <term id="t45" pos="ART" lemma="d">
+      <span>
+        <target id="w45"/>
+      </span>
+    </term>
+    <term id="t46" pos="CARD" lemma="22">
+      <span>
+        <target id="w46"/>
+      </span>
+    </term>
+    <term id="t47" pos="APPR" lemma="für">
+      <span>
+        <target id="w47"/>
+      </span>
+    </term>
+    <term id="t48" pos="ART" lemma="d">
+      <span>
+        <target id="w48"/>
+      </span>
+    </term>
+    <term id="t49" pos="NN" lemma="Freundschaftsspiel">
+      <span>
+        <target id="w49"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d011.s004.t002"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="freundschaftsspiel"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00032227n"/>
+      </externalReferences>
+    </term>
+    <term id="t50" pos="$," lemma=",">
+      <span>
+        <target id="w50"/>
+      </span>
+    </term>
+    <term id="t51" pos="PRELS" lemma="d">
+      <span>
+        <target id="w51"/>
+      </span>
+    </term>
+    <term id="t52" pos="ADV" lemma="heute">
+      <span>
+        <target id="w52"/>
+      </span>
+    </term>
+    <term id="t53" pos="APPR" lemma="um">
+      <span>
+        <target id="w53"/>
+      </span>
+    </term>
+    <term id="t54" pos="CARD" lemma="15.05">
+      <span>
+        <target id="w54"/>
+      </span>
+    </term>
+    <term id="t55" pos="NN" lemma="Uhr">
+      <span>
+        <target id="w55"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d011.s004.t003"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="uhr"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00019887n"/>
+      </externalReferences>
+    </term>
+    <term id="t56" pos="APPRART" lemma="im">
+      <span>
+        <target id="w56"/>
+      </span>
+    </term>
+    <term id="t57" pos="NN" lemma="Nationalstadion">
+      <span>
+        <target id="w57"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d011.s004.t004"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:03813328n"/>
+      </externalReferences>
+    </term>
+    <term id="t58" pos="APPR" lemma="von">
+      <span>
+        <target id="w58"/>
+      </span>
+    </term>
+    <term id="t59" pos="NE" lemma="san_josé">
+      <span>
+        <target id="w59"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d011.s004.t005"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="san_josã©_(costa_rica)"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00015531n"/>
+      </externalReferences>
+    </term>
+    <term id="t60" pos="VVFIN" lemma="stattfinden">
+      <span>
+        <target id="w60"/>
+      </span>
+    </term>
+    <term id="t61" pos="$," lemma=",">
+      <span>
+        <target id="w61"/>
+      </span>
+    </term>
+    <term id="t62" pos="ADJA" lemma="aufgestellt">
+      <span>
+        <target id="w62"/>
+      </span>
+    </term>
+    <term id="t63" pos="NN" lemma="Spieler">
+      <span>
+        <target id="w63"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d011.s004.t006"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00060799n"/>
+      </externalReferences>
+    </term>
+    <term id="t64" pos="APPR" lemma="aus">
+      <span>
+        <target id="w64"/>
+      </span>
+    </term>
+    <term id="t65" pos="PIAT" lemma="beide">
+      <span>
+        <target id="w65"/>
+      </span>
+    </term>
+    <term id="t66" pos="NN" lemma="Land">
+      <span>
+        <target id="w66"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d011.s004.t007"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="staat"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="souverã¤ner_staat"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00011771n"/>
+      </externalReferences>
+    </term>
+    <term id="t67" pos="ADV" lemma="miteinander">
+      <span>
+        <target id="w67"/>
+      </span>
+    </term>
+    <term id="t68" pos="VVPP" lemma="vergleichen">
+      <span>
+        <target id="w68"/>
+      </span>
+    </term>
+    <term id="t69" pos="VAINF" lemma="werden">
+      <span>
+        <target id="w69"/>
+      </span>
+    </term>
+    <term id="t70" pos="$." lemma=".">
+      <span>
+        <target id="w70"/>
+      </span>
+    </term>
+    <term id="t71" pos="KOUS" lemma="während">
+      <span>
+        <target id="w71"/>
+      </span>
+    </term>
+    <term id="t72" pos="ART" lemma="d">
+      <span>
+        <target id="w72"/>
+      </span>
+    </term>
+    <term id="t73" pos="TRUNC" lemma="Welt-">
+      <span>
+        <target id="w73"/>
+      </span>
+    </term>
+    <term id="t74" pos="KON" lemma="und">
+      <span>
+        <target id="w74"/>
+      </span>
+    </term>
+    <term id="t75" pos="NN" lemma="Europameister">
+      <span>
+        <target id="w75"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d011.s005.t001"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="europameisterschaft"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:02988800n"/>
+      </externalReferences>
+    </term>
+    <term id="t76" pos="$," lemma=",">
+      <span>
+        <target id="w76"/>
+      </span>
+    </term>
+    <term id="t77" pos="ART" lemma="d">
+      <span>
+        <target id="w77"/>
+      </span>
+    </term>
+    <term id="t78" pos="NN" lemma="Nummer">
+      <span>
+        <target id="w78"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d011.s005.t002"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="nummer"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:04560023n"/>
+      </externalReferences>
+    </term>
+    <term id="t79" pos="CARD" lemma="eins">
+      <span>
+        <target id="w79"/>
+      </span>
+    </term>
+    <term id="t80" pos="APPR" lemma="auf">
+      <span>
+        <target id="w80"/>
+      </span>
+    </term>
+    <term id="t81" pos="ART" lemma="d">
+      <span>
+        <target id="w81"/>
+      </span>
+    </term>
+    <term id="t82" pos="NN" lemma="Monatsranking">
+      <span>
+        <target id="w82"/>
+      </span>
+    </term>
+    <term id="t83" pos="ART" lemma="d">
+      <span>
+        <target id="w83"/>
+      </span>
+    </term>
+    <term id="t84" pos="NN" lemma="FIFA">
+      <span>
+        <target id="w84"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d011.s005.t003"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="fifa"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00225994n"/>
+      </externalReferences>
+    </term>
+    <term id="t85" pos="$," lemma=",">
+      <span>
+        <target id="w85"/>
+      </span>
+    </term>
+    <term id="t86" pos="APPR" lemma="auf">
+      <span>
+        <target id="w86"/>
+      </span>
+    </term>
+    <term id="t87" pos="ART" lemma="ein">
+      <span>
+        <target id="w87"/>
+      </span>
+    </term>
+    <term id="t88" pos="ADJA" lemma="beachtlich">
+      <span>
+        <target id="w88"/>
+      </span>
+    </term>
+    <term id="t89" pos="NN" lemma="Anzahl">
+      <span>
+        <target id="w89"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d011.s005.t004"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="anzahl"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:04535480n"/>
+      </externalReferences>
+    </term>
+    <term id="t90" pos="APPR" lemma="von">
+      <span>
+        <target id="w90"/>
+      </span>
+    </term>
+    <term id="t91" pos="NN" lemma="Auswahlspiel">
+      <span>
+        <target id="w91"/>
+      </span>
+    </term>
+    <term id="t92" pos="ART" lemma="d">
+      <span>
+        <target id="w92"/>
+      </span>
+    </term>
+    <term id="t93" pos="ADJA" lemma="Klasse">
+      <span>
+        <target id="w93"/>
+      </span>
+    </term>
+    <term id="t94" pos="NN" lemma="A">
+      <span>
+        <target id="w94"/>
+      </span>
+    </term>
+    <term id="t95" pos="VVINF" lemma="zurückblicken">
+      <span>
+        <target id="w95"/>
+      </span>
+    </term>
+    <term id="t96" pos="VMFIN" lemma="können">
+      <span>
+        <target id="w96"/>
+      </span>
+    </term>
+    <term id="t97" pos="$," lemma=",">
+      <span>
+        <target id="w97"/>
+      </span>
+    </term>
+    <term id="t98" pos="VVFIN" lemma="verfügen">
+      <span>
+        <target id="w98"/>
+      </span>
+    </term>
+    <term id="t99" pos="ART" lemma="d">
+      <span>
+        <target id="w99"/>
+      </span>
+    </term>
+    <term id="t100" pos="ADJA" lemma="dreifarbig">
+      <span>
+        <target id="w100"/>
+      </span>
+    </term>
+    <term id="t101" pos="NN" lemma="Mannschaft">
+      <span>
+        <target id="w101"/>
+      </span>
+    </term>
+    <term id="t102" pos="ADV" lemma="nur">
+      <span>
+        <target id="w102"/>
+      </span>
+    </term>
+    <term id="t103" pos="APPR" lemma="über">
+      <span>
+        <target id="w103"/>
+      </span>
+    </term>
+    <term id="t104" pos="ART" lemma="d">
+      <span>
+        <target id="w104"/>
+      </span>
+    </term>
+    <term id="t105" pos="NN" lemma="Verteidigungsspieler">
+      <span>
+        <target id="w105"/>
+      </span>
+    </term>
+    <term id="t106" pos="NE" lemma="michael_umana">
+      <span>
+        <target id="w106"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d011.s005.t005"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="michael_umaã±a"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00904738n"/>
+      </externalReferences>
+    </term>
+    <term id="t107" pos="KOKOM" lemma="als">
+      <span>
+        <target id="w107"/>
+      </span>
+    </term>
+    <term id="t108" pos="ADJA" lemma="einzig">
+      <span>
+        <target id="w108"/>
+      </span>
+    </term>
+    <term id="t109" pos="APPR" lemma="mit">
+      <span>
+        <target id="w109"/>
+      </span>
+    </term>
+    <term id="t110" pos="APPR" lemma="über">
+      <span>
+        <target id="w110"/>
+      </span>
+    </term>
+    <term id="t111" pos="CARD" lemma="50">
+      <span>
+        <target id="w111"/>
+      </span>
+    </term>
+    <term id="t112" pos="ADJA" lemma="international">
+      <span>
+        <target id="w112"/>
+      </span>
+    </term>
+    <term id="t113" pos="NN" lemma="Spiel">
+      <span>
+        <target id="w113"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d011.s005.t006"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00037181n"/>
+      </externalReferences>
+    </term>
+    <term id="t114" pos="$." lemma=".">
+      <span>
+        <target id="w114"/>
+      </span>
+    </term>
+    <term id="t115" pos="PDAT" lemma="dies">
+      <span>
+        <target id="w115"/>
+      </span>
+    </term>
+    <term id="t116" pos="NN" lemma="Zahl">
+      <span>
+        <target id="w116"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d011.s006.t001"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="anzahl"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:04535480n"/>
+      </externalReferences>
+    </term>
+    <term id="t117" pos="VVFIN" lemma="erreichen">
+      <span>
+        <target id="w117"/>
+      </span>
+    </term>
+    <term id="t118" pos="PPER" lemma="er">
+      <span>
+        <target id="w118"/>
+      </span>
+    </term>
+    <term id="t119" pos="APPRART" lemma="am">
+      <span>
+        <target id="w119"/>
+      </span>
+    </term>
+    <term id="t120" pos="ADJA" lemma="letzt">
+      <span>
+        <target id="w120"/>
+      </span>
+    </term>
+    <term id="t121" pos="NN" lemma="Freitag">
+      <span>
+        <target id="w121"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d011.s006.t002"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="freitag"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00036512n"/>
+      </externalReferences>
+    </term>
+    <term id="t122" pos="APPR" lemma="mit">
+      <span>
+        <target id="w122"/>
+      </span>
+    </term>
+    <term id="t123" pos="ART" lemma="d">
+      <span>
+        <target id="w123"/>
+      </span>
+    </term>
+    <term id="t124" pos="NN" lemma="Spiel">
+      <span>
+        <target id="w124"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d011.s006.t003"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00037181n"/>
+      </externalReferences>
+    </term>
+    <term id="t125" pos="APPR" lemma="gegen">
+      <span>
+        <target id="w125"/>
+      </span>
+    </term>
+    <term id="t126" pos="NE" lemma="Panama">
+      <span>
+        <target id="w126"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d011.s006.t004"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="panama"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00060340n"/>
+      </externalReferences>
+    </term>
+    <term id="t127" pos="$(" lemma="(">
+      <span>
+        <target id="w127"/>
+      </span>
+    </term>
+    <term id="t128" pos="CARD" lemma="@card@">
+      <span>
+        <target id="w128"/>
+      </span>
+    </term>
+    <term id="t129" pos="$(" lemma=")">
+      <span>
+        <target id="w129"/>
+      </span>
+    </term>
+    <term id="t130" pos="APPRART" lemma="im">
+      <span>
+        <target id="w130"/>
+      </span>
+    </term>
+    <term id="t131" pos="NE" lemma="rommel_fernández">
+      <span>
+        <target id="w131"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d011.s006.t005"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="rommel_fernã¡ndez"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:03487971n"/>
+      </externalReferences>
+    </term>
+    <term id="t132" pos="$." lemma=".">
+      <span>
+        <target id="w132"/>
+      </span>
+    </term>
+    <term id="t133" pos="ART" lemma="d">
+      <span>
+        <target id="w133"/>
+      </span>
+    </term>
+    <term id="t134" pos="ADJA" lemma="spanisch">
+      <span>
+        <target id="w134"/>
+      </span>
+    </term>
+    <term id="t135" pos="NN" lemma="Spieler">
+      <span>
+        <target id="w135"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d011.s007.t001"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00060799n"/>
+      </externalReferences>
+    </term>
+    <term id="t136" pos="$," lemma=",">
+      <span>
+        <target id="w136"/>
+      </span>
+    </term>
+    <term id="t137" pos="PRELS" lemma="d">
+      <span>
+        <target id="w137"/>
+      </span>
+    </term>
+    <term id="t138" pos="APPR" lemma="in">
+      <span>
+        <target id="w138"/>
+      </span>
+    </term>
+    <term id="t139" pos="ART" lemma="d">
+      <span>
+        <target id="w139"/>
+      </span>
+    </term>
+    <term id="t140" pos="NN" lemma="Liga">
+      <span>
+        <target id="w140"/>
+      </span>
+    </term>
+    <term id="t141" pos="NE" lemma="de">
+      <span>
+        <target id="w141"/>
+      </span>
+    </term>
+    <term id="t142" pos="VVFIN" lemma="lesen">
+      <span>
+        <target id="w142"/>
+      </span>
+    </term>
+    <term id="t143" pos="NE" lemma="Estrellas">
+      <span>
+        <target id="w143"/>
+      </span>
+    </term>
+    <term id="t144" pos="$(" lemma="(">
+      <span>
+        <target id="w144"/>
+      </span>
+    </term>
+    <term id="t145" pos="NN" lemma="Starliga">
+      <span>
+        <target id="w145"/>
+      </span>
+    </term>
+    <term id="t146" pos="$(" lemma=")">
+      <span>
+        <target id="w146"/>
+      </span>
+    </term>
+    <term id="t147" pos="KON" lemma="und">
+      <span>
+        <target id="w147"/>
+      </span>
+    </term>
+    <term id="t148" pos="ADJA" lemma="einflußreich">
+      <span>
+        <target id="w148"/>
+      </span>
+    </term>
+    <term id="t149" pos="NN" lemma="Club">
+      <span>
+        <target id="w149"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d011.s007.t002"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="verein"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="zunft"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="fuãballverein"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00020039n"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00030339n"/>
+      </externalReferences>
+    </term>
+    <term id="t150" pos="ART" lemma="d">
+      <span>
+        <target id="w150"/>
+      </span>
+    </term>
+    <term id="t151" pos="NE" lemma="premier_league">
+      <span>
+        <target id="w151"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d011.s007.t003"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="premier_league"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00249603n"/>
+      </externalReferences>
+    </term>
+    <term id="t152" pos="APPR" lemma="von">
+      <span>
+        <target id="w152"/>
+      </span>
+    </term>
+    <term id="t153" pos="NE" lemma="England">
+      <span>
+        <target id="w153"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d011.s007.t004"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="england"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00030861n"/>
+      </externalReferences>
+    </term>
+    <term id="t154" pos="VVFIN" lemma="spielen">
+      <span>
+        <target id="w154"/>
+      </span>
+    </term>
+    <term id="t155" pos="$," lemma=",">
+      <span>
+        <target id="w155"/>
+      </span>
+    </term>
+    <term id="t156" pos="VAFIN" lemma="haben">
+      <span>
+        <target id="w156"/>
+      </span>
+    </term>
+    <term id="t157" pos="PIAT" lemma="jed">
+      <span>
+        <target id="w157"/>
+      </span>
+    </term>
+    <term id="t158" pos="NN" lemma="Jahr">
+      <span>
+        <target id="w158"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d011.s007.t005"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="jahr"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00078738n"/>
+      </externalReferences>
+    </term>
+    <term id="t159" pos="ART" lemma="d">
+      <span>
+        <target id="w159"/>
+      </span>
+    </term>
+    <term id="t160" pos="NN" lemma="Gelegenheit">
+      <span>
+        <target id="w160"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d011.s007.t006"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="gelegenheit"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:04893234n"/>
+      </externalReferences>
+    </term>
+    <term id="t161" pos="APPRART" lemma="zur">
+      <span>
+        <target id="w161"/>
+      </span>
+    </term>
+    <term id="t162" pos="NN" lemma="Teilnahme">
+      <span>
+        <target id="w162"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d011.s007.t007"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="teilnahme"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00000722n"/>
+      </externalReferences>
+    </term>
+    <term id="t163" pos="APPR" lemma="an">
+      <span>
+        <target id="w163"/>
+      </span>
+    </term>
+    <term id="t164" pos="ADJA" lemma="zahlreich">
+      <span>
+        <target id="w164"/>
+      </span>
+    </term>
+    <term id="t165" pos="NN" lemma="Heimspiel">
+      <span>
+        <target id="w165"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d011.s007.t008"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="heimspiel"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00044532n"/>
+      </externalReferences>
+    </term>
+    <term id="t166" pos="$(" lemma="(">
+      <span>
+        <target id="w166"/>
+      </span>
+    </term>
+    <term id="t167" pos="TRUNC" lemma="Liga-">
+      <span>
+        <target id="w167"/>
+      </span>
+    </term>
+    <term id="t168" pos="KON" lemma="und">
+      <span>
+        <target id="w168"/>
+      </span>
+    </term>
+    <term id="t169" pos="NN" lemma="Cup-Meisterschaften">
+      <span>
+        <target id="w169"/>
+      </span>
+    </term>
+    <term id="t170" pos="$(" lemma=")">
+      <span>
+        <target id="w170"/>
+      </span>
+    </term>
+    <term id="t171" pos="KON" lemma="sowie">
+      <span>
+        <target id="w171"/>
+      </span>
+    </term>
+    <term id="t172" pos="ADJA" lemma="hochrangig">
+      <span>
+        <target id="w172"/>
+      </span>
+    </term>
+    <term id="t173" pos="NN" lemma="Europacup">
+      <span>
+        <target id="w173"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d011.s007.t009"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="europapokal"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:04445339n"/>
+      </externalReferences>
+    </term>
+    <term id="t174" pos="KOKOM" lemma="wie">
+      <span>
+        <target id="w174"/>
+      </span>
+    </term>
+    <term id="t175" pos="ART" lemma="d">
+      <span>
+        <target id="w175"/>
+      </span>
+    </term>
+    <term id="t176" pos="NE" lemma="champions_league">
+      <span>
+        <target id="w176"/>
+      </span>
+    </term>
+    <term id="t177" pos="$." lemma=".">
+      <span>
+        <target id="w177"/>
+      </span>
+    </term>
+    <term id="t178" pos="ADV" lemma="hinzu">
+      <span>
+        <target id="w178"/>
+      </span>
+    </term>
+    <term id="t179" pos="VVFIN" lemma="kommen">
+      <span>
+        <target id="w179"/>
+      </span>
+    </term>
+    <term id="t180" pos="ART" lemma="d">
+      <span>
+        <target id="w180"/>
+      </span>
+    </term>
+    <term id="t181" pos="NN" lemma="Erfahrung">
+      <span>
+        <target id="w181"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d011.s008.t001"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00032308n"/>
+      </externalReferences>
+    </term>
+    <term id="t182" pos="APPR" lemma="mit">
+      <span>
+        <target id="w182"/>
+      </span>
+    </term>
+    <term id="t183" pos="ART" lemma="d">
+      <span>
+        <target id="w183"/>
+      </span>
+    </term>
+    <term id="t184" pos="ADJA" lemma="spanisch">
+      <span>
+        <target id="w184"/>
+      </span>
+    </term>
+    <term id="t185" pos="NN" lemma="Furie">
+      <span>
+        <target id="w185"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d011.s008.t002"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00043058n"/>
+      </externalReferences>
+    </term>
+    <term id="t186" pos="APPR" lemma="bei">
+      <span>
+        <target id="w186"/>
+      </span>
+    </term>
+    <term id="t187" pos="ADJA" lemma="kompliziert">
+      <span>
+        <target id="w187"/>
+      </span>
+    </term>
+    <term id="t188" pos="NN" lemma="Ausscheidungsspielen">
+      <span>
+        <target id="w188"/>
+      </span>
+    </term>
+    <term id="t189" pos="APPRART" lemma="beim">
+      <span>
+        <target id="w189"/>
+      </span>
+    </term>
+    <term id="t190" pos="NN" lemma="Eurocup">
+      <span>
+        <target id="w190"/>
+      </span>
+    </term>
+    <term id="t191" pos="KON" lemma="und">
+      <span>
+        <target id="w191"/>
+      </span>
+    </term>
+    <term id="t192" pos="ART" lemma="d">
+      <span>
+        <target id="w192"/>
+      </span>
+    </term>
+    <term id="t193" pos="NN" lemma="Fußballweltmeisterschaft">
+      <span>
+        <target id="w193"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d011.s008.t003"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="fuãball-weltmeisterschaft"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00081625n"/>
+      </externalReferences>
+    </term>
+    <term id="t194" pos="$." lemma=".">
+      <span>
+        <target id="w194"/>
+      </span>
+    </term>
+    <term id="t195" pos="ART" lemma="d">
+      <span>
+        <target id="w195"/>
+      </span>
+    </term>
+    <term id="t196" pos="NN" lemma="Tico-Fußballer">
+      <span>
+        <target id="w196"/>
+      </span>
+    </term>
+    <term id="t197" pos="VVFIN" lemma="verfügen">
+      <span>
+        <target id="w197"/>
+      </span>
+    </term>
+    <term id="t198" pos="ADV" lemma="hingegen">
+      <span>
+        <target id="w198"/>
+      </span>
+    </term>
+    <term id="t199" pos="APPR" lemma="über">
+      <span>
+        <target id="w199"/>
+      </span>
+    </term>
+    <term id="t200" pos="PIAT" lemma="wenig">
+      <span>
+        <target id="w200"/>
+      </span>
+    </term>
+    <term id="t201" pos="ADJA" lemma="international">
+      <span>
+        <target id="w201"/>
+      </span>
+    </term>
+    <term id="t202" pos="NN" lemma="Begegnung">
+      <span>
+        <target id="w202"/>
+      </span>
+    </term>
+    <term id="t203" pos="APPRART" lemma="im">
+      <span>
+        <target id="w203"/>
+      </span>
+    </term>
+    <term id="t204" pos="NN" lemma="Rahmen">
+      <span>
+        <target id="w204"/>
+      </span>
+    </term>
+    <term id="t205" pos="ART" lemma="d">
+      <span>
+        <target id="w205"/>
+      </span>
+    </term>
+    <term id="t206" pos="NE" lemma="Concacaf">
+      <span>
+        <target id="w206"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d011.s009.t001"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="concacaf"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:02314327n"/>
+      </externalReferences>
+    </term>
+    <term id="t207" pos="$," lemma=",">
+      <span>
+        <target id="w207"/>
+      </span>
+    </term>
+    <term id="t208" pos="PRELS" lemma="d">
+      <span>
+        <target id="w208"/>
+      </span>
+    </term>
+    <term id="t209" pos="APPR" lemma="auf">
+      <span>
+        <target id="w209"/>
+      </span>
+    </term>
+    <term id="t210" pos="ART" lemma="d">
+      <span>
+        <target id="w210"/>
+      </span>
+    </term>
+    <term id="t211" pos="NN" lemma="FIFA-Rangliste">
+      <span>
+        <target id="w211"/>
+      </span>
+    </term>
+    <term id="t212" pos="ADV" lemma="ganz">
+      <span>
+        <target id="w212"/>
+      </span>
+    </term>
+    <term id="t213" pos="ADV" lemma="unten">
+      <span>
+        <target id="w213"/>
+      </span>
+    </term>
+    <term id="t214" pos="VVFIN" lemma="stehen">
+      <span>
+        <target id="w214"/>
+      </span>
+    </term>
+    <term id="t215" pos="$." lemma=".">
+      <span>
+        <target id="w215"/>
+      </span>
+    </term>
+    <term id="t216" pos="PPER" lemma="wir">
+      <span>
+        <target id="w216"/>
+      </span>
+    </term>
+    <term id="t217" pos="VAFIN" lemma="werden">
+      <span>
+        <target id="w217"/>
+      </span>
+    </term>
+    <term id="t218" pos="VVINF" lemma="sehen">
+      <span>
+        <target id="w218"/>
+      </span>
+    </term>
+    <term id="t219" pos="$," lemma=",">
+      <span>
+        <target id="w219"/>
+      </span>
+    </term>
+    <term id="t220" pos="KOUS" lemma="wie">
+      <span>
+        <target id="w220"/>
+      </span>
+    </term>
+    <term id="t221" pos="ART" lemma="d">
+      <span>
+        <target id="w221"/>
+      </span>
+    </term>
+    <term id="t222" pos="ADJA" lemma="spanisch">
+      <span>
+        <target id="w222"/>
+      </span>
+    </term>
+    <term id="t223" pos="NN" lemma="Mannschaft">
+      <span>
+        <target id="w223"/>
+      </span>
+    </term>
+    <term id="t224" pos="PPOSAT" lemma="ihr">
+      <span>
+        <target id="w224"/>
+      </span>
+    </term>
+    <term id="t225" pos="ADJA" lemma="letzt">
+      <span>
+        <target id="w225"/>
+      </span>
+    </term>
+    <term id="t226" pos="NN" lemma="Register">
+      <span>
+        <target id="w226"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d011.s010.t002"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="register_(musik)"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00066891n"/>
+      </externalReferences>
+    </term>
+    <term id="t227" pos="VVFIN" lemma="zeihen">
+      <span>
+        <target id="w227"/>
+      </span>
+    </term>
+    <term id="t228" pos="$." lemma=":">
+      <span>
+        <target id="w228"/>
+      </span>
+    </term>
+    <term id="t229" pos="ART" lemma="d">
+      <span>
+        <target id="w229"/>
+      </span>
+    </term>
+    <term id="t230" pos="NN" lemma="Torwart">
+      <span>
+        <target id="w230"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d011.s010.t003"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="torwart#torwarte_im_fuãball"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="torwart"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="eishockeytorwart"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00040851n"/>
+      </externalReferences>
+    </term>
+    <term id="t231" pos="NE" lemma="iker_casillas">
+      <span>
+        <target id="w231"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d011.s010.t004"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="iker_casillas"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:03292126n"/>
+      </externalReferences>
+    </term>
+    <term id="t232" pos="$," lemma=",">
+      <span>
+        <target id="w232"/>
+      </span>
+    </term>
+    <term id="t233" pos="PRELS" lemma="d">
+      <span>
+        <target id="w233"/>
+      </span>
+    </term>
+    <term id="t234" pos="APPRART" lemma="am">
+      <span>
+        <target id="w234"/>
+      </span>
+    </term>
+    <term id="t235" pos="ADJA" lemma="letzt">
+      <span>
+        <target id="w235"/>
+      </span>
+    </term>
+    <term id="t236" pos="NN" lemma="Samstag">
+      <span>
+        <target id="w236"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d011.s010.t005"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="samstag"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00068696n"/>
+      </externalReferences>
+    </term>
+    <term id="t237" pos="APPR" lemma="gegen">
+      <span>
+        <target id="w237"/>
+      </span>
+    </term>
+    <term id="t238" pos="NE" lemma="England">
+      <span>
+        <target id="w238"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d011.s010.t006"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="england"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00030861n"/>
+      </externalReferences>
+    </term>
+    <term id="t239" pos="$(" lemma="(">
+      <span>
+        <target id="w239"/>
+      </span>
+    </term>
+    <term id="t240" pos="NN" lemma="Niederlage">
+      <span>
+        <target id="w240"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d011.s010.t007"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00025855n"/>
+      </externalReferences>
+    </term>
+    <term id="t241" pos="CARD" lemma="@card@">
+      <span>
+        <target id="w241"/>
+      </span>
+    </term>
+    <term id="t242" pos="APPR" lemma="in">
+      <span>
+        <target id="w242"/>
+      </span>
+    </term>
+    <term id="t243" pos="NE" lemma="London">
+      <span>
+        <target id="w243"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d011.s010.t008"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="greater_london"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="london"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00013179n"/>
+      </externalReferences>
+    </term>
+    <term id="t244" pos="$(" lemma=")">
+      <span>
+        <target id="w244"/>
+      </span>
+    </term>
+    <term id="t245" pos="APPR" lemma="mit">
+      <span>
+        <target id="w245"/>
+      </span>
+    </term>
+    <term id="t246" pos="CARD" lemma="126">
+      <span>
+        <target id="w246"/>
+      </span>
+    </term>
+    <term id="t247" pos="NN" lemma="Auslandsspielen">
+      <span>
+        <target id="w247"/>
+      </span>
+    </term>
+    <term id="t248" pos="ART" lemma="ein">
+      <span>
+        <target id="w248"/>
+      </span>
+    </term>
+    <term id="t249" pos="NN" lemma="Gleichstand">
+      <span>
+        <target id="w249"/>
+      </span>
+    </term>
+    <term id="t250" pos="APPR" lemma="mit">
+      <span>
+        <target id="w250"/>
+      </span>
+    </term>
+    <term id="t251" pos="ART" lemma="d">
+      <span>
+        <target id="w251"/>
+      </span>
+    </term>
+    <term id="t252" pos="ADJA" lemma="ehemalig">
+      <span>
+        <target id="w252"/>
+      </span>
+    </term>
+    <term id="t253" pos="NN" lemma="Torwart">
+      <span>
+        <target id="w253"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d011.s010.t009"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="torwart#torwarte_im_fuãball"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="torwart"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="eishockeytorwart"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00040851n"/>
+      </externalReferences>
+    </term>
+    <term id="t254" pos="NE" lemma="andoni_zubizarreta">
+      <span>
+        <target id="w254"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d011.s010.t010"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="andoni_zubizarreta"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00679336n"/>
+      </externalReferences>
+    </term>
+    <term id="t255" pos="VVFIN" lemma="erreichen">
+      <span>
+        <target id="w255"/>
+      </span>
+    </term>
+    <term id="t256" pos="$." lemma=".">
+      <span>
+        <target id="w256"/>
+      </span>
+    </term>
+    <term id="t257" pos="NE" lemma="Casillas">
+      <span>
+        <target id="w257"/>
+      </span>
+    </term>
+    <term id="t258" pos="VAFIN" lemma="werden">
+      <span>
+        <target id="w258"/>
+      </span>
+    </term>
+    <term id="t259" pos="ADV" lemma="heute">
+      <span>
+        <target id="w259"/>
+      </span>
+    </term>
+    <term id="t260" pos="APPR" lemma="gegen">
+      <span>
+        <target id="w260"/>
+      </span>
+    </term>
+    <term id="t261" pos="ART" lemma="d">
+      <span>
+        <target id="w261"/>
+      </span>
+    </term>
+    <term id="t262" pos="ADJA" lemma="dreifarbig">
+      <span>
+        <target id="w262"/>
+      </span>
+    </term>
+    <term id="t263" pos="NN" lemma="Mannschaft">
+      <span>
+        <target id="w263"/>
+      </span>
+    </term>
+    <term id="t264" pos="VVINF" lemma="spielen">
+      <span>
+        <target id="w264"/>
+      </span>
+    </term>
+    <term id="t265" pos="KON" lemma="und">
+      <span>
+        <target id="w265"/>
+      </span>
+    </term>
+    <term id="t266" pos="NE" lemma="Spanien">
+      <span>
+        <target id="w266"/>
+      </span>
+    </term>
+    <term id="t267" pos="ART" lemma="ein">
+      <span>
+        <target id="w267"/>
+      </span>
+    </term>
+    <term id="t268" pos="ADJA" lemma="neu">
+      <span>
+        <target id="w268"/>
+      </span>
+    </term>
+    <term id="t269" pos="NN" lemma="Rekord">
+      <span>
+        <target id="w269"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d011.s011.t001"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00066577n"/>
+      </externalReferences>
+    </term>
+    <term id="t270" pos="APPR" lemma="von">
+      <span>
+        <target id="w270"/>
+      </span>
+    </term>
+    <term id="t271" pos="CARD" lemma="@card@">
+      <span>
+        <target id="w271"/>
+      </span>
+    </term>
+    <term id="t272" pos="NN" lemma="Auslandsspielen">
+      <span>
+        <target id="w272"/>
+      </span>
+    </term>
+    <term id="t273" pos="$." lemma=".">
+      <span>
+        <target id="w273"/>
+      </span>
+    </term>
+    <term id="t274" pos="NE" lemma="xavi_hernández">
+      <span>
+        <target id="w274"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d011.s012.t001"/>
+      </externalReferences>
+    </term>
+    <term id="t275" pos="$," lemma=",">
+      <span>
+        <target id="w275"/>
+      </span>
+    </term>
+    <term id="t276" pos="NN" lemma="Spieler">
+      <span>
+        <target id="w276"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d011.s012.t002"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00060799n"/>
+      </externalReferences>
+    </term>
+    <term id="t277" pos="ART" lemma="d">
+      <span>
+        <target id="w277"/>
+      </span>
+    </term>
+    <term id="t278" pos="NN" lemma="Fußballklub">
+      <span>
+        <target id="w278"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d011.s012.t003"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="fuãballverein"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00030339n"/>
+      </externalReferences>
+    </term>
+    <term id="t279" pos="NE" lemma="Barcelona">
+      <span>
+        <target id="w279"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d011.s012.t004"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="barcelona"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00008553n"/>
+      </externalReferences>
+    </term>
+    <term id="t280" pos="$," lemma=",">
+      <span>
+        <target id="w280"/>
+      </span>
+    </term>
+    <term id="t281" pos="VVFIN" lemma="besitzen">
+      <span>
+        <target id="w281"/>
+      </span>
+    </term>
+    <term id="t282" pos="CARD" lemma="@card@">
+      <span>
+        <target id="w282"/>
+      </span>
+    </term>
+    <term id="t283" pos="$." lemma=".">
+      <span>
+        <target id="w283"/>
+      </span>
+    </term>
+    <term id="t284" pos="NE" lemma="Casillas">
+      <span>
+        <target id="w284"/>
+      </span>
+    </term>
+    <term id="t285" pos="KON" lemma="und">
+      <span>
+        <target id="w285"/>
+      </span>
+    </term>
+    <term id="t286" pos="NE" lemma="Xavi">
+      <span>
+        <target id="w286"/>
+      </span>
+    </term>
+    <term id="t287" pos="VVFIN" lemma="erhalten">
+      <span>
+        <target id="w287"/>
+      </span>
+    </term>
+    <term id="t288" pos="ADJA" lemma="letzt">
+      <span>
+        <target id="w288"/>
+      </span>
+    </term>
+    <term id="t289" pos="NN" lemma="Woche">
+      <span>
+        <target id="w289"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d011.s013.t001"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="woche"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00043484n"/>
+      </externalReferences>
+    </term>
+    <term id="t290" pos="ADV" lemma="sogar">
+      <span>
+        <target id="w290"/>
+      </span>
+    </term>
+    <term id="t291" pos="ART" lemma="ein">
+      <span>
+        <target id="w291"/>
+      </span>
+    </term>
+    <term id="t292" pos="NN" lemma="Anerkennung">
+      <span>
+        <target id="w292"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d011.s013.t002"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="anerkennung"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:04458652n"/>
+      </externalReferences>
+    </term>
+    <term id="t293" pos="APPR" lemma="von">
+      <span>
+        <target id="w293"/>
+      </span>
+    </term>
+    <term id="t294" pos="ART" lemma="d">
+      <span>
+        <target id="w294"/>
+      </span>
+    </term>
+    <term id="t295" pos="NE" lemma="UEFA">
+      <span>
+        <target id="w295"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d011.s013.t003"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="uefa"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:02587815n"/>
+      </externalReferences>
+    </term>
+    <term id="t296" pos="$," lemma=",">
+      <span>
+        <target id="w296"/>
+      </span>
+    </term>
+    <term id="t297" pos="ADV" lemma="zusammen">
+      <span>
+        <target id="w297"/>
+      </span>
+    </term>
+    <term id="t298" pos="APPR" lemma="mit">
+      <span>
+        <target id="w298"/>
+      </span>
+    </term>
+    <term id="t299" pos="PIS" lemma="ander">
+      <span>
+        <target id="w299"/>
+      </span>
+    </term>
+    <term id="t300" pos="ART" lemma="d">
+      <span>
+        <target id="w300"/>
+      </span>
+    </term>
+    <term id="t301" pos="ADJA" lemma="iberischen">
+      <span>
+        <target id="w301"/>
+      </span>
+    </term>
+    <term id="t302" pos="NN" lemma="Mannschaft">
+      <span>
+        <target id="w302"/>
+      </span>
+    </term>
+    <term id="t303" pos="$," lemma=",">
+      <span>
+        <target id="w303"/>
+      </span>
+    </term>
+    <term id="t304" pos="PRELS" lemma="d">
+      <span>
+        <target id="w304"/>
+      </span>
+    </term>
+    <term id="t305" pos="ART" lemma="d">
+      <span>
+        <target id="w305"/>
+      </span>
+    </term>
+    <term id="t306" pos="ADJA" lemma="magisch">
+      <span>
+        <target id="w306"/>
+      </span>
+    </term>
+    <term id="t307" pos="NN" lemma="Zahl">
+      <span>
+        <target id="w307"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d011.s013.t004"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="anzahl"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:04535480n"/>
+      </externalReferences>
+    </term>
+    <term id="t308" pos="CARD" lemma="100">
+      <span>
+        <target id="w308"/>
+      </span>
+    </term>
+    <term id="t309" pos="VVPP" lemma="erreichen">
+      <span>
+        <target id="w309"/>
+      </span>
+    </term>
+    <term id="t310" pos="VAFIN" lemma="haben">
+      <span>
+        <target id="w310"/>
+      </span>
+    </term>
+    <term id="t311" pos="$." lemma=":">
+      <span>
+        <target id="w311"/>
+      </span>
+    </term>
+    <term id="t312" pos="ART" lemma="d">
+      <span>
+        <target id="w312"/>
+      </span>
+    </term>
+    <term id="t313" pos="ADJA" lemma="zitiert">
+      <span>
+        <target id="w313"/>
+      </span>
+    </term>
+    <term id="t314" pos="NN" lemma="Zubizarreta">
+      <span>
+        <target id="w314"/>
+      </span>
+    </term>
+    <term id="t315" pos="APPR" lemma="mit">
+      <span>
+        <target id="w315"/>
+      </span>
+    </term>
+    <term id="t316" pos="CARD" lemma="126">
+      <span>
+        <target id="w316"/>
+      </span>
+    </term>
+    <term id="t317" pos="KON" lemma="und">
+      <span>
+        <target id="w317"/>
+      </span>
+    </term>
+    <term id="t318" pos="ART" lemma="d">
+      <span>
+        <target id="w318"/>
+      </span>
+    </term>
+    <term id="t319" pos="NN" lemma="Mittelstürmer">
+      <span>
+        <target id="w319"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d011.s013.t005"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="stã¼rmer_(fuãball)"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00036014n"/>
+      </externalReferences>
+    </term>
+    <term id="t320" pos="APPR" lemma="von">
+      <span>
+        <target id="w320"/>
+      </span>
+    </term>
+    <term id="t321" pos="NE" lemma="Schalke">
+      <span>
+        <target id="w321"/>
+      </span>
+    </term>
+    <term id="t322" pos="$," lemma=",">
+      <span>
+        <target id="w322"/>
+      </span>
+    </term>
+    <term id="t323" pos="NE" lemma="raúl_gonzález">
+      <span>
+        <target id="w323"/>
+      </span>
+    </term>
+    <term id="t324" pos="$," lemma=",">
+      <span>
+        <target id="w324"/>
+      </span>
+    </term>
+    <term id="t325" pos="APPR" lemma="mit">
+      <span>
+        <target id="w325"/>
+      </span>
+    </term>
+    <term id="t326" pos="CARD" lemma="102">
+      <span>
+        <target id="w326"/>
+      </span>
+    </term>
+    <term id="t327" pos="$." lemma=".">
+      <span>
+        <target id="w327"/>
+      </span>
+    </term>
+    <term id="t328" pos="ART" lemma="d">
+      <span>
+        <target id="w328"/>
+      </span>
+    </term>
+    <term id="t329" pos="NN" lemma="Zahl">
+      <span>
+        <target id="w329"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d011.s014.t001"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="anzahl"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:04535480n"/>
+      </externalReferences>
+    </term>
+    <term id="t330" pos="NN" lemma="Hundert">
+      <span>
+        <target id="w330"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d011.s014.t002"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="hundert"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00000009n"/>
+      </externalReferences>
+    </term>
+    <term id="t331" pos="VVFIN" lemma="nähern">
+      <span>
+        <target id="w331"/>
+      </span>
+    </term>
+    <term id="t332" pos="PRF" lemma="er">
+      <span>
+        <target id="w332"/>
+      </span>
+    </term>
+    <term id="t333" pos="ADV" lemma="auch">
+      <span>
+        <target id="w333"/>
+      </span>
+    </term>
+    <term id="t334" pos="NE" lemma="Carles_Puyol">
+      <span>
+        <target id="w334"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d011.s014.t003"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="carles_puyol"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00556602n"/>
+      </externalReferences>
+    </term>
+    <term id="t335" pos="APPR" lemma="mit">
+      <span>
+        <target id="w335"/>
+      </span>
+    </term>
+    <term id="t336" pos="CARD" lemma="97">
+      <span>
+        <target id="w336"/>
+      </span>
+    </term>
+    <term id="t337" pos="NN" lemma="Spiel">
+      <span>
+        <target id="w337"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d011.s014.t004"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00037181n"/>
+      </externalReferences>
+    </term>
+    <term id="t338" pos="$." lemma=".">
+      <span>
+        <target id="w338"/>
+      </span>
+    </term>
+    <term id="t339" pos="PPER" lemma="er">
+      <span>
+        <target id="w339"/>
+      </span>
+    </term>
+    <term id="t340" pos="VVFIN" lemma="folgen">
+      <span>
+        <target id="w340"/>
+      </span>
+    </term>
+    <term id="t341" pos="NE" lemma="xabi_alonso">
+      <span>
+        <target id="w341"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d011.s015.t001"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="xabi_alonso"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00127572n"/>
+      </externalReferences>
+    </term>
+    <term id="t342" pos="APPR" lemma="mit">
+      <span>
+        <target id="w342"/>
+      </span>
+    </term>
+    <term id="t343" pos="CARD" lemma="91">
+      <span>
+        <target id="w343"/>
+      </span>
+    </term>
+    <term id="t344" pos="$," lemma=",">
+      <span>
+        <target id="w344"/>
+      </span>
+    </term>
+    <term id="t345" pos="NE" lemma="fernando_torres">
+      <span>
+        <target id="w345"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d011.s015.t002"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="fernando_torres"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00240938n"/>
+      </externalReferences>
+    </term>
+    <term id="t346" pos="APPR" lemma="mit">
+      <span>
+        <target id="w346"/>
+      </span>
+    </term>
+    <term id="t347" pos="CARD" lemma="90">
+      <span>
+        <target id="w347"/>
+      </span>
+    </term>
+    <term id="t348" pos="$," lemma=",">
+      <span>
+        <target id="w348"/>
+      </span>
+    </term>
+    <term id="t349" pos="NE" lemma="David_Villa">
+      <span>
+        <target id="w349"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d011.s015.t003"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="david_villa"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:02568287n"/>
+      </externalReferences>
+    </term>
+    <term id="t350" pos="KON" lemma="und">
+      <span>
+        <target id="w350"/>
+      </span>
+    </term>
+    <term id="t351" pos="NE" lemma="sergio_ramos">
+      <span>
+        <target id="w351"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d011.s015.t004"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="sergio_ramos"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:01767429n"/>
+      </externalReferences>
+    </term>
+    <term id="t352" pos="PIS" lemma="beide">
+      <span>
+        <target id="w352"/>
+      </span>
+    </term>
+    <term id="t353" pos="APPR" lemma="mit">
+      <span>
+        <target id="w353"/>
+      </span>
+    </term>
+    <term id="t354" pos="CARD" lemma="@card@">
+      <span>
+        <target id="w354"/>
+      </span>
+    </term>
+    <term id="t355" pos="$," lemma=",">
+      <span>
+        <target id="w355"/>
+      </span>
+    </term>
+    <term id="t356" pos="NE" lemma="andrés_iniesta">
+      <span>
+        <target id="w356"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d011.s015.t005"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="andrã©s_iniesta"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:01779220n"/>
+      </externalReferences>
+    </term>
+    <term id="t357" pos="APPR" lemma="mit">
+      <span>
+        <target id="w357"/>
+      </span>
+    </term>
+    <term id="t358" pos="CARD" lemma="@card@">
+      <span>
+        <target id="w358"/>
+      </span>
+    </term>
+    <term id="t359" pos="$," lemma=",">
+      <span>
+        <target id="w359"/>
+      </span>
+    </term>
+    <term id="t360" pos="NN" lemma="Cesc_Fábregas">
+      <span>
+        <target id="w360"/>
+      </span>
+    </term>
+    <term id="t361" pos="APPR" lemma="mit">
+      <span>
+        <target id="w361"/>
+      </span>
+    </term>
+    <term id="t362" pos="CARD" lemma="@card@">
+      <span>
+        <target id="w362"/>
+      </span>
+    </term>
+    <term id="t363" pos="KON" lemma="und">
+      <span>
+        <target id="w363"/>
+      </span>
+    </term>
+    <term id="t364" pos="NE" lemma="david_silva">
+      <span>
+        <target id="w364"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d011.s015.t006"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="david_silva"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:03251380n"/>
+      </externalReferences>
+    </term>
+    <term id="t365" pos="APPR" lemma="mit">
+      <span>
+        <target id="w365"/>
+      </span>
+    </term>
+    <term id="t366" pos="ADJA" lemma="@ord@">
+      <span>
+        <target id="w366"/>
+      </span>
+    </term>
+    <term id="t367" pos="APPR" lemma="von">
+      <span>
+        <target id="w367"/>
+      </span>
+    </term>
+    <term id="t368" pos="NN" lemma="Seite">
+      <span>
+        <target id="w368"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d011.s016.t001"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00071432n"/>
+      </externalReferences>
+    </term>
+    <term id="t369" pos="ART" lemma="d">
+      <span>
+        <target id="w369"/>
+      </span>
+    </term>
+    <term id="t370" pos="NN" lemma="Ticos">
+      <span>
+        <target id="w370"/>
+      </span>
+    </term>
+    <term id="t371" pos="KON" lemma="und">
+      <span>
+        <target id="w371"/>
+      </span>
+    </term>
+    <term id="t372" pos="APPR" lemma="nahe">
+      <span>
+        <target id="w372"/>
+      </span>
+    </term>
+    <term id="t373" pos="APPR" lemma="bei">
+      <span>
+        <target id="w373"/>
+      </span>
+    </term>
+    <term id="t374" pos="NE" lemma="Michael_Umana">
+      <span>
+        <target id="w374"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d011.s016.t002"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="michael_umaã±a"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00904738n"/>
+      </externalReferences>
+    </term>
+    <term id="t375" pos="VAFIN" lemma="sein">
+      <span>
+        <target id="w375"/>
+      </span>
+    </term>
+    <term id="t376" pos="ART" lemma="d">
+      <span>
+        <target id="w376"/>
+      </span>
+    </term>
+    <term id="t377" pos="ADJA" lemma="link">
+      <span>
+        <target id="w377"/>
+      </span>
+    </term>
+    <term id="t378" pos="NN" lemma="Seitenstürmer">
+      <span>
+        <target id="w378"/>
+      </span>
+    </term>
+    <term id="t379" pos="NE" lemma="júnior_díaz">
+      <span>
+        <target id="w379"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d011.s016.t003"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="jãºnior_dã­az"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00833318n"/>
+      </externalReferences>
+    </term>
+    <term id="t380" pos="APPR" lemma="mit">
+      <span>
+        <target id="w380"/>
+      </span>
+    </term>
+    <term id="t381" pos="CARD" lemma="48">
+      <span>
+        <target id="w381"/>
+      </span>
+    </term>
+    <term id="t382" pos="NN" lemma="Spiel">
+      <span>
+        <target id="w382"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d011.s016.t004"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00037181n"/>
+      </externalReferences>
+    </term>
+    <term id="t383" pos="KON" lemma="und">
+      <span>
+        <target id="w383"/>
+      </span>
+    </term>
+    <term id="t384" pos="ART" lemma="d">
+      <span>
+        <target id="w384"/>
+      </span>
+    </term>
+    <term id="t385" pos="NN" lemma="Stürmer">
+      <span>
+        <target id="w385"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d011.s016.t005"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="stã¼rmer_(fuãball)"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00036014n"/>
+      </externalReferences>
+    </term>
+    <term id="t386" pos="NE" lemma="bryan_ruiz">
+      <span>
+        <target id="w386"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d011.s016.t006"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="bryan_ruiz"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:03759443n"/>
+      </externalReferences>
+    </term>
+    <term id="t387" pos="APPR" lemma="mit">
+      <span>
+        <target id="w387"/>
+      </span>
+    </term>
+    <term id="t388" pos="ADJA" lemma="@ord@">
+      <span>
+        <target id="w388"/>
+      </span>
+    </term>
+    <term id="t389" pos="ADV" lemma="ab">
+      <span>
+        <target id="w389"/>
+      </span>
+    </term>
+    <term id="t390" pos="ADV" lemma="da">
+      <span>
+        <target id="w390"/>
+      </span>
+    </term>
+    <term id="t391" pos="VVFIN" lemma="kommen">
+      <span>
+        <target id="w391"/>
+      </span>
+    </term>
+    <term id="t392" pos="ADV" lemma="nur">
+      <span>
+        <target id="w392"/>
+      </span>
+    </term>
+    <term id="t393" pos="CARD" lemma="fünf">
+      <span>
+        <target id="w393"/>
+      </span>
+    </term>
+    <term id="t394" pos="APPR" lemma="auf">
+      <span>
+        <target id="w394"/>
+      </span>
+    </term>
+    <term id="t395" pos="APPR" lemma="über">
+      <span>
+        <target id="w395"/>
+      </span>
+    </term>
+    <term id="t396" pos="CARD" lemma="30">
+      <span>
+        <target id="w396"/>
+      </span>
+    </term>
+    <term id="t397" pos="NN" lemma="Spiel">
+      <span>
+        <target id="w397"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d011.s017.t001"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00037181n"/>
+      </externalReferences>
+    </term>
+    <term id="t398" pos="$." lemma=":">
+      <span>
+        <target id="w398"/>
+      </span>
+    </term>
+    <term id="t399" pos="ADJA" lemma="Keilor">
+      <span>
+        <target id="w399"/>
+      </span>
+    </term>
+    <term id="t400" pos="NN" lemma="Navas">
+      <span>
+        <target id="w400"/>
+      </span>
+    </term>
+    <term id="t401" pos="APPR" lemma="mit">
+      <span>
+        <target id="w401"/>
+      </span>
+    </term>
+    <term id="t402" pos="CARD" lemma="31">
+      <span>
+        <target id="w402"/>
+      </span>
+    </term>
+    <term id="t403" pos="$," lemma=",">
+      <span>
+        <target id="w403"/>
+      </span>
+    </term>
+    <term id="t404" pos="NE" lemma="randall_azofeifa">
+      <span>
+        <target id="w404"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d011.s017.t002"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="randall_azofeifa"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:02838640n"/>
+      </externalReferences>
+    </term>
+    <term id="t405" pos="APPR" lemma="mit">
+      <span>
+        <target id="w405"/>
+      </span>
+    </term>
+    <term id="t406" pos="CARD" lemma="32">
+      <span>
+        <target id="w406"/>
+      </span>
+    </term>
+    <term id="t407" pos="$," lemma=",">
+      <span>
+        <target id="w407"/>
+      </span>
+    </term>
+    <term id="t408" pos="NE" lemma="Michael">
+      <span>
+        <target id="w408"/>
+      </span>
+    </term>
+    <term id="t409" pos="NN" lemma="Barrantes">
+      <span>
+        <target id="w409"/>
+      </span>
+    </term>
+    <term id="t410" pos="APPR" lemma="mit">
+      <span>
+        <target id="w410"/>
+      </span>
+    </term>
+    <term id="t411" pos="CARD" lemma="31">
+      <span>
+        <target id="w411"/>
+      </span>
+    </term>
+    <term id="t412" pos="$," lemma=",">
+      <span>
+        <target id="w412"/>
+      </span>
+    </term>
+    <term id="t413" pos="NE" lemma="carlos_hernández">
+      <span>
+        <target id="w413"/>
+      </span>
+    </term>
+    <term id="t414" pos="APPR" lemma="mit">
+      <span>
+        <target id="w414"/>
+      </span>
+    </term>
+    <term id="t415" pos="CARD" lemma="36">
+      <span>
+        <target id="w415"/>
+      </span>
+    </term>
+    <term id="t416" pos="KON" lemma="und">
+      <span>
+        <target id="w416"/>
+      </span>
+    </term>
+    <term id="t417" pos="NE" lemma="josé_luis_lópez">
+      <span>
+        <target id="w417"/>
+      </span>
+    </term>
+    <term id="t418" pos="APPR" lemma="mit">
+      <span>
+        <target id="w418"/>
+      </span>
+    </term>
+    <term id="t419" pos="ADJA" lemma="@ord@">
+      <span>
+        <target id="w419"/>
+      </span>
+    </term>
+    <term id="t420" pos="ART" lemma="d">
+      <span>
+        <target id="w420"/>
+      </span>
+    </term>
+    <term id="t421" pos="APPR" lemma="mit">
+      <span>
+        <target id="w421"/>
+      </span>
+    </term>
+    <term id="t422" pos="ART" lemma="d">
+      <span>
+        <target id="w422"/>
+      </span>
+    </term>
+    <term id="t423" pos="PIAT" lemma="wenigst">
+      <span>
+        <target id="w423"/>
+      </span>
+    </term>
+    <term id="t424" pos="NN" lemma="Spiel">
+      <span>
+        <target id="w424"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d011.s018.t001"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00037181n"/>
+      </externalReferences>
+    </term>
+    <term id="t425" pos="$." lemma=".">
+      <span>
+        <target id="w425"/>
+      </span>
+    </term>
+    <term id="t426" pos="ADV" lemma="weniger">
+      <span>
+        <target id="w426"/>
+      </span>
+    </term>
+    <term id="t427" pos="KOKOM" lemma="als">
+      <span>
+        <target id="w427"/>
+      </span>
+    </term>
+    <term id="t428" pos="CARD" lemma="30">
+      <span>
+        <target id="w428"/>
+      </span>
+    </term>
+    <term id="t429" pos="NN" lemma="Spiel">
+      <span>
+        <target id="w429"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d011.s019.t001"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00037181n"/>
+      </externalReferences>
+    </term>
+    <term id="t430" pos="VVFIN" lemma="weisen">
+      <span>
+        <target id="w430"/>
+      </span>
+    </term>
+    <term id="t431" pos="APPRART" lemma="im">
+      <span>
+        <target id="w431"/>
+      </span>
+    </term>
+    <term id="t432" pos="ADJA" lemma="spanisch">
+      <span>
+        <target id="w432"/>
+      </span>
+    </term>
+    <term id="t433" pos="NN" lemma="Team">
+      <span>
+        <target id="w433"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d011.s019.t002"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="team"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00073699n"/>
+      </externalReferences>
+    </term>
+    <term id="t434" pos="NE" lemma="gerard_piqué">
+      <span>
+        <target id="w434"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d011.s019.t003"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="gerard_piquã©"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00705893n"/>
+      </externalReferences>
+    </term>
+    <term id="t435" pos="$(" lemma="(">
+      <span>
+        <target id="w435"/>
+      </span>
+    </term>
+    <term id="t436" pos="CARD" lemma="37">
+      <span>
+        <target id="w436"/>
+      </span>
+    </term>
+    <term id="t437" pos="$(" lemma=")">
+      <span>
+        <target id="w437"/>
+      </span>
+    </term>
+    <term id="t438" pos="$," lemma=",">
+      <span>
+        <target id="w438"/>
+      </span>
+    </term>
+    <term id="t439" pos="NE" lemma="sergio_busquets">
+      <span>
+        <target id="w439"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d011.s019.t004"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="sergio_busquets"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:01126178n"/>
+      </externalReferences>
+    </term>
+    <term id="t440" pos="$(" lemma="(">
+      <span>
+        <target id="w440"/>
+      </span>
+    </term>
+    <term id="t441" pos="CARD" lemma="36">
+      <span>
+        <target id="w441"/>
+      </span>
+    </term>
+    <term id="t442" pos="$(" lemma=")">
+      <span>
+        <target id="w442"/>
+      </span>
+    </term>
+    <term id="t443" pos="$," lemma=",">
+      <span>
+        <target id="w443"/>
+      </span>
+    </term>
+    <term id="t444" pos="NE" lemma="Santiago">
+      <span>
+        <target id="w444"/>
+      </span>
+    </term>
+    <term id="t445" pos="NE" lemma="santi_cazorla">
+      <span>
+        <target id="w445"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d011.s019.t005"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="santi_cazorla"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:03626509n"/>
+      </externalReferences>
+    </term>
+    <term id="t446" pos="$(" lemma="(">
+      <span>
+        <target id="w446"/>
+      </span>
+    </term>
+    <term id="t447" pos="CARD" lemma="32">
+      <span>
+        <target id="w447"/>
+      </span>
+    </term>
+    <term id="t448" pos="$(" lemma=")">
+      <span>
+        <target id="w448"/>
+      </span>
+    </term>
+    <term id="t449" pos="$," lemma=",">
+      <span>
+        <target id="w449"/>
+      </span>
+    </term>
+    <term id="t450" pos="NE" lemma="álvaro_arbeloa">
+      <span>
+        <target id="w450"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d011.s019.t006"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="ãlvaro_arbeloa"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:01845970n"/>
+      </externalReferences>
+    </term>
+    <term id="t451" pos="$(" lemma="(">
+      <span>
+        <target id="w451"/>
+      </span>
+    </term>
+    <term id="t452" pos="CARD" lemma="31">
+      <span>
+        <target id="w452"/>
+      </span>
+    </term>
+    <term id="t453" pos="$(" lemma=")">
+      <span>
+        <target id="w453"/>
+      </span>
+    </term>
+    <term id="t454" pos="KON" lemma="und">
+      <span>
+        <target id="w454"/>
+      </span>
+    </term>
+    <term id="t455" pos="NE" lemma="raúl_albiol">
+      <span>
+        <target id="w455"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d011.s019.t007"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="raãºl_albiol"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:03520708n"/>
+      </externalReferences>
+    </term>
+    <term id="t456" pos="$(" lemma="(">
+      <span>
+        <target id="w456"/>
+      </span>
+    </term>
+    <term id="t457" pos="CARD" lemma="31">
+      <span>
+        <target id="w457"/>
+      </span>
+    </term>
+    <term id="t458" pos="$(" lemma=")">
+      <span>
+        <target id="w458"/>
+      </span>
+    </term>
+    <term id="t459" pos="PTKVZ" lemma="auf">
+      <span>
+        <target id="w459"/>
+      </span>
+    </term>
+    <term id="t460" pos="$." lemma=".">
+      <span>
+        <target id="w460"/>
+      </span>
+    </term>
+    <term id="t461" pos="APPR" lemma="von">
+      <span>
+        <target id="w461"/>
+      </span>
+    </term>
+    <term id="t462" pos="NN" lemma="Seite">
+      <span>
+        <target id="w462"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d011.s020.t001"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00071432n"/>
+      </externalReferences>
+    </term>
+    <term id="t463" pos="ART" lemma="d">
+      <span>
+        <target id="w463"/>
+      </span>
+    </term>
+    <term id="t464" pos="NN" lemma="Nationalmannschaft">
+      <span>
+        <target id="w464"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d011.s020.t002"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="nationalmannschaft"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00125516n"/>
+      </externalReferences>
+    </term>
+    <term id="t465" pos="VVFIN" lemma="kommen">
+      <span>
+        <target id="w465"/>
+      </span>
+    </term>
+    <term id="t466" pos="APPR" lemma="auf">
+      <span>
+        <target id="w466"/>
+      </span>
+    </term>
+    <term id="t467" pos="ADV" lemma="weniger">
+      <span>
+        <target id="w467"/>
+      </span>
+    </term>
+    <term id="t468" pos="KOKOM" lemma="als">
+      <span>
+        <target id="w468"/>
+      </span>
+    </term>
+    <term id="t469" pos="CARD" lemma="30">
+      <span>
+        <target id="w469"/>
+      </span>
+    </term>
+    <term id="t470" pos="NN" lemma="Spiel">
+      <span>
+        <target id="w470"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d011.s020.t003"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00037181n"/>
+      </externalReferences>
+    </term>
+    <term id="t471" pos="NE" lemma="Roy">
+      <span>
+        <target id="w471"/>
+      </span>
+    </term>
+    <term id="t472" pos="NN" lemma="Miller">
+      <span>
+        <target id="w472"/>
+      </span>
+    </term>
+    <term id="t473" pos="APPR" lemma="mit">
+      <span>
+        <target id="w473"/>
+      </span>
+    </term>
+    <term id="t474" pos="CARD" lemma="26">
+      <span>
+        <target id="w474"/>
+      </span>
+    </term>
+    <term id="t475" pos="$," lemma=",">
+      <span>
+        <target id="w475"/>
+      </span>
+    </term>
+    <term id="t476" pos="NE" lemma="Winston">
+      <span>
+        <target id="w476"/>
+      </span>
+    </term>
+    <term id="t477" pos="NN" lemma="Park">
+      <span>
+        <target id="w477"/>
+      </span>
+    </term>
+    <term id="t478" pos="APPR" lemma="mit">
+      <span>
+        <target id="w478"/>
+      </span>
+    </term>
+    <term id="t479" pos="CARD" lemma="26">
+      <span>
+        <target id="w479"/>
+      </span>
+    </term>
+    <term id="t480" pos="$," lemma=",">
+      <span>
+        <target id="w480"/>
+      </span>
+    </term>
+    <term id="t481" pos="NE" lemma="gabriel_badilla">
+      <span>
+        <target id="w481"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d011.s020.t004"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="gabriel_badilla"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:02172713n"/>
+      </externalReferences>
+    </term>
+    <term id="t482" pos="APPR" lemma="mit">
+      <span>
+        <target id="w482"/>
+      </span>
+    </term>
+    <term id="t483" pos="CARD" lemma="25">
+      <span>
+        <target id="w483"/>
+      </span>
+    </term>
+    <term id="t484" pos="KON" lemma="und">
+      <span>
+        <target id="w484"/>
+      </span>
+    </term>
+    <term id="t485" pos="NE" lemma="Roy">
+      <span>
+        <target id="w485"/>
+      </span>
+    </term>
+    <term id="t486" pos="NE" lemma="Myrie">
+      <span>
+        <target id="w486"/>
+      </span>
+    </term>
+    <term id="t487" pos="APPR" lemma="mit">
+      <span>
+        <target id="w487"/>
+      </span>
+    </term>
+    <term id="t488" pos="ADJA" lemma="23.">
+      <span>
+        <target id="w488"/>
+      </span>
+    </term>
+    <term id="t489" pos="ART" lemma="d">
+      <span>
+        <target id="w489"/>
+      </span>
+    </term>
+    <term id="t490" pos="NN" lemma="Rest">
+      <span>
+        <target id="w490"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d011.s021.t001"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00008047n"/>
+      </externalReferences>
+    </term>
+    <term id="t491" pos="VVFIN" lemma="nähern">
+      <span>
+        <target id="w491"/>
+      </span>
+    </term>
+    <term id="t492" pos="PRF" lemma="er">
+      <span>
+        <target id="w492"/>
+      </span>
+    </term>
+    <term id="t493" pos="PTKNEG" lemma="nicht">
+      <span>
+        <target id="w493"/>
+      </span>
+    </term>
+    <term id="t494" pos="ADV" lemma="einmal">
+      <span>
+        <target id="w494"/>
+      </span>
+    </term>
+    <term id="t495" pos="ART" lemma="d">
+      <span>
+        <target id="w495"/>
+      </span>
+    </term>
+    <term id="t496" pos="NN" lemma="20er-Grenze">
+      <span>
+        <target id="w496"/>
+      </span>
+    </term>
+    <term id="t497" pos="$." lemma=".">
+      <span>
+        <target id="w497"/>
+      </span>
+    </term>
+    <term id="t498" pos="KOUS" lemma="während">
+      <span>
+        <target id="w498"/>
+      </span>
+    </term>
+    <term id="t499" pos="ADJA" lemma="Nacho">
+      <span>
+        <target id="w499"/>
+      </span>
+    </term>
+    <term id="t500" pos="NN" lemma="Moreal">
+      <span>
+        <target id="w500"/>
+      </span>
+    </term>
+    <term id="t501" pos="ADV" lemma="nur">
+      <span>
+        <target id="w501"/>
+      </span>
+    </term>
+    <term id="t502" pos="CARD" lemma="vier">
+      <span>
+        <target id="w502"/>
+      </span>
+    </term>
+    <term id="t503" pos="NN" lemma="Spiel">
+      <span>
+        <target id="w503"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d011.s022.t001"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00037181n"/>
+      </externalReferences>
+    </term>
+    <term id="t504" pos="VAFIN" lemma="haben">
+      <span>
+        <target id="w504"/>
+      </span>
+    </term>
+    <term id="t505" pos="KON" lemma="und">
+      <span>
+        <target id="w505"/>
+      </span>
+    </term>
+    <term id="t506" pos="NE" lemma="jordi_alba">
+      <span>
+        <target id="w506"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d011.s022.t002"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="jordi_alba"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:01834171n"/>
+      </externalReferences>
+    </term>
+    <term id="t507" pos="CARD" lemma="zwei">
+      <span>
+        <target id="w507"/>
+      </span>
+    </term>
+    <term id="t508" pos="$," lemma=",">
+      <span>
+        <target id="w508"/>
+      </span>
+    </term>
+    <term id="t509" pos="VVFIN" lemma="verzeichnen">
+      <span>
+        <target id="w509"/>
+      </span>
+    </term>
+    <term id="t510" pos="APPR" lemma="in">
+      <span>
+        <target id="w510"/>
+      </span>
+    </term>
+    <term id="t511" pos="NE" lemma="costa_rica">
+      <span>
+        <target id="w511"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d011.s022.t003"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="costa_rica"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00023012n"/>
+      </externalReferences>
+    </term>
+    <term id="t512" pos="NN" lemma="Víctor">
+      <span>
+        <target id="w512"/>
+      </span>
+    </term>
+    <term id="t513" pos="NE" lemma="Bolívar">
+      <span>
+        <target id="w513"/>
+      </span>
+    </term>
+    <term id="t514" pos="ADV" lemma="nur">
+      <span>
+        <target id="w514"/>
+      </span>
+    </term>
+    <term id="t515" pos="CARD" lemma="eins">
+      <span>
+        <target id="w515"/>
+      </span>
+    </term>
+    <term id="t516" pos="KON" lemma="und">
+      <span>
+        <target id="w516"/>
+      </span>
+    </term>
+    <term id="t517" pos="NE" lemma="Ólman">
+      <span>
+        <target id="w517"/>
+      </span>
+    </term>
+    <term id="t518" pos="NE" lemma="Vargas">
+      <span>
+        <target id="w518"/>
+      </span>
+    </term>
+    <term id="t519" pos="KON" lemma="und">
+      <span>
+        <target id="w519"/>
+      </span>
+    </term>
+    <term id="t520" pos="NE" lemma="Edder">
+      <span>
+        <target id="w520"/>
+      </span>
+    </term>
+    <term id="t521" pos="NE" lemma="Nelson">
+      <span>
+        <target id="w521"/>
+      </span>
+    </term>
+    <term id="t522" pos="VAFIN" lemma="haben">
+      <span>
+        <target id="w522"/>
+      </span>
+    </term>
+    <term id="t523" pos="PPOSAT" lemma="ihr">
+      <span>
+        <target id="w523"/>
+      </span>
+    </term>
+    <term id="t524" pos="NN" lemma="Debüt">
+      <span>
+        <target id="w524"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d011.s022.t004"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="debã¼t"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:04418338n"/>
+      </externalReferences>
+    </term>
+    <term id="t525" pos="ADV" lemma="noch">
+      <span>
+        <target id="w525"/>
+      </span>
+    </term>
+    <term id="t526" pos="PTKNEG" lemma="nicht">
+      <span>
+        <target id="w526"/>
+      </span>
+    </term>
+    <term id="t527" pos="$." lemma=".">
+      <span>
+        <target id="w527"/>
+      </span>
+    </term>
+    <term id="t528" pos="ART" lemma="d">
+      <span>
+        <target id="w528"/>
+      </span>
+    </term>
+    <term id="t529" pos="ADJA" lemma="geschichtsträchtig">
+      <span>
+        <target id="w529"/>
+      </span>
+    </term>
+    <term id="t530" pos="NN" lemma="Torhüter">
+      <span>
+        <target id="w530"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d011.s023.t001"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="torwart#torwarte_im_fuãball"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="torwart"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="eishockeytorwart"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00040851n"/>
+      </externalReferences>
+    </term>
+    <term id="t531" pos="NE" lemma="Spanien">
+      <span>
+        <target id="w531"/>
+      </span>
+    </term>
+    <term id="t532" pos="VAFIN" lemma="sein">
+      <span>
+        <target id="w532"/>
+      </span>
+    </term>
+    <term id="t533" pos="NE" lemma="David_Villa">
+      <span>
+        <target id="w533"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d011.s023.t002"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="david_villa"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:02568287n"/>
+      </externalReferences>
+    </term>
+    <term id="t534" pos="APPR" lemma="mit">
+      <span>
+        <target id="w534"/>
+      </span>
+    </term>
+    <term id="t535" pos="CARD" lemma="50">
+      <span>
+        <target id="w535"/>
+      </span>
+    </term>
+    <term id="t536" pos="NN" lemma="Treffer">
+      <span>
+        <target id="w536"/>
+      </span>
+    </term>
+    <term id="t537" pos="$," lemma=",">
+      <span>
+        <target id="w537"/>
+      </span>
+    </term>
+    <term id="t538" pos="VVPP" lemma="folgen">
+      <span>
+        <target id="w538"/>
+      </span>
+    </term>
+    <term id="t539" pos="APPR" lemma="von">
+      <span>
+        <target id="w539"/>
+      </span>
+    </term>
+    <term id="t540" pos="NE" lemma="fernando_torres">
+      <span>
+        <target id="w540"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d011.s023.t003"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="fernando_torres"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00240938n"/>
+      </externalReferences>
+    </term>
+    <term id="t541" pos="APPR" lemma="mit">
+      <span>
+        <target id="w541"/>
+      </span>
+    </term>
+    <term id="t542" pos="ADJA" lemma="27.">
+      <span>
+        <target id="w542"/>
+      </span>
+    </term>
+    <term id="t543" pos="APPR" lemma="für">
+      <span>
+        <target id="w543"/>
+      </span>
+    </term>
+    <term id="t544" pos="NE" lemma="costa_rica">
+      <span>
+        <target id="w544"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d011.s024.t001"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="costa_rica"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:00023012n"/>
+      </externalReferences>
+    </term>
+    <term id="t545" pos="VAFIN" lemma="haben">
+      <span>
+        <target id="w545"/>
+      </span>
+    </term>
+    <term id="t546" pos="NE" lemma="bryan_ruiz">
+      <span>
+        <target id="w546"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d011.s024.t002"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="bryan_ruiz"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:03759443n"/>
+      </externalReferences>
+    </term>
+    <term id="t547" pos="APPR" lemma="mit">
+      <span>
+        <target id="w547"/>
+      </span>
+    </term>
+    <term id="t548" pos="CARD" lemma="neun">
+      <span>
+        <target id="w548"/>
+      </span>
+    </term>
+    <term id="t549" pos="ART" lemma="d">
+      <span>
+        <target id="w549"/>
+      </span>
+    </term>
+    <term id="t550" pos="PIAT" lemma="meist">
+      <span>
+        <target id="w550"/>
+      </span>
+    </term>
+    <term id="t551" pos="NN" lemma="Tor">
+      <span>
+        <target id="w551"/>
+      </span>
+      <externalReferences>
+        <externalRef confidence="1" resource="SemEval2013_task12" reftype="original_id" reference="d011.s024.t003"/>
+        <externalRef confidence="1.0" resource="wikipedia" reftype="wikipedia" reference="tor_(fuãball)"/>
+        <externalRef confidence="1.0" resource="babelnet-1.1.1" reftype="babelnet" reference="bn:03945880n"/>
+      </externalReferences>
+    </term>
+    <term id="t552" pos="VVPP" lemma="schießen">
+      <span>
+        <target id="w552"/>
+      </span>
+    </term>
+    <term id="t553" pos="$," lemma=",">
+      <span>
+        <target id="w553"/>
+      </span>
+    </term>
+    <term id="t554" pos="CARD" lemma="zwei">
+      <span>
+        <target id="w554"/>
+      </span>
+    </term>
+    <term id="t555" pos="ADV" lemma="mehr">
+      <span>
+        <target id="w555"/>
+      </span>
+    </term>
+    <term id="t556" pos="KOUS" lemma="als">
+      <span>
+        <target id="w556"/>
+      </span>
+    </term>
+    <term id="t557" pos="NE" lemma="Carlos">
+      <span>
+        <target id="w557"/>
+      </span>
+    </term>
+    <term id="t558" pos="NN" lemma="Hernández">
+      <span>
+        <target id="w558"/>
+      </span>
+    </term>
+    <term id="t559" pos="KON" lemma="und">
+      <span>
+        <target id="w559"/>
+      </span>
+    </term>
+    <term id="t560" pos="CARD" lemma="drei">
+      <span>
+        <target id="w560"/>
+      </span>
+    </term>
+    <term id="t561" pos="ADV" lemma="mehr">
+      <span>
+        <target id="w561"/>
+      </span>
+    </term>
+    <term id="t562" pos="KOUS" lemma="als">
+      <span>
+        <target id="w562"/>
+      </span>
+    </term>
+    <term id="t563" pos="NE" lemma="Roy">
+      <span>
+        <target id="w563"/>
+      </span>
+    </term>
+    <term id="t564" pos="NE" lemma="Myrie">
+      <span>
+        <target id="w564"/>
+      </span>
+    </term>
+    <term id="t565" pos="KON" lemma="und">
+      <span>
+        <target id="w565"/>
+      </span>
+    </term>
+    <term id="t566" pos="NN" lemma="Park">
+      <span>
+        <target id="w566"/>
+      </span>
+    </term>
+    <term id="t567" pos="$." lemma=".">
+      <span>
+        <target id="w567"/>
+      </span>
+    </term>
+  </terms>
+</NAF>

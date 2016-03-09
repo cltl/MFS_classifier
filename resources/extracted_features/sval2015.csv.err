@@ -1,0 +1,26 @@
+##################################################
+START: 2015-10-01T12:09:28CEST
+##################################################
+Processing semeval2015#13
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semeval2015_task13_en/1.naf
+/usr/local/lib/python2.7/dist-packages/scipy/stats/stats.py:2436: RuntimeWarning: invalid value encountered in double_scalars
+  r = r_num / r_den
+/usr/local/lib/python2.7/dist-packages/scipy/stats/stats.py:2446: RuntimeWarning: invalid value encountered in double_scalars
+  prob = betai(0.5*df, 0.5, df / (df + t_squared))
+/usr/local/lib/python2.7/dist-packages/numpy/core/_methods.py:55: RuntimeWarning: Mean of empty slice.
+  warnings.warn("Mean of empty slice.", RuntimeWarning)
+/usr/local/lib/python2.7/dist-packages/numpy/core/_methods.py:67: RuntimeWarning: invalid value encountered in double_scalars
+  ret = ret.dtype.type(ret / rcount)
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semeval2015_task13_en/4.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semeval2015_task13_en/3.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semeval2015_task13_en/2.naf
+##################################################
+END: 2015-10-01T12:10:23CEST
+##################################################
+Num corpus: 1
+Num files: 4
+Num total instances: 859
+	Positive: 513
+	Negative: 346
+Features: MFS_confidence_IMS Entropy_sense_ranking_IMS num_senses idf jex pos sense_entropy correlation_confidences_semcor_and_IMS correlation_confidences_semcor_and_UKB MFS_confidence_UKB Entropy_sense_ranking_UKB SuperSense_for_MFS WND_for_MFS ratio_WND
+##################################################

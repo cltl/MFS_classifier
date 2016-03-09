@@ -1,0 +1,10 @@
+feature	diff accuracy
+best_setting	Entropy_sense_ranking_IMS-MFS_confidence_IMS-WND_for_MFS-correlation_confidences_semcor_and_IMS-pos-ratio_WND
+worst_value	0.570430733411
+best_value	0.693830034924
+-ratio_WND	0.056
+-pos	0.026
+-correlation_confidences_semcor_and_IMS	0.026
+-WND_for_MFS	0.02
+-Entropy_sense_ranking_IMS	0.014
+-MFS_confidence_IMS	0.007

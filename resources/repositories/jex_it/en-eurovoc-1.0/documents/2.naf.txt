@@ -1,0 +1,54 @@
+kalgebra is a MathML based graph calculator .
+Every time you enter an expression , the " ans " variable value will be changed to the last result .
+If we introduce the condition before the ? it will use this condition only if it is true , if it finds a ? without any condition , it will enter in the last instance .
+Shuts the program down .
++ - * / : Addition , subtraction , multiplication and division .
+Nice if you want to define some libraries or resume some previous work .
+It does not matter what kind it is .
+If it is , it will be treated as an operator , if it is not , it will be treated as a user function .
+That s easy . With this , we can operate with functions like cos() , sin() , any other trigonometric functions , sum() or product() .
+-gt : It s the way to specify the bounded variable in a function .
+Generates text files so it should be easy to fix using any text editor , like Kate .
+It is actually not necessary to know MathML to use kalgebra .
+By double clicking on them you will see a dialog that lets you change their values ( just a way to trick the log ) .
+To add a new 2D graph on kalgebra , what you have to do is to go to the 2D Graph tab and click in the Add tab to add the new function .
+{ } : MathML container .
+There you have a list of the declared variables .
+Just use the Add button when you are in List mode .
+If you have entered the function click on the OK button to display the graph in the main window .
+kalgebra main window
+I ve looked closely to maxima and maple s syntax so they look very similar .
+kalgebra 's console is useful as a calculator .
+abc(params) : When the parser finds a function , it checks if abc is an operator .
+: = : It is used to define a variable value .
+You can set several graphs on the same view .
+Ctrl S Save Log
+Powers are one way to make roots too .
+Nowadays it is capable to make simple MathML operations ( arithmetic and logical ) and to representate 2D and 3D graphs .
+Flushes the log .
+Below these tabs you will find an input field to type your functions or do your calculations .
+Ctrl L Load Script
+Here 's a screenshot of kalgebra main window
+I have based the syntax basically on common sense , it should not be hard for anyone .
+( ) : It is used to specify a higher priority .
+It can be used to define a container .
+Then your focus will go to an input text box where you can type your function .
+Saves the log with all results into an HTML file to be able to print or publish .
+Also it is possible to use the unicode ² characters .
+Executes the instructions in a file sequentially .
+kalgebra is a mathematical calculator based on content markup MathML language .
+Ctrl N New Window
+? : Piecewise condition definition .
+kalgebra main window consists in a Console tab , a 2D Graph tab , a 3D Graph tab and a Dictionary tab .
+Ctrl G Save Script
+Although it was initially MathML oriented it can now be used by everyone with little mathematical knowledge .
+If we want to understand how it works , the best thing we can do is to realize that our input is being converted into MathML although it is not necessary to know MathML .
+Mainly useful for working with piecewise .
+Saves the instructions you have typed since the session began to be able to reuse .
+Ctrl Q Quit
+^ , ** : Power , you can use them both .
+You can set each graph its own color .
+We can use plus() , times() and everything which has its operator .
+Piecewise is the way we can define conditional operations in kalgebra .
+If you want to use a typical f(x) function it is not necessary to specify it .
+Now you could ask me , why should the user mind about MathML ?

@@ -1,0 +1,35 @@
+##################################################
+START: 2015-10-01T12:07:59CEST
+##################################################
+Processing semeval2013#12
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semeval2013_task12/en/d004.naf
+/usr/local/lib/python2.7/dist-packages/scipy/stats/stats.py:2436: RuntimeWarning: invalid value encountered in double_scalars
+  r = r_num / r_den
+/usr/local/lib/python2.7/dist-packages/scipy/stats/stats.py:2446: RuntimeWarning: invalid value encountered in double_scalars
+  prob = betai(0.5*df, 0.5, df / (df + t_squared))
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semeval2013_task12/en/d013.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semeval2013_task12/en/d003.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semeval2013_task12/en/d010.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semeval2013_task12/en/d012.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semeval2013_task12/en/d011.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semeval2013_task12/en/d005.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semeval2013_task12/en/d001.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semeval2013_task12/en/d002.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semeval2013_task12/en/d006.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semeval2013_task12/en/d007.naf
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semeval2013_task12/en/d009.naf
+/usr/local/lib/python2.7/dist-packages/numpy/core/_methods.py:55: RuntimeWarning: Mean of empty slice.
+  warnings.warn("Mean of empty slice.", RuntimeWarning)
+/usr/local/lib/python2.7/dist-packages/numpy/core/_methods.py:67: RuntimeWarning: invalid value encountered in double_scalars
+  ret = ret.dtype.type(ret / rcount)
+	/home/postma/In_progress/mfs_classifier/resources/wsd_corpora/semeval2013_task12/en/d008.naf
+##################################################
+END: 2015-10-01T12:09:25CEST
+##################################################
+Num corpus: 1
+Num files: 13
+Num total instances: 1303
+	Positive: 687
+	Negative: 616
+Features: MFS_confidence_IMS Entropy_sense_ranking_IMS num_senses idf jex pos sense_entropy correlation_confidences_semcor_and_IMS correlation_confidences_semcor_and_UKB MFS_confidence_UKB Entropy_sense_ranking_UKB SuperSense_for_MFS WND_for_MFS ratio_WND
+##################################################

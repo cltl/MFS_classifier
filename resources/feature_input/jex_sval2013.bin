@@ -1,0 +1,281 @@
+ccollections
+defaultdict
+p1
+(c__builtin__
+dict
+p2
+tRp3
+S'd003.naf'
+p4
+(dp5
+S'import licence'
+p6
+F0.076509009248520776
+sS'agricultural product'
+p7
+F0.062971786194227053
+sS'information transfer'
+p8
+F0.06751818984043674
+sS'export licence'
+p9
+F0.10987152613711962
+sS'tariff quota'
+p10
+F0.067112977301037727
+sS'quantitative restriction'
+p11
+F0.067803810658030719
+ssS'd002.naf'
+p12
+(dp13
+S'import licence'
+p14
+F0.081809829733418174
+sS'agricultural product'
+p15
+F0.062958757129715326
+sS'export licence'
+p16
+F0.12317784282484703
+sS'tariff quota'
+p17
+F0.064004757233749043
+sS'quantitative restriction'
+p18
+F0.070343056403818632
+sS'cassava'
+p19
+F0.065283131600918587
+ssS'd012.naf'
+p20
+(dp21
+S'import licence'
+p22
+F0.069217795951884764
+sS'information transfer'
+p23
+F0.071882936024068964
+sS'export licence'
+p24
+F0.11621578125697969
+sS'quantitative restriction'
+p25
+F0.064210497766316627
+sS'Community migration policy'
+p26
+F0.069879904318842515
+sS'cassava'
+p27
+F0.062148200561575315
+ssS'd007.naf'
+p28
+(dp29
+S'import licence'
+p30
+F0.080506222518892112
+sS'agricultural product'
+p31
+F0.063971294642585219
+sS'information transfer'
+p32
+F0.068241965376315036
+sS'export licence'
+p33
+F0.12740221436514299
+sS'quantitative restriction'
+p34
+F0.067512373038709092
+sS'cassava'
+p35
+F0.064835210593146619
+ssS'd005.naf'
+p36
+(dp37
+S'import licence'
+p38
+F0.060657885658746899
+sS'European System of Central Banks'
+p39
+F0.063899414098173402
+sS'United States'
+p40
+F0.10153627880754258
+sS'export licence'
+p41
+F0.094239552005615457
+sS'European Central Bank'
+p42
+F0.077694603418465208
+sS'central bank'
+p43
+F0.072431247778421901
+ssS'd011.naf'
+p44
+(dp45
+S'sports body'
+p46
+F0.085247094258867478
+sS'import licence'
+p47
+F0.067186844389380482
+sS'Costa Rica'
+p48
+F0.28518293568651992
+sS'export licence'
+p49
+F0.088080135610108662
+sS'sporting event'
+p50
+F0.072265587223450556
+sS'quantitative restriction'
+p51
+F0.070693208766767171
+ssS'd009.naf'
+p52
+(dp53
+S'import licence'
+p54
+F0.08457946498499376
+sS'United States'
+p55
+F0.064653173427853206
+sS'export licence'
+p56
+F0.11686111704764519
+sS'tariff quota'
+p57
+F0.068540318461855959
+sS'quantitative restriction'
+p58
+F0.069636523986513696
+sS'cassava'
+p59
+F0.06620641481127737
+ssS'd013.naf'
+p60
+(dp61
+S'European System of Central Banks'
+p62
+F0.075155641764554248
+sS'export licence'
+p63
+F0.10113679118160562
+sS'accountant'
+p64
+F0.094322757559212156
+sS'European Central Bank'
+p65
+F0.099572404422622149
+sS'Germany'
+p66
+F0.081696390936863567
+sS'central bank'
+p67
+F0.097077243331840063
+ssS'd010.naf'
+p68
+(dp69
+S'import licence'
+p70
+F0.069387990146693765
+sS'information transfer'
+p71
+F0.05892062346985389
+sS'export licence'
+p72
+F0.10434009337983539
+sS'European civil service'
+p73
+F0.08574462631679837
+sS'quantitative restriction'
+p74
+F0.060466243406995614
+sS'cassava'
+p75
+F0.056453685872675373
+ssS'd006.naf'
+p76
+(dp77
+S'import licence'
+p78
+F0.075014123126540766
+sS'information transfer'
+p79
+F0.066963882758366039
+sS'export licence'
+p80
+F0.11993054129839209
+sS'European civil service'
+p81
+F0.066950921998680982
+sS'cassava'
+p82
+F0.07591714228279664
+sS'quantitative restriction'
+p83
+F0.06496713387364339
+ssS'd004.naf'
+p84
+(dp85
+S'EU relations'
+p86
+F0.088452658986048122
+sS'petroleum'
+p87
+F0.13883795110690972
+sS'export licence'
+p88
+F0.10052792133598867
+sS'UN resolution'
+p89
+F0.088055060591041456
+sS'Iraq'
+p90
+F0.11975688670041067
+sS'petroleum product'
+p91
+F0.14697752740687886
+ssS'd008.naf'
+p92
+(dp93
+S'import licence'
+p94
+F0.0659148475772314
+sS'agricultural product'
+p95
+F0.057161715922539783
+sS'information transfer'
+p96
+F0.061671465165224662
+sS'export licence'
+p97
+F0.11128662039270083
+sS'scientific profession'
+p98
+F0.078645374158959128
+sS'cassava'
+p99
+F0.066484296082988018
+ssS'd001.naf'
+p100
+(dp101
+S'import licence'
+p102
+F0.087702997807744737
+sS'information transfer'
+p103
+F0.071541990031533928
+sS'export licence'
+p104
+F0.13043889102914186
+sS'tariff quota'
+p105
+F0.067829738428327832
+sS'quantitative restriction'
+p106
+F0.079188172080730132
+sS'cassava'
+p107
+F0.063873453848169143
+ss.

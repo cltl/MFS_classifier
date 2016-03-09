@@ -1,0 +1,10 @@
+
+all
+number correct: 66
+num_instances: 199
+perc correct: 0.331658291457
+
+n
+number correct: 66
+num_instances: 199
+perc correct: 0.331658291457

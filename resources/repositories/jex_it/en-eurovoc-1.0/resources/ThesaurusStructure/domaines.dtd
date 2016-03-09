@@ -1,0 +1,24 @@
+
+<!-- DTD pour la liste des domaines et leurs microthesaurus -->
+
+<!ELEMENT DOMAINES (DOM+)>
+
+<!ELEMENT DOM (MTH+)>
+
+<!ELEMENT MTH	(#PCDATA)>
+
+<!ATTLIST DOMAINES
+
+			LNG		CDATA		#REQUIRED
+			VER		CDATA		#REQUIRED >
+
+<!ATTLIST DOM
+
+			ID		CDATA		#REQUIRED
+			LIB		CDATA		#REQUIRED >
+
+<!ATTLIST MTH
+
+			ID		CDATA		#REQUIRED >
+
+			

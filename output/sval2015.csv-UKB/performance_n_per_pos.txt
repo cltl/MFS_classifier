@@ -1,0 +1,25 @@
+
+a
+number correct: 10
+num_instances: 19
+perc correct: 0.526315789474
+
+all
+number correct: 32
+num_instances: 72
+perc correct: 0.444444444444
+
+v
+number correct: 4
+num_instances: 17
+perc correct: 0.235294117647
+
+r
+number correct: 3
+num_instances: 5
+perc correct: 0.6
+
+n
+number correct: 15
+num_instances: 31
+perc correct: 0.483870967742

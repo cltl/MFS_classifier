@@ -1,0 +1,15 @@
+	sval2013		sval2015		
+	UKB	IMS	UKB	IMS
+worst_value	52.72	51.42	59.72	57.97
+best_value	67.69	63.55	73.34	68.34
+-MFS_confidence_UKB	-8.5	NA	-7.3	NA
+-idf	-2.2	-8.4	NA	NA
+-pos	-1.1	--0.2	NA	-2.2
+-Entropy_sense_ranking_IMS	NA	-0.1	NA	-0.2
+-WND_for_MFS	NA	NA	-1.9	-1.2
+-Entropy_sense_ranking_UKB	NA	NA	-4.4	NA
+-SuperSense_for_MFS	NA	NA	NA	-1.4
+-ratio_WND	-2.8	NA	-5.0	-4.9
+-MFS_confidence_IMS	NA	-0.5	NA	-0.2
+-num_senses	NA	-3.1	NA	NA
+-jex	-3.7	NA	-2.4	NA

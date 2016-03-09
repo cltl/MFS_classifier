@@ -1,0 +1,3 @@
+best setting and result based on accuracy:
+ MFS_confidence_UKB-idf-jex-pos-ratio_WND 
+ 0.681504221028

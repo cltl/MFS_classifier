@@ -1,0 +1,2556 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE SCOPE_NOTE SYSTEM "scope_note.dtd">
+<SCOPE_NOTE LNG="HR" VERSION="4_3">
+<RECORD>
+<DESCRIPTEUR_ID>6314</DESCRIPTEUR_ID>
+<SN>Istovremeno uzgajanje prehrambenih kultura i/ili stoke na istom komadu zemlje.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>2321</DESCRIPTEUR_ID>
+<SN>Prerada uvezene robe na koju se ne plaćaju carine ako se dovršeni proizvod ponovno izvozi.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1746</DESCRIPTEUR_ID>
+<SN>Više od polovice važećih glasova.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6383</DESCRIPTEUR_ID>
+<SN>Znanost i tehnologija svemirskih letova.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5044</DESCRIPTEUR_ID>
+<SN>Republika Hrvatska članica od 1997-06-09.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4892</DESCRIPTEUR_ID>
+<SN>Svi oblici energije pokrenuti pretvorbom biomase.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5169</DESCRIPTEUR_ID>
+<SN>Etički aspekti ljudske intervencije u biološke procese.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>3796</DESCRIPTEUR_ID>
+<SN>Industrijska grana koja upotrebljava biotehnologiju na industrijskoj i komercijalnoj razini.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6385</DESCRIPTEUR_ID>
+<SN>Proučavanje utjecaja klime na žive organizme.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4890</DESCRIPTEUR_ID>
+<SN>Izravna ili neizravna pretvorba Sunčeve energije od strane živih bića.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4930</DESCRIPTEUR_ID>
+<SN>Sve organske tvari od kojih se sastoje živa bića, biljke ili životinje.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>7410</DESCRIPTEUR_ID>
+<SN>Proučavanje bioloških podataka pomoću statističke analize koja služi za pozitivno utvrđivanje osobnoga identiteta.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4900</DESCRIPTEUR_ID>
+<SN>Plinovita tvar nastala razgradnjom organske materije.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>3797</DESCRIPTEUR_ID>
+<SN>Grana tehnologije koja se bavi uzgojem mikroorganizama, životinjskih i biljnih stanica i njihovih sastavnih dijelova.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5464</DESCRIPTEUR_ID>
+<SN>Biotop je homogeno područje ekološke sličnosti koje predstavlja stanište određene životinjske i biljne zajednice.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4959</DESCRIPTEUR_ID>
+<SN>Situacija na političkoj pozornici kad se za vlast bore dva politička pokreta, što ne treba miješati s deskriptorom "dvostranački sustav".</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>7396</DESCRIPTEUR_ID>
+<SN>Uputa o zdravstvenoj skrbi koja govori o tome na koji način osoba želi da se o njoj skrbi u slučaju da izgubi sposobnost odlučivanja o svojoj zdravstvenoj skrbi. Naziv living will često se rabi kada osoba odlučuje o sebi tijekom zadnje bolesti (pred smrt), ali uputa može biti dana u bilo kojim okolnostima.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>2761</DESCRIPTEUR_ID>
+<SN>Ukupna vrijednost svih dobara i usluga proizvedenih u jednoj državi u godinu dana. Jednak je bruto nacionalnomu proizvodu u koji se ne računaju prihodi od neto ulaganja stranih država.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>2769</DESCRIPTEUR_ID>
+<SN>Ukupna proizvodnja dobara i usluga u gospodarstvu jedne zemlje prije kapitalne potrošnje.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>161</DESCRIPTEUR_ID>
+<SN>Ograničenje količine roba koje se mogu uvesti uz snižene carine ili bez carina.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4600</DESCRIPTEUR_ID>
+<SN>Države koje su između sebe uspostavile jedinstveno carinsko područje sa zajedničkim propisima o vanjskim carinama i pristojbama.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4500</DESCRIPTEUR_ID>
+<SN>Organiziran prijevoz robe nekim teritorijem bez plaćanja carina.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>812</DESCRIPTEUR_ID>
+<SN>Mjesto gdje se uvozna ili izvozna roba može spremati ili prerađivati bez plaćanja carina.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>7185</DESCRIPTEUR_ID>
+<SN>Republika Hrvatska članica od 2003-03-01.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>3388</DESCRIPTEUR_ID>
+<SN>Rabi se samo za područje koje je postojalo do 1995, a nakon toga rabe se deskriptori "Ceuta" ili "Melilla". Ceuta i Melilla su autonomni gradovi od 13. ožujka 1995.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>2641</DESCRIPTEUR_ID>
+<SN>Uključuje, uz cijenu same robe, troškove prijevoza i osiguranja do odredišne luke.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>2671</DESCRIPTEUR_ID>
+<SN>Prodajna cijena robe i svi troškovi nastali do trenutka utovara na brod.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>3272</DESCRIPTEUR_ID>
+<SN>Upotrebljava se za nacionalne cijene proizvoda u poljoprivredi. U okviru zajedničke poljoprivredne politike treba upotrebljavati deskriptor "poljoprivredne cijene".</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>3236</DESCRIPTEUR_ID>
+<SN>Metoda koju tvrtke primjenjuju za izvoz kapitala tako da svojim podružnicama naplate jako uvećane cijene proizvoda matičnoga društva.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5975</DESCRIPTEUR_ID>
+<SN>Nezaposlenost uzrokovana varijacijama u poslovnom ciklusu.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5495</DESCRIPTEUR_ID>
+<SN>Koordinacijski odbor za kontrolu multilateralnoga izvoza. Međuvladina konferencija koja okuplja sve zemlje članice NATO-a osim Islanda, uz Japan i Australiju, a kao cilj ima nadzor izvoza robe koja je nastala kao rezultat naprednih tehnologija.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5558</DESCRIPTEUR_ID>
+<SN>Konferencija tijela državnih parlamenata kojima je specijalnost bavljenje pitanjima Zajednice.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5236</DESCRIPTEUR_ID>
+<SN>Europska suradnja u znanstvenim i tehničkim istraživanjima.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4411</DESCRIPTEUR_ID>
+<SN>Upotrebljava se samo za državu koja je postojala do 1. siječnja 1993. godine, kada su se Češka i Slovačka Republika razdvojile.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4063</DESCRIPTEUR_ID>
+<SN>Upotrebljava se za dokumente koji se bave prednostima ili nedostacima članstva u Europskoj uniji.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>588</DESCRIPTEUR_ID>
+<SN>Prodaja robe izvan zemlje po cijenama nižim od cijena na domaćem tržištu.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>340</DESCRIPTEUR_ID>
+<SN>Podjela upravnih ovlasti koje su bile koncentrirane u jednom središtu.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>361</DESCRIPTEUR_ID>
+<SN>Sustav u kojem lokalne vlasti podređene centralnoj vlasti upravljaju regijom.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6388</DESCRIPTEUR_ID>
+<SN>Znanost o zemljopisnoj raspodjeli i prostornoj organizaciji ljudi.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>7939</DESCRIPTEUR_ID>
+<SN>Razlike među pojedincima, domaćinstvima, poduzećima i zemljopisnim regijama na raznim društveno-ekonomskim stupnjevima s obzirom na pristup informacijskoj tehnologiji i uporabi interneta.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6540</DESCRIPTEUR_ID>
+<SN>Raspršenost osoba koje pripadaju jednom narodu ili zajedničkoj kulturi.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>3520</DESCRIPTEUR_ID>
+<SN>Sustav u kojem zaposlenik pristaje raditi kraće radno vrijeme i s nižom plaćom kako bi omogućio rad nezaposlenoj osobi.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4015</DESCRIPTEUR_ID>
+<SN>Upotrebljava se vezano uz navedenu instituciju.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5640</DESCRIPTEUR_ID>
+<SN>Upotrebljava se i za tijela Zajednice.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5511</DESCRIPTEUR_ID>
+<SN>Upotrebljava se upućujući na odluku Vijeća kojom se kodificiraju postupci traženja mišljenja od strane savjetodavnih, regulatornih ili upravnih odbora. Ta su mišljenja potrebna kad god Vijeće delegira svoje provedbene ovlasti Komisiji.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6052</DESCRIPTEUR_ID>
+<SN>Proizvod koji se dodaje u malim količinama tijekom pripreme hrane da bi se poboljšao njen izgled ili da bi se ona dulje očuvala.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>294</DESCRIPTEUR_ID>
+<SN>Službeni dogovor između središnjih banaka dviju zemalja o tzv. kreditu u pripremi za razmjenu zaliha valuta što ih svaka od njih posjeduje.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5782</DESCRIPTEUR_ID>
+<SN>Dozvola koja omogućuje određenomu izvoru ispuštanje određene količine nekoga zagađivala.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>297</DESCRIPTEUR_ID>
+<SN>Kredit otvoren u banci kako bi se jamčilo plaćanje robe po predočenju određenih dokumenata.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>2768</DESCRIPTEUR_ID>
+<SN>Ukupan proizvod različitih grana nacionalnoga gospodarstva u određenom razdoblju nakon što se oduzme kapitalna potrošnja.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5325</DESCRIPTEUR_ID>
+<SN>Svaka tvar koja se upotrebljava za pretjerano pojačavanje tjelesnih ili umnih rezultata pojedinca.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5539</DESCRIPTEUR_ID>
+<SN>To je četvrti resurs, uveden 1988. godine, i temelji se na bruto nacionalnom proizvodu i primjeni stope, određene prema proračunskom postupku, na ukupan bruto nacionalni proizvod svih država članica.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6789</DESCRIPTEUR_ID>
+<SN>Dopuna prehrani su koncentrirani izvori hranjivih tvari i drugih sastojaka s hranjivim ili fiziološkim učinkom, koji nadomještaju nedostatak unosa tih hranjivih tvari iz normalne prehrane.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5529</DESCRIPTEUR_ID>
+<SN>Dopust odobren za sudjelovanje u političkoj kampanji ili za izvršavanje dužnosti izabranoga predstavnika.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>2686</DESCRIPTEUR_ID>
+<SN>Cijena na prodajnom mjestu.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4132</DESCRIPTEUR_ID>
+<SN>Proračuni koji se dodaju glavnom proračunu za određene javne ustanove (npr. poštu) koje nisu neovisne pravne osobe, ali imaju određenu financijsku neovisnost.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>2329</DESCRIPTEUR_ID>
+<SN>Dozvola za ribolov dodijeljena nakon plaćanja pristojbe.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1951</DESCRIPTEUR_ID>
+<SN>Kretanje pojedinca ili skupine iz jedne u drugu društvenu klasu ili položaj.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4189</DESCRIPTEUR_ID>
+<SN>Odnosi se na organizaciju društva.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>998</DESCRIPTEUR_ID>
+<SN>Tvrtka koja je pod izravnim ili neizravnim nadzorom neke druge, koja se naziva matičnom ili holdingom.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>2244</DESCRIPTEUR_ID>
+<SN>U Republici Hrvatskoj to je Hrvatski sabor.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>978</DESCRIPTEUR_ID>
+<SN>Upotrebljava se samo u slučajevima kada se EAGGF uzima u općem smislu, bez razlikovanja Odsjeka za usmjeravanje i Odsjeka za pružanje jamstva.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5460</DESCRIPTEUR_ID>
+<SN>Republika Hrvatska članica od 1993-04-15.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6333</DESCRIPTEUR_ID>
+<SN>Upotrebljava se do 31. 12. 1998. godine, nakon 01.01.1999. godine rabi se "euro".</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6189</DESCRIPTEUR_ID>
+<SN>Odnosi se na ukupnu opremu, softver i tehnička sredstva koja služe za pohranu i arhiviranje podataka u brojčanom obliku.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6327</DESCRIPTEUR_ID>
+<SN>Cilj je EFICS-a skupljati, koordinirati, standardizirati, obrađivati i širiti informacije o šumarstvu.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>632</DESCRIPTEUR_ID>
+<SN>Znanost o odnosima s okolišem, ponajviše fizičkim ili zemljopisnim.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>634</DESCRIPTEUR_ID>
+<SN>Primjena matematičkih i statističkih tehnika na ekonomske probleme i teorije.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>641</DESCRIPTEUR_ID>
+<SN>Smanjenje troškova proizvodnje neke jedinice zahvaljujući povećanju njezina proizvodnoga kapaciteta.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1149</DESCRIPTEUR_ID>
+<SN>Znanost o zemljopisnoj raspodjeli gospodarskih resursa i njihovoj uporabi.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>3066</DESCRIPTEUR_ID>
+<SN>Pretvorba ili promjena u proizvodnji uzrokovana promjenama gospodarskih uvjeta.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4250</DESCRIPTEUR_ID>
+<SN>Povratak u stanje gospodarske stabilnosti nakon razdoblja kolebanja. To se može odnositi na jedno tržište ili na ukupno gospodarstvo.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6143</DESCRIPTEUR_ID>
+<SN>Reforma političkih strukura u zemlji ili skupini zemalja koja dovodi do prijelaza s planskoga na tržišno gospodarstvo.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6786</DESCRIPTEUR_ID>
+<SN>Gospodarska i mjerljiva priroda robe ili usluge koja uzima u obzir njezinu cijenu, te ponudu i potražnju.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5682</DESCRIPTEUR_ID>
+<SN>Instrument koji utječe na troškove i prednosti različitih mogućnosti koje su na raspolaganju gospodarskim djelatnicima radi mijenjanja njihovog stava prema okolišu.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5146</DESCRIPTEUR_ID>
+<SN>Upotrebljava se za opisivanje stanja gospodarstva u zemlji, skupini zemalja ili nekoj regiji u određenom razdoblju.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>664</DESCRIPTEUR_ID>
+<SN>Ekološka zajednica koja se smatra jedinicom zajedno s neživim čimbenicima njezina okoliša.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6178</DESCRIPTEUR_ID>
+<SN>Telekomunikacijska i računalna mreža u obliku proširenoga intranetskoga sustava koji omogućuje komunikaciju s vanjskim organizacijama, kao što su klijenti i dobavljači.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6370</DESCRIPTEUR_ID>
+<SN>Podaci u elektroničkom obliku koji su pridruženi ili logički povezani s drugim elektroničkim podacima i služe kao metoda potvrđivanja vjerodostojnosti.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6110</DESCRIPTEUR_ID>
+<SN>Skupljanje, organizacija i širenje svih vrsta informacija o interaktivnoj magnetnoj i optičkoj podršci.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>743</DESCRIPTEUR_ID>
+<SN>Energija koja nastaje kretanjem valova.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>2423</DESCRIPTEUR_ID>
+<SN>Nejednaki podmorski rub kontinenta iz kojeg priobalna država ima suverena prava izvlačiti resurse.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>855</DESCRIPTEUR_ID>
+<SN>Znanost o odnosu između radnika i njihove okoline, poglavito opreme kojom se koriste.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>858</DESCRIPTEUR_ID>
+<SN>Operacija u kojoj se instrument o kojem se pregovara kupuje uz popust na nominalnu vrijednost koja predstavlja kamate na iznos do datuma dospijeća.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6744</DESCRIPTEUR_ID>
+<SN>Znanost o metodama za poboljšanje kakvoće ljudske rase, poglavito selektivnim razmnožavanjem.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4054</DESCRIPTEUR_ID>
+<SN>Novi naziv za Europski sustav za međunarodno rješavanje radnih mjesta i prijava za zaposlenje, uveden kao dio procesa obnove koji je odobrilo Vijeće 1993. godine.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6334</DESCRIPTEUR_ID>
+<SN>Kamate Interbanke izračunate uz pomoć ESCB-a.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>665</DESCRIPTEUR_ID>
+<SN>Jedinstvena europska valuta uvedena u siječnju 1999. godine, o čijem je nazivu odlučeno na sastanku Europskoga vijeća u Madridu u prosincu 1995. godine. Upotrebljava se umjesto generičkog naziva "ecu" nakon 1.1.1999. godine.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>906</DESCRIPTEUR_ID>
+<SN>Republika Hrvatska članica od 1997-04-01.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>902</DESCRIPTEUR_ID>
+<SN>Dolari koje posjeduju banke ili tvrtke izvan Sjedinjenih Država i kojima se trguje na međunarodnom tržištu novca.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>908</DESCRIPTEUR_ID>
+<SN>Udruženje ministara obrane europskih zemalja u okviru NATO-a.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>7221</DESCRIPTEUR_ID>
+<SN>Agencija odgovorna za upravljanje programima pomoći Europske unije u Srbiji i Crnoj Gori te u Makedoniji.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1464</DESCRIPTEUR_ID>
+<SN>Upotrebljava se za različite projekte integracije koje europske države poduzimaju u kontekstu stvaranja Europe Zajednica, ili zajedno s drugim europskim organizacijama kao što je Vijeće Europe.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5284</DESCRIPTEUR_ID>
+<SN>Republika Hrvatska članica od 1992-07-02.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5347</DESCRIPTEUR_ID>
+<SN>Republika Hrvatska članica od 1992-11-26.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4070</DESCRIPTEUR_ID>
+<SN>Savjetovanje među državama članicama radi usvajanja zajedničkoga stajališta i utemeljenja europske vanjske politike. Ona je formalizirana Jedinstvenim aktom i bit će uključena u zajedničku vanjsku i sigurnosnu politiku ili zamjenjena njome.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5848</DESCRIPTEUR_ID>
+<SN>Upotrebljava se za zemljopisna područja koja nisu ograničena državnim granicama.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5395</DESCRIPTEUR_ID>
+<SN>Europsku socijalnu povelju, koja jamči socijalna i ekonomska ljudska prava, Vijeće Europe je usvojilo 1961. godine. Revizija povelje iz 1996. stupila je na snagu 1999.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6347</DESCRIPTEUR_ID>
+<SN>Ova je strategija uvedena nakon usvajanja Amsterdamskog ugovora radi otvaranja radnih mjesta i borbe protiv nezaposlenosti.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>210</DESCRIPTEUR_ID>
+<SN>Upotrebljava se za suradnju među europskim zemljama izvan Zajednice.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4046</DESCRIPTEUR_ID>
+<SN>Udruga raspuštena 31. prosinca 1998.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4603</DESCRIPTEUR_ID>
+<SN>Stvorena 1950. godine i zamijenjena 1958. godine Europskim monetarnim sporazumom OECD-a.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6559</DESCRIPTEUR_ID>
+<SN>Primjenjuje se samo za osjećaj pripadnosti Europskoj uniji.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4368</DESCRIPTEUR_ID>
+<SN>Jedinstven izborni postupak propisan temeljnim ugovorima Zajednice prema kojima se zastupnici u Europskom parlamentu biraju izravnim glasovanjem na temelju općega prava glasa.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6309</DESCRIPTEUR_ID>
+<SN>Model utemeljen na višefunkcionalnom, održivom i konkurentnom poljodjelstvu.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5680</DESCRIPTEUR_ID>
+<SN>Preteča Europske središnje banke.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4437</DESCRIPTEUR_ID>
+<SN>Sporazum kojim se uspostavlja institucionalni okvir za monetarnu suradnju zemalja OECD-a od 1958.  do 1972. godine.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4369</DESCRIPTEUR_ID>
+<SN>Sustav nacionalnoga računovodstva razrađen 1970. godine u okviru EEZ-a kako bi pomogao uspostavi računa Zajednice i država članica.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4056</DESCRIPTEUR_ID>
+<SN>Utemeljen Rimskim ugovorom radi povećanja prilika za zapošljavanje na unutarnjem tržištu i radi poboljšanja životnoga standarda.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>3666</DESCRIPTEUR_ID>
+<SN>Upotrebljava se za plan Zajednice glede prepoznatljivoga i zaštićenoga zaštitnoga znaka u svim državama članicama. Taj zaštitni znak bit će registriran pri Uredu Zajednice za zaštitne znakove.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6084</DESCRIPTEUR_ID>
+<SN>Cilj je Europskoga radničkoga vijeća poboljšati pravo na informiranje i savjetovanje zaposlenika koji rade u poduzećima ili skupinama tvrtki u okviru Zajednice.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>128</DESCRIPTEUR_ID>
+<SN>Skupština čelnika država ili vlada država članica Europske unije.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>901</DESCRIPTEUR_ID>
+<SN>Nacionalna valuta koju posjeduju strane tvrtke ili banke i kojom se trguje na međunarodnom tržištu novca.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5177</DESCRIPTEUR_ID>
+<SN>Mreža informacija Europske zajednice o obrazovanju.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>916</DESCRIPTEUR_ID>
+<SN>Obogaćivanje pitke ili morske vode hranjivim tvarima što dovodi do ubrzanoga rasta algi i drugih biljaka te do pogoršanja kakvoće vode.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>2371</DESCRIPTEUR_ID>
+<SN>Trgovanje robom, valutama ili vrijednosnim papirima na dva ili više tržišta kako bi se iskoristile razlike u navedenim cijenama.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5787</DESCRIPTEUR_ID>
+<SN>Višegodišnja prognoza koja za svaku veću kategoriju izdataka određuje maksimalnu dopuštenu visinu za svaku pojedinu proračunsku godinu.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1804</DESCRIPTEUR_ID>
+<SN>Mjesto emisije prenosivih vrijednosnih papira, uglavnom dionica i obveznica, na kojem se njima trguje.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>2319</DESCRIPTEUR_ID>
+<SN>Sustavni proces financijskih prijenosa radi ujednačivanja proračunskih sposobnosti ili gospodarskih rezultata različitih razina saveznih vlada.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>3238</DESCRIPTEUR_ID>
+<SN>Mogućnosti kreditiranja dogovorene među središnjim bankama kako bi se omogućile intervencije u valute Zajednice.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6350</DESCRIPTEUR_ID>
+<SN>Prilagođavanje onih propisa o radu koji se smatraju jednom od glavnih prepreka razvoju i otvaranju radnih mjesta. Obuhvaćeni su fleksibilnost glede plaća, radnoga vremena, organizacije posla te ujedno korištenje radne snage za fleksibilne poslove i na različitim lokacijama.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1090</DESCRIPTEUR_ID>
+<SN>Sustav prema kojemu tvrtka odobrava neovisnim djelatnicima da plasiraju proizvode ili pružaju usluge koristeći se imenom i zaštitnim znakom franšizora.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6544</DESCRIPTEUR_ID>
+<SN>Proces obnove pri kojemu se gubitak stanovništva zbog umiranja nadomješta rođenjima.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4111</DESCRIPTEUR_ID>
+<SN>Namjerno stvaranje novih gena zamjenom ili dodavanjem novog genskoga obilježja.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1152</DESCRIPTEUR_ID>
+<SN>Znanost o fizičkim svojstvima Zemlje i fizičkim procesima na Zemlji, iznad i unutar Zemlje.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1147</DESCRIPTEUR_ID>
+<SN>Kemija Zemljine kore.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6390</DESCRIPTEUR_ID>
+<SN>Grana geologije koja se bavi strukturom, podrijetlom i razvojem topografskih značajki Zemljine kore.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>450</DESCRIPTEUR_ID>
+<SN>Upotrebljava se za poštovanje uputa o glasovanju koje zastupnicima daje njihova stranka ili parlamentarna skupina.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>2223</DESCRIPTEUR_ID>
+<SN>Glasač sastavlja vlastiti popis odabirom kandidata s nekoliko popisa.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4753</DESCRIPTEUR_ID>
+<SN>Postupak u Francuskoj prema kojemu Vlada može natjerati Skupštinu da glasuje za cijeli tekst o kojem se raspravlja, omogućujući time prihvaćanje samo onih izmjena koje sama predlaže ili prihvaća.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6125</DESCRIPTEUR_ID>
+<SN>Proces sve veće gospodarske integracije svjetskoga gospodarstva.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1055</DESCRIPTEUR_ID>
+<SN>Vrijednost neke poslovne jedinice što nadilazi robu za trgovanje i novac uložen u nju.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>2382</DESCRIPTEUR_ID>
+<SN>Naprava koja izravno pretvara kemijsku energiju u električnu energiju putem nadzirane reakcije oksidacije između elektrolita i nekoga goriva, obično vodika ili ugljikovodika.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>7951</DESCRIPTEUR_ID>
+<SN>Gospodarstvo utemeljeno na znanju i tehnološkim inovacijama koje vodi stvaranju mreže eksperata.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6112</DESCRIPTEUR_ID>
+<SN>Goveđa spongiformna encefalopatija (GSE) je degenerativna bolest mozga od koje obolijevaju goveda.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>419</DESCRIPTEUR_ID>
+<SN>Nepoštovanje zakona koji se smatraju nepravednima mirnim prosvjedom.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>2699</DESCRIPTEUR_ID>
+<SN>U građanskim, trgovačkim i socijalnim pitanjima.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1816</DESCRIPTEUR_ID>
+<SN>Prostor unutar kojega je moguće kolebanje vrijednosti valute na obje strane središnje vrijednosti.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>3266</DESCRIPTEUR_ID>
+<SN>Ljestvica najnižih i najviših vrijednosti unutar kojih mogu varirati cijene.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>3676</DESCRIPTEUR_ID>
+<SN>Skupina koja se sastoji od Meksika, Venezuele, Kolumbije i Paname.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1194</DESCRIPTEUR_ID>
+<SN>Osnovale su je glavne zapadne razvijene zemlje radi proučavanja i reforme međunarodnoga monetarnog sustava.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5656</DESCRIPTEUR_ID>
+<SN>Međuvladina skupina odgovorna za međunarodna monetarna pitanja koja utječu na interese razvijenih zemlja.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>3675</DESCRIPTEUR_ID>
+<SN>Skupina zemalja koje su, nakon sudjelovanja na Konferenciji u Alžiru 1967. godine kada se pripremao sastanak skupštine UNCTAD-a, sastavile popis zahtjeva nerazvijenih zemalja.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5393</DESCRIPTEUR_ID>
+<SN>Sastavljena 1948. godine kako bi se riješilo pitanje organizacije međunarodne trgovine.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6275</DESCRIPTEUR_ID>
+<SN>Povezivanje multimedija s dokumentima weba; integracija teksta, slike, zvuka, grafike, animacije i videa hiperlinkovima.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6276</DESCRIPTEUR_ID>
+<SN>Stranice računalnoga teksta koje su napisane u softveru da bi se omogućilo povezivanje dijelova teksta i pripadajućega grafičkoga materijala.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1247</DESCRIPTEUR_ID>
+<SN>Poduzeće koje postoji ponajprije ili jedino radi nadziranja udjela u drugim poduzećima.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1254</DESCRIPTEUR_ID>
+<SN>Posebno administrativno područje Kine od 1. srpnja 1997. godine.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5412</DESCRIPTEUR_ID>
+<SN>Postupak koji pokreće žrtva zločina vezano uz kazneni postupak.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6176</DESCRIPTEUR_ID>
+<SN>Cijeli spektar prijenosa i primanja interaktivnih podataka u svijetu, uključujući internet, interaktivnu televiziju i slične umrežene medije.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4360</DESCRIPTEUR_ID>
+<SN>Sustav u kojem se određeni podaci prikupljaju, obrađuju i priopćavaju kako bi se pomoglo onima koji su odgovorni za uporabu resursa.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5674</DESCRIPTEUR_ID>
+<SN>Djelovanje Zajednice radi rješavanja problema vezanih uz provedbu politike Zajednice na regionalnoj razini ili za rješavanje onih problema koji su zajednički određenim kategorijama regija.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1450</DESCRIPTEUR_ID>
+<SN>Zajednička institucija afričkih, karipskih i pacifičkih zemalja i EZ-a.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4304</DESCRIPTEUR_ID>
+<SN>Upotrebljava se za tijela Zajednice.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>7926</DESCRIPTEUR_ID>
+<SN>Ukupnost intelektualnih resursa i vještina dostupnih za poslovnu djelatnost.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6851</DESCRIPTEUR_ID>
+<SN>Primjena telematike u prometu.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4699</DESCRIPTEUR_ID>
+<SN>Videografija u kojoj telekomunikacijska mreža prenosi zahtjeve korisnika i poruke primljene kao odgovor.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1192</DESCRIPTEUR_ID>
+<SN>Skupina koja može izvršiti pritisak na neku odluku donesenu na razini vlade.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5688</DESCRIPTEUR_ID>
+<SN>Republika Hrvatska članica od 1992-11-04.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>2462</DESCRIPTEUR_ID>
+<SN>Intervencija države u određenim gospodarskim ili socijalnim pitanjima.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6177</DESCRIPTEUR_ID>
+<SN>Unutarnji telekomunikacijski sustav i sustav računalne mreže koji je isključivo namijenjen uporabi unutar određene organizacije. Korišteni protokoli i tehnologije temelje se na internetskoj tehnologiji.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4195</DESCRIPTEUR_ID>
+<SN>Organizacija osnovana radi udruživanja sredstava ulagača s namjerom ulaganja u razne vrijednosnice.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4085</DESCRIPTEUR_ID>
+<SN>Metoda očuvanja hrane zračenjem.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1689</DESCRIPTEUR_ID>
+<SN>Situacija u kojoj poslodavac zatvara tvornicu kako bi prisilio radnike da prihvate određene uvjete rada.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4791</DESCRIPTEUR_ID>
+<SN>Područje što se prostire izvan teritorijalnih voda do udaljenosti od 200 milja od obale.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1510</DESCRIPTEUR_ID>
+<SN>Republika Hrvatska članica od 1993-01-01.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4461</DESCRIPTEUR_ID>
+<SN>Istočni dio otoka Timora koji je 20. svibnja 2002. godine proglasio nezavisnost nakon indonezijske okupacije od 1975. godine.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>2441</DESCRIPTEUR_ID>
+<SN>Ovisno o konkretnom pravnom sustavu, ovdje može biti riječi o kriminalističkoj, odnosno pravosudnoj policiji.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>924</DESCRIPTEUR_ID>
+<SN>Smanjenje ili minimaliziranje odgovornosti za plaćanje poreza zakonitim sredstvima.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>2880</DESCRIPTEUR_ID>
+<SN>Najmanji broj glasova ili postotka glasova  potreban za dobivanje zastupničkoga mjesta u razmjernom izbornom sustavu.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5276</DESCRIPTEUR_ID>
+<SN>Iznos koji neki kandidat mora položiti da bi mogao izaći na izbore.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6006</DESCRIPTEUR_ID>
+<SN>Klauzula prema kojoj liste koje ne dobiju minimalni postotak glasova, ovisno o zemlji o kojoj je riječ, ne sudjeluju u podjeli mjesta.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5835</DESCRIPTEUR_ID>
+<SN>Upotrebljava se za priziv upravnomu sudu. Ne smije se zamjenjivati deskriptorom "žalba tijelu upravne vlasti".</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1073</DESCRIPTEUR_ID>
+<SN>Plaćena izobrazba koja se odvija tijekom radnoga vremena djelatnika.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1517</DESCRIPTEUR_ID>
+<SN>Političko načelo ili praksa neke zemlje da ne sudjeluje u međunarodnim poslovima.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>2227</DESCRIPTEUR_ID>
+<SN>Mjera stvorena za određene akte Zajednice koji su izravno primjenjivi i koji se ne moraju prenositi unaprijed u nacionalni zakon.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1797</DESCRIPTEUR_ID>
+<SN>Ugovor dodijeljen po nahođenju nekoga upravnoga tijela nakon prethodno provedenoga natječaja među potencijalnim poduzetnicima.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>927</DESCRIPTEUR_ID>
+<SN>Ovlaštenje koje Komisija daje državama članicama da se udalje od normi Zajednice u okviru zajedničke trgovinske politike.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6273</DESCRIPTEUR_ID>
+<SN>Dopust koji se daje zbog obiteljskih razloga, promjene boravišta, obrazovanja i slično, a nije godišnji odmor.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>3166</DESCRIPTEUR_ID>
+<SN>Pristojba koja se primjenjuje kada su cijene u Zajednici niže od cijena u svijetu kako bi se spriječile nestašice.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6897</DESCRIPTEUR_ID>
+<SN>Izvršavanje vlasti odnosi se na proces u kojem elementi u društvu imaju moć i vlast, te utječu na provođenje politike i odluka o javnom životu.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4136</DESCRIPTEUR_ID>
+<SN>Rabi se za tijelo koje pruža uslugu. Ne smije se zamjenjivati deskriptorom "usluge od općega interesa".</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>2588</DESCRIPTEUR_ID>
+<SN>Upotrebljava se za državne vlasti ili tijela i za lokalne i regionalne vlasti, shvaćene u cjelini.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>424</DESCRIPTEUR_ID>
+<SN>Obveze središnje vlade i drugih javnih tijela prema pojedinim vjerovnicima.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1810</DESCRIPTEUR_ID>
+<SN>Ugovor koji obvezuje neko javno tijelo i neku treću stranu u cilju pružanja rada ili usluga.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4012</DESCRIPTEUR_ID>
+<SN>Pravo koje se primjenjuje na ekonomske predmete koje pokreću javne osobe.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>7934</DESCRIPTEUR_ID>
+<SN>Suradnja između javne vlasti i privatnoga poduzetništva radi provedbe infrastrukturnih projekata ili pružanja komunalnih usluga.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5501</DESCRIPTEUR_ID>
+<SN>Čini lokalno područje. Ne smije se zamjenjivati deskriptorom "lokalna uprava".</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6034</DESCRIPTEUR_ID>
+<SN>Obuhvaćaju razne vrste teritorija. Ne smije se zamjenjivati deskriptorom "lokalna uprava".</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>7941</DESCRIPTEUR_ID>
+<SN>Administrativne ili zakonodavne mjere usvojene radi reguliranja ili poticaja uporabe jednoga ili više jezika.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6222</DESCRIPTEUR_ID>
+<SN>Suradnja na području pravosuđa i unutarnjih poslova.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4778</DESCRIPTEUR_ID>
+<SN>Upotrebljava se samo za državu koja je postojala do raspada te federacije.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4428</DESCRIPTEUR_ID>
+<SN>Sustav koji pomoću mreže kablova emitira audio ili video programe velikomu broju korisnika.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5267</DESCRIPTEUR_ID>
+<SN>Udruženje neovisnih poduzeća koja se bave sličnim aktivnostima, osnovano radi ograničavanja ili eliminiranja konkurencije na određenom tržištu.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6386</DESCRIPTEUR_ID>
+<SN>Grana pedologije koja proučava kemijski sastav, svojstva i reakcije tla.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>28</DESCRIPTEUR_ID>
+<SN>Sastojak koji se dodaje proizvodu kako bi se poboljšala njegova kakvoća ili povećala učinkovitost.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>3293</DESCRIPTEUR_ID>
+<SN>Znanstveno izučavanje sustava komunikacije i nadzora u strojevima i živim bićima.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5494</DESCRIPTEUR_ID>
+<SN>Klauzula koja dopušta državi članici da se uzdrži ili odgodi primjenu određenih odredaba nekog sporazuma.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6171</DESCRIPTEUR_ID>
+<SN>Stvaranje, s pomoću vegetativne reprodukcije, skupine stanica ili organizama koji su genetski dvojnici i prema tomu genetski istovjetni s početnim genskim materijalom ili prastanicom.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5643</DESCRIPTEUR_ID>
+<SN>Financijski instrument čiji je cilj smanjiti jaz između rezultata gospodarskoga razvoja država članica, te na taj način promicati gospodarsku i monetarnu uniju.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>2046</DESCRIPTEUR_ID>
+<SN>Proces kojim predstavnici poslodavaca i zaposlenika pregovaraju radi postizanja kolektivnoga sporazuma.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5751</DESCRIPTEUR_ID>
+<SN>Tarifna i statistička nomenklatura koja se primjenjuje na vanjsku trgovinu Zajednice te za trgovanje među državama članicama.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4506</DESCRIPTEUR_ID>
+<SN>Slanje robe s pomoću nekoliko prijevoznih sredstava, s tim da najveću moguću udaljenost pokriva željeznica, unutrašnji plovni putovi ili more, a najmanju cestovni prijevoz.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>3012</DESCRIPTEUR_ID>
+<SN>Mediji koji dio prihoda ostvaruju oglašavanjem.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>3189</DESCRIPTEUR_ID>
+<SN>Oblik međunarodne trgovine s ciljem uklanjanja ili smanjivanja prijenosa valuta. Ponovno uvodi sporazume o trampi, vezanoj kupovini i prekupu.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1006</DESCRIPTEUR_ID>
+<SN>Financiranje privremenih izvoznih deficita.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6365</DESCRIPTEUR_ID>
+<SN>Čin kojim javna vlast povjerava nekoj trećoj strani u obliku ugovora ili jednostrane odluke uz prethodni pristanak te treće strane pravo djelomičnog ili potpunog upravljanja uslugama za koje bi to tijelo trebalo biti odgovorno, a za koje treća strana preuzima rizik.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1577</DESCRIPTEUR_ID>
+<SN>Unošenje određenih tvari u tlo radi poboljšanja njegovih fizičkih i kemijskih svojstava.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>110</DESCRIPTEUR_ID>
+<SN>Velika korporacija ili skupina poduzeća nastala spajanjima i preuzimanjima koja ima interese u velikom broju poslovnih djelatnosti.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>62</DESCRIPTEUR_ID>
+<SN>Financijsko izvješće koje predstavlja kombinaciju izvješća dvaju ili više poduzeća u jednoj skupini.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>180</DESCRIPTEUR_ID>
+<SN>Pregledavanje industrijskih proizvoda u različitim stadijima proizvodnje kako bi se osigurala usklađenost s normama.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>649</DESCRIPTEUR_ID>
+<SN>Gospodarstvo u koje država intervenira, ali ne nameće centralizirano planiranje.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>193</DESCRIPTEUR_ID>
+<SN>Međunarodna konvencija o željezničkom prijevozu putnika i prtljage.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6716</DESCRIPTEUR_ID>
+<SN>Grana astronomije koja se bavi evolucijom i strukturom svemira.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>145</DESCRIPTEUR_ID>
+<SN>Krajnja potrošnja predstavlja vrijednost roba i usluga što se koriste za izravno zadovoljavanje ljudskih potreba.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1864</DESCRIPTEUR_ID>
+<SN>Jedinica popisa stanovništva, svaki pojedinac ili skupina pojedinaca koji žive u istoj nastambi.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6387</DESCRIPTEUR_ID>
+<SN>Znanstveno izučavanje odnosa između geografije i kulture.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1750</DESCRIPTEUR_ID>
+<SN>Potrebno je ispuniti teže uvjete nego s apsolutnom većinom, primjerice postići dvotrećinsku većinu.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4013</DESCRIPTEUR_ID>
+<SN>Sektor gospodarstva koji se odnosi na intelektualne usluge, obrazovanje, savjetodavne usluge, informiranje, istraživanja.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1676</DESCRIPTEUR_ID>
+<SN>Sredstva plaćanja koja su odmah na raspolaganju bez potrebe preraspodjele novca.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>2764</DESCRIPTEUR_ID>
+<SN>Hrana koja se prerađuje brzim zamrzavanjem na minus 60 stupnjeva, nakon čega slijedi potpuna dehidracija.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>68</DESCRIPTEUR_ID>
+<SN>Rabi se samo za lokalnu upravu. Ne smije se zamjenjivati deskriptorima "jedinice regionalne i lokalne uprave" i "jedinice lokalne uprave".</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5118</DESCRIPTEUR_ID>
+<SN>Prema zakonodavstvu Republike Hrvatske taj pojam obuhvaća izabrane članove općinskih i gradskih vijeća te županijskih skupština jedinica lokalne i područne (regionalne) samouprave.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6355</DESCRIPTEUR_ID>
+<SN>Primjena različitih metoda za privlačenje zaposlenika iz jednog poduzeća u drugo, često konkurentsko.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1735</DESCRIPTEUR_ID>
+<SN>U hrvatskom pravnom nazivlju ne postoji odgovarajući naziv za engl. magistrate.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1716</DESCRIPTEUR_ID>
+<SN>Posebno upravno područje Kine od 20. prosinca 1999. godine.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1728</DESCRIPTEUR_ID>
+<SN>Grana ekonomije koja se bavi zbrojevima, kao što su nacionalni dohodak, potrošnja i ulaganja.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5077</DESCRIPTEUR_ID>
+<SN>Trgovačka kabotaža između susjednih luka ili luka u Zajednici.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>2652</DESCRIPTEUR_ID>
+<SN>Upotrebljava se u opreci s veleprodajnom cijenom, inače valja upotrebljavati deskriptor "potrošačka cijena".</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>3204</DESCRIPTEUR_ID>
+<SN>Različite tehnike koje se upotrebljavaju kako bi se neki proizvod ili usluga učinili što privlačnijima potrošaču.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>7955</DESCRIPTEUR_ID>
+<SN>Nediferencirana stanica embrija, fetusa ili tkiva odraslih koja se može dijeliti, preoblikovati u drugi tip stanica i razmnožavati.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>3224</DESCRIPTEUR_ID>
+<SN>Protok roba i usluga među različitim industrijama.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1034</DESCRIPTEUR_ID>
+<SN>Republika Hrvatska članica od 1992-09-21.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5526</DESCRIPTEUR_ID>
+<SN>Tijelo za upravljanje Međunarodnom konferencijom rada sastavljeno od državnih izaslanstava u kojima su zastupljeni vlada, radnici i poslodavci.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>3503</DESCRIPTEUR_ID>
+<SN>Međunarodna obveza da se nadoknadi šteta nanesena strancima kao rezultat radnji koje su u suprotnosti s međunarodnim pravom.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>2189</DESCRIPTEUR_ID>
+<SN>Za imena međunarodnih organizacija vidi polje 76.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5991</DESCRIPTEUR_ID>
+<SN>Republika Hrvatska članica od 1993-11-23.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1337</DESCRIPTEUR_ID>
+<SN>Podudarni trgovinski termini koje je formulirala Međunarodna trgovinska komora.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>3467</DESCRIPTEUR_ID>
+<SN>Uključuje ugovore, kodekse ponašanja, rezolucije, planove aktivnosti i deklaracije međuvladinih organizacija. Upotrebljava se vezano uz organizaciju na koju se odnosi.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>7193</DESCRIPTEUR_ID>
+<SN>Međunarodni kazneni sud stalna je institucija osnovana Rimskim statutom iz 1998. godine. Treba ga razlikovati od Međunarodnoga kaznenoga suda za bivšu Jugoslaviju i od Međunarodnoga suda.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>3461</DESCRIPTEUR_ID>
+<SN>Upotrebljava se vezano uz zemlju o kojoj je riječ.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>3476</DESCRIPTEUR_ID>
+<SN>Upotrebljava se vezano uz zemlju o kojoj je riječ.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4009</DESCRIPTEUR_ID>
+<SN>Učinci međunarodnog prava, poglavito sporazuma na nacionalno pravo države.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4421</DESCRIPTEUR_ID>
+<SN>Tehnologija koja može poboljšati proizvodnost tradicionalnih metoda, a ne zahtijeva kapital ili obrazovno osposobljavanje potrebno za naprednu tehnologiju.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5524</DESCRIPTEUR_ID>
+<SN>Pregovori među vladama država članica radi izmjena sporazuma.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1892</DESCRIPTEUR_ID>
+<SN>Znanost koja proučava Zemljinu atmosferu, poglavito procese nastanka vremenskih uvjeta i prognoziranje vremena.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1903</DESCRIPTEUR_ID>
+<SN>Odnosi se na dio Oceanije koji se nalazi u sjevernom Pacifiku i koji obuhvaća oko 2000 otoka. Kada je riječ o državi, treba upotrebljavati deskriptor "Savezne Države Mikronezije".</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6756</DESCRIPTEUR_ID>
+<SN>Poduzeće s manje od 10 zaposlenika.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6284</DESCRIPTEUR_ID>
+<SN>Pravna mjera koja se upotrebljava kada se institucije Zajednice pozovu da iznesu svoje stajalište o aktualnoj situaciji ili određenom događaju u Uniji ili državama članicama. U nekim slučajevima mišljenja pripremaju put za pravnoobvezujuće akte što slijede, ili su preduvjet za pokretanje postupka pred Sudom EZ-a.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1881</DESCRIPTEUR_ID>
+<SN>Mjera koja ima učinak jednak učinku carina ili količinskim ograničenjima uvoza.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5409</DESCRIPTEUR_ID>
+<SN>Upotrebljava se za sporazume ili konvencije koji su sklopljeni s nekom trećom zemljom ili međunarodnom organizacijom i čije su potpisnice Zajednica i jedna ili više država članica.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4237</DESCRIPTEUR_ID>
+<SN>Kratkoročno financiranje Zajednice radi ispunjavanja financijskih zahtjeva nastalih kao rezultat privremenoga deficita u platnoj bilanci.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>3424</DESCRIPTEUR_ID>
+<SN>Osnovana na temelju podataka o računima poljoprivrednih gospodarstava, predstavlja različite vrste poljodjelstva unutar Europske zajednice.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>3686</DESCRIPTEUR_ID>
+<SN>Zbroj prihoda od rada i imovine nastao iz aktualne proizvodnje dobara i usluga u nacionalnom gospodarstvu.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6265</DESCRIPTEUR_ID>
+<SN>Načelo prilagodbe znači prebacivanje pitanja koje se, u institucionalnom okviru Unije, rješava međuvladinom metodom (drugi i treći stup) na metodu Zajednice (prvi stup).</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6133</DESCRIPTEUR_ID>
+<SN>Načelo prema kojemu Komisija, temeljem Amsterdamskoga protokola, predlaže mjere koje su proporcionalne cilju koji se želi postići, pružajući svakoj državi članici najveću moguću toleranciju za ostvarivanje tih mjera na nacionalnoj razini.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5812</DESCRIPTEUR_ID>
+<SN>Načelo prema kojemu se Zajednica angažira samo onda kad se ciljevi mogu učinkovitije ostvariti na njezinoj razini nego na razini država članica.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>2626</DESCRIPTEUR_ID>
+<SN>Načelo prema kojemu troškove mjera protiv zagađivanja plaća ona strana koja je odgovorna za to zagađivanje.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4130</DESCRIPTEUR_ID>
+<SN>Klauzula koja se pojavljuje u određenim bilateralnim sporazumima prema kojoj su države ugovarateljice pristale proširiti na međusobnu trgovinu carinske povlastice koje bi dale trećoj strani.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>2675</DESCRIPTEUR_ID>
+<SN>Cijena koju određuje država.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1890</DESCRIPTEUR_ID>
+<SN>Dogovor prema kojemu zemljoposjednik daje zemlju u najam u zamjenu za dio uroda.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>2410</DESCRIPTEUR_ID>
+<SN>Zemljišno područje sa zasađenim kulturama, obično naveliko.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6363</DESCRIPTEUR_ID>
+<SN>Oružje koje je oblikovano upravo za onesposobljavanje boraca i opreme, dok istodobno minimalizira rizik od smrti, trajne ozljede i nepopravljive štete na imovini ili okolišu.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1336</DESCRIPTEUR_ID>
+<SN>Osobi izabranoj na jedan položaj zabranjeno je obnašati neki drugi položaj koji se smatra štetnim za prvi.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5940</DESCRIPTEUR_ID>
+<SN>Rad koji ne traje puno radno vrijeme i trajno, a uključuje honorarne, večernje i poslove vikendom, poslove na određeno vrijeme, telerad i rad kod kuće, odnosno izvan radnoga mjesta.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>7947</DESCRIPTEUR_ID>
+<SN>Nezatražene poruke poslane elektroničkom poštom s namjerom izravnoga marketinga.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>3171</DESCRIPTEUR_ID>
+<SN>Ukinuto 1987. godine i zamijenjeno kombiniranom nomenklaturom.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1318</DESCRIPTEUR_ID>
+<SN>Upotrebljava se za Saveznu Republiku Njemačku od kraja Drugoga svjetskog rata i za cijelu Njemačku od ujedinjenja 3. listopada 1990. godine.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1308</DESCRIPTEUR_ID>
+<SN>Upotrebljava se samo za državu koja je postojala do 3. listopada 1990. godine, tj. do ujedinjenja Njemačke.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5754</DESCRIPTEUR_ID>
+<SN>Preciziranje najviše dopuštene granice za zagađivača sa sigurnosnom tolerancijom koja jamči sigurnost javnosti.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1988</DESCRIPTEUR_ID>
+<SN>Pristojba koja se plaća na uvoz i izvoz poljoprivrednih proizvoda uvedena kako bi se poravnala razlika između stvarnih tečajeva i "zelenih" tečajeva te tako spriječilo narušavanje tržišnoga natjecanja.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5270</DESCRIPTEUR_ID>
+<SN>Bruto tijek gotovine poduzeća njegova je neto dobit prije naplate amortizacije. Neto novčani tijek sastoji se od neraspodijeljene dobiti uvećane za amortizaciju.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5306</DESCRIPTEUR_ID>
+<SN>Područje medicine u kojem se radioizotopi koriste za dijagnozu ili terapiju.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6537</DESCRIPTEUR_ID>
+<SN>Obitelj u koju jedan ili oboje punoljetnih roditelja dovode djecu iz prethodne veze.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5334</DESCRIPTEUR_ID>
+<SN>Upotrebljava se za razmjenu informacija u pravnom ili etičkom kontekstu.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>3036</DESCRIPTEUR_ID>
+<SN>Jedna osoba koja zakonski obnaša više dužnosti.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1057</DESCRIPTEUR_ID>
+<SN>Veći iznos aktive od tekuće pasive, predstavlja sredstva na raspolaganju za financiranje poslovnih djelatnosti.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6104</DESCRIPTEUR_ID>
+<SN>Predaja nekoliko besplatnih primjeraka knjižnoga ili audiovizualnoga djela odgovarajućim institucijama prilikom objave ili nakon nje.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5598</DESCRIPTEUR_ID>
+<SN>Upotrebljava se za pitanja vezana uz pravnu vezu između dviju ili više osoba kojima jedna može prisiliti drugu da ispuni neku obvezu.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>237</DESCRIPTEUR_ID>
+<SN>Odbor koji se sastoji od stalnih predstavnika država članica. Pomaže Vijeću EU-a.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6266</DESCRIPTEUR_ID>
+<SN>Načelo prema kojemu država mora biti odgovorna i nadoknaditi gubitke i štete koje su pojedinci prouzročili kršenjem zakona Zajednice.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>934</DESCRIPTEUR_ID>
+<SN>Iseljavanje kvalificiranih osoba u zemlju ili regiju koja im nudi bolje uvjete rada.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4014</DESCRIPTEUR_ID>
+<SN>Upotrebljava se u povezanosti s institucijom o kojoj je riječ.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6782</DESCRIPTEUR_ID>
+<SN>Položaj regija i njihov utjecaj na različite politike Europske unije.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4040</DESCRIPTEUR_ID>
+<SN>Upotrebljava se vezano uz vrstu odnosa ili sporazuma o kojoj je riječ.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>3223</DESCRIPTEUR_ID>
+<SN>Izraz se upotrebljavao za odnose između dvaju blokova, ali se još uvijek može upotrebljavati u kontekstu novih odnosa između Zapada i zemalja bivšega istočnoga bloka.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>3234</DESCRIPTEUR_ID>
+<SN>Upotrebljava se za odnose među državama članicama. Ne smije se upotrebljavati za odnose između neke države i Zajednice.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5585</DESCRIPTEUR_ID>
+<SN>Razvoj koji omogućuje zadovoljavanje sadašnjih potreba, ne dovodeći u pitanje mogućnost da i budući naraštaji zadovolje svoje potrebe.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>3514</DESCRIPTEUR_ID>
+<SN>Republika Hrvatska članica od 1992-03-24.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>7194</DESCRIPTEUR_ID>
+<SN>Upotrebljava se u vezi s JHA (pravosuđe i unutarnji poslovi).</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1699</DESCRIPTEUR_ID>
+<SN>Zakon koji ocrtava osnovna načela, ali omogućuje vladi da se koristi svojim parlamentarnim ovlastima radi njihove daljnje razrade.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>2134</DESCRIPTEUR_ID>
+<SN>Stanje u kojem je tržište pod učinkovitim nadzorom ograničenoga broja prodavača.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>2135</DESCRIPTEUR_ID>
+<SN>Stanje u kojem je tržište pod učinkovitim nadzorom ograničenoga broja kupaca.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6103</DESCRIPTEUR_ID>
+<SN>Otpad s kojim se mora vrlo oprezno postupati zbog moguće opasnosti za ljude, životinje ili okoliš.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>2590</DESCRIPTEUR_ID>
+<SN>Preferencijalni sporazumi o carinama što ih razvijene zemlje, uključujući Europsku uniju, primjenjuju na zemlje u razvoju.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6621</DESCRIPTEUR_ID>
+<SN>Službeno poništavanje ili ukidanje (zakona ili presude) da ne bi djelovali niti imali učinke.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5415</DESCRIPTEUR_ID>
+<SN>Obuhvaća optužnicu, optužni prijedlog i privatnu tužbu.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>7202</DESCRIPTEUR_ID>
+<SN>Republika Hrvatska članica od 1995-04-13.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>7948</DESCRIPTEUR_ID>
+<SN>Sustav vjerovanja i vrijednosti koji je zajednički članovima neke organizacije i koji usmjerava njihovo ponašanje.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>568</DESCRIPTEUR_ID>
+<SN>Metoda obrađivanja zemlje kojom se izbjegava uporaba kemijskih proizvoda.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>2280</DESCRIPTEUR_ID>
+<SN>Postupno osiromašenje pučanstva neke regije ili društvene klase kao rezultat velikih promjena u gospodarstvu regije ili zemlje.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5958</DESCRIPTEUR_ID>
+<SN>Područje zaštićeno posebnim mjerama radi očuvanja vrlo osjetljivih prirodnih staništa.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1091</DESCRIPTEUR_ID>
+<SN>Prema Zajedničkoj carinskoj tarifi neoporezivanje robe uvezene za osobnu uporabu ili za uporabu privatnih pojedinaca.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6781</DESCRIPTEUR_ID>
+<SN>Osnovne potrebe ljudskoga bića za hranom, odjećom i krovom nad glavom.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5317</DESCRIPTEUR_ID>
+<SN>Stvari koje osoba ima uza se.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6753</DESCRIPTEUR_ID>
+<SN>Kupnja poduzeća, poglavito od strane bivše uprave ili zaposlenika, ponekad uz podršku banke ili neke druge institucije izvana.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1682</DESCRIPTEUR_ID>
+<SN>Otplata duga u određenom iznosu ili u obliku godišnjih obroka.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>7930</DESCRIPTEUR_ID>
+<SN>Metoda definiranja i prihvaćanja smjernica i zajedničkih ciljeva kojima se uspostavljaju indikatori i najbolja praksa u područjima u kojima EU ili nema ovlasti ili dijeli nadležnost, odnosno ima ovlast da poduzima mjere potpore.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5519</DESCRIPTEUR_ID>
+<SN>Tamo gdje je primjereno, upotrebljava se vezano uz određenu instituciju Zajednice.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>3194</DESCRIPTEUR_ID>
+<SN>Politika formirana za pružanje novih poticaja gospodarskoj djelatnosti u opadanju ili stagnaciji.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6570</DESCRIPTEUR_ID>
+<SN>Bolnička  i medicinska njega za neizlječive bolesnike.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5449</DESCRIPTEUR_ID>
+<SN>Upotrebljava se za parlamentarno tijelo neke međunarodne organizacije.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>18</DESCRIPTEUR_ID>
+<SN>Ako je potrebno, upotrebljava se u povezanosti s odnosnim područjem djelatnosti.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5773</DESCRIPTEUR_ID>
+<SN>Republika Hrvatska članica od 2000-05-25.Inicijativa s ciljem unapređivanja stabilnosti i sigurnosti u Europi jačanjem veza između NATO-a i zemalja srednje i istočne Europe ili drugih zemalja koje pripadaju OESS-u.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>2322</DESCRIPTEUR_ID>
+<SN>Privremeni izvoz robe radi daljnje obrade ili popravka temeljem posebnih carinskih sporazuma.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>7375</DESCRIPTEUR_ID>
+<SN>Nezavisna politička snaga (lijeve ili desne orijentacije) koja ulazi u koaliciju s lijevima ili desnima.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>2971</DESCRIPTEUR_ID>
+<SN>Program modernizacije koji obuhvaća selektivni sustav poticaja za poljoprivredna gospodarstva s planom unaprjeđivanja.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>2420</DESCRIPTEUR_ID>
+<SN>Proizvod koji se upotrebljava za mijenjanje mehaničkih i termičkih svojstava određenih krutih tvari kako bi im se povećala elastičnost, smanjila temperatura lomljivosti i kako bi se mogle lakše oblikovati.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>3044</DESCRIPTEUR_ID>
+<SN>Izravno glasovanje kvalificiranih glasača u nekoj državi o važnom javnom pitanju.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6318</DESCRIPTEUR_ID>
+<SN>Sustav uzgoja niza različitih kultura na istom zemljištu kako bi se održala ili povećala njegova plodnost.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6902</DESCRIPTEUR_ID>
+<SN>Novac koji se upotrebljava za početno ulaganje u neki projekt ili tek osnovano poduzeće za dokazivanje nekoga pristupa, istraživanje tržišta ili početni razvoj proizvoda.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5855</DESCRIPTEUR_ID>
+<SN>Upotrebljava se za pitanja uravnotežene podjele ovlasti između Zajednice te nacionalnih i regionalnih ustanova.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6151</DESCRIPTEUR_ID>
+<SN>Geografsko područje koje pokriva one države članice koje su prihvatile euro kao vlastitu valutu.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6754</DESCRIPTEUR_ID>
+<SN>Proizvodno ili uslužno poduzeće osnovano radi zapošljavanja i ponovnoga uključivanja nezaposlenih u gospodarske aktivnosti.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6749</DESCRIPTEUR_ID>
+<SN>Spremnost na upuštanje u nove društvene ili poslovne pothvate.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1351</DESCRIPTEUR_ID>
+<SN>Pokazatelj do koje se mjere valuta u EMS-u razlikuje od njezine središnje vrijednosti u odnosu na ECU.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1946</DESCRIPTEUR_ID>
+<SN>Odnosi se na sposobnost pojedinih radnika da se kreću tržištem rada. Razlikuje se od deskriptora "slobodno kretanje radnika".</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4275</DESCRIPTEUR_ID>
+<SN>Odnosi se na zemlje ili regije kontroverznoga statusa.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>7189</DESCRIPTEUR_ID>
+<SN>Ovaj je naziv nastao 1980-tih godina kada je francuski predsjednik Francois Mitterrand, koji je bio socijalist, bio prisiljen pristati na podjelu vlasti nakon pobjede desničarske vlade. Taj se naziv sada upotrebljava i za opis sličnih situacija u drugim zemljama.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5897</DESCRIPTEUR_ID>
+<SN>Upotrebljava se za opis politike jedne zemlje, skupine zemalja ili regije u određenom vremenu.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6218</DESCRIPTEUR_ID>
+<SN>Utjecaj politike Zajednice na nacionalnu politiku i obrnuto.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5096</DESCRIPTEUR_ID>
+<SN>Godišnje referentno razdoblje za određivanje cijena poljoprivrednih proizvoda.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>666</DESCRIPTEUR_ID>
+<SN>Sve industrijske aktivnosti uključene u preradu proizvoda poljoprivrednoga podrijetla.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>2591</DESCRIPTEUR_ID>
+<SN>Promjenjiva pristojba koja se naplaćuje na vanjskoj granici Zajednice za uvoz poljoprivrednih proizvoda iz zemalja koje nisu članice Zajednice kako bi se poravnala razlika između cijena na svjetskom tržištu i razina cijena dogovorenih u Zajednici.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>2639</DESCRIPTEUR_ID>
+<SN>Cijene određene u okviru zajedničke poljoprivredne politike. Za nacionalne cijene treba upotrebljavati deskriptor "cijena poljoprivrednog proizvoda".</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6313</DESCRIPTEUR_ID>
+<SN>Područje na kojem je potrebno uzeti u obzir ekološke čimbenike prije nego što ga se upotrijebi za poljoprivredu.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>7382</DESCRIPTEUR_ID>
+<SN>Potpora koja se dodjeljuje osobama kojima je potrebna, a koje nemaju dovoljno sredstava za vlastito uzdržavanje i koje nikada nisu plaćale socijalno osiguranje ili ga nisu dovoljno dugo plaćale da bi na osnovi zarađenih plaća ostvarile pravo na potporu.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6727</DESCRIPTEUR_ID>
+<SN>Cilj je te pomoći obavijestiti žrtve i njihove obitelji o njihovim pravima, savjetovati ih o postupcima koje mogu pokrenuti i ponuditi im psihološku pomoć u svim stadijima pravnoga postupka.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>3516</DESCRIPTEUR_ID>
+<SN>Povratak na tržište rada nakon razdoblja poduljega izbivanja zbog rodiljskoga dopusta, školovanja djece, služenja vojnoga roka, služenja zatvorske kazne i sl.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1825</DESCRIPTEUR_ID>
+<SN>Sva sredstva plaćanja koja se mogu koristiti u određenoj zemlji.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1679</DESCRIPTEUR_ID>
+<SN>Popis osoba koje imaju pravo glasa.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6909</DESCRIPTEUR_ID>
+<SN>Prilagodba znanstvenoga i tehničkoga znanja kako bi se približilo nestručnjacima.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6362</DESCRIPTEUR_ID>
+<SN>Tehnika mjerenja koja je namijenjena prepoznavanju najučinkovitijeg djelovanja. Sastoji se od niza jednostavnih i transparentnih referentnih točaka koje, uz pomoć testova, mogu pomoći u praćenju tendencija u tržišnom natjecanju u određenom razdoblju, a u isto vrijeme čine osnovu za postavljanje ciljeva i usvajanje planova za ostvarivanje tih ciljeva.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6134</DESCRIPTEUR_ID>
+<SN>Poredbeno oglašavanje svako je oglašavanje koje izričito ili neizravno navodi ime konkurenta ili pak robe ili usluga koje konkurent nudi.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>671</DESCRIPTEUR_ID>
+<SN>Usporedno izučavanje obrazovnih teorija i prakse u različitim zemljama.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1311</DESCRIPTEUR_ID>
+<SN>Interni porez na plaće osoblja koje zapošljava Europska zajednica.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5851</DESCRIPTEUR_ID>
+<SN>Upotrebljava se za nacionalne i regionalne parlamente ili skupštine.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>7134</DESCRIPTEUR_ID>
+<SN>Upotrebljava se za gospodarstva zemalja koje su napustile komunistički sustav 1989. godine kako bi prihvatile neki drugi sustav.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>3466</DESCRIPTEUR_ID>
+<SN>Formalnost kojom se potvrđuje slaganje s tekstom sporazuma, ali koja obično nije obvezujuća za državu.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>3269</DESCRIPTEUR_ID>
+<SN>Pristojba koja ide u korist nacionalnih prijevoznika (zabranjena bez odobrenja Komisije).</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6216</DESCRIPTEUR_ID>
+<SN>Politika čiji je cilj obrana određenih interesa potrošača, koja priznaje njihova temeljna prava i nastoji smanjiti nejednakosti, boriti se protiv nelojalne prakse, promicati zdravlje i sigurnost i poboljšati životni standard općenito.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1252</DESCRIPTEUR_ID>
+<SN>Uvjerenje ovlaštenoga tijela o kakvoći proizvoda ili usluge i njegovog udovoljavanja normama.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6325</DESCRIPTEUR_ID>
+<SN>Postupak kojim neka neovisna treća strana dodjeljuje potvrdu kojom se svjedoči da je šuma pod upravom i da se koristi na održiv način sukladno dogovorenim normama.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>3001</DESCRIPTEUR_ID>
+<SN>Dokument dodijeljen plovilu Zajednice ili plovilu sa zastavom neke treće zemlje koje je ovlašteno ribariti u vodama Zajednice. Sadrži podatke o identifikaciji, tehničkim karakteristikama i opremi plovila.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4605</DESCRIPTEUR_ID>
+<SN>Sporazum Zajednice o trgovini koji sadrži odredbe o tarifama povoljnijima od GATT-ovih.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>3568</DESCRIPTEUR_ID>
+<SN>Subvencija, temeljem zajedničke poljoprivredne politike, za izvoz poljoprivrednih proizvoda koja proizvođačima omogućuje zajamčene cijene.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1911</DESCRIPTEUR_ID>
+<SN>Povratak migranta u rodno mjesto ili zadnje prebivalište.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6718</DESCRIPTEUR_ID>
+<SN>Povremeni ili neredoviti rad u jeku sezone ili kada su drugi zaposlenici odsutni.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5465</DESCRIPTEUR_ID>
+<SN>Upotrebljava se za svojinu stečenu nezakonitom djelatnošću, kao što je trgovina drogom.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>544</DESCRIPTEUR_ID>
+<SN>Sustav upravljanja ribarstvom unutar kojega se pristup ribolovnim područjima rukovodi sudioničkim pravima koja ne uključuju samo pravo na ulov ribe već i određuje kako, kada i gdje se ribolov može obavljati (npr. tip plovila i motora) te veličinu dopuštenoga ulova.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>3482</DESCRIPTEUR_ID>
+<SN>Tekst koji obvezuje države ili privatne osobe i utvrđuje međunarodne norme pojednostavljujući izradu i primjenu nacionalnih politika, zakona i propisa u određenim područjima.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>3969</DESCRIPTEUR_ID>
+<SN>Pomoć koja se dodjeljuje siromašnim osobama kako bi im se pomoglo u ostvarivanju prava.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5411</DESCRIPTEUR_ID>
+<SN>Pravna stečevina Zajednice obuhvaća zajednička prava i obveze koje obvezuju sve države članice i Europsku uniju. Države kandidatkinje moraju usvojiti acquis communautaire prije nego što mogu pristupiti Europskoj uniji.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>3491</DESCRIPTEUR_ID>
+<SN>Suradnja među državama radi izrade zajedničkih propisa ili usklađivanja zakonodavstva.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>520</DESCRIPTEUR_ID>
+<SN>Svaka osoba ima pravo raditi i baviti se zanimanjem koje je slobodno odabrala ili prihvatila.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>3915</DESCRIPTEUR_ID>
+<SN>Svaka osoba ima pravo sudjelovati u gospodarskom, društvenom, kulturnom i političkom razvoju i pridonijeti mu te se njime okoristiti. Ljudska prava i temeljne slobode sastavni su dio takva razvoja.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>217</DESCRIPTEUR_ID>
+<SN>Suradnja među sudskim tijelima različitih država, koja može biti u obliku međusobne pomoći ili priznavanja i provođenja presuda.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5959</DESCRIPTEUR_ID>
+<SN>Naziv za šefa vlade može biti različit u pojedinim državama, npr.: premijer, prvi ministar, kancelar, predsjednik vlade.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4764</DESCRIPTEUR_ID>
+<SN>Način glasovanja prema kojemu birač kandidate numerira prema prvenstvu.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6182</DESCRIPTEUR_ID>
+<SN>Program koji omogućuje korisnicima da traže i čitaju dokumente na internetu i da se snalaze među njima.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4416</DESCRIPTEUR_ID>
+<SN>Radnje, oprema i mjere uključene u pripremu i konzerviranje hrane.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1277</DESCRIPTEUR_ID>
+<SN>Upotrebljava se za bilo koji aspekt koji se odnosi na metode i probleme prehrane životinja. Za samu hranu upotrebljava se deskriptor "stočna hrana".</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6905</DESCRIPTEUR_ID>
+<SN>Studenti i praktikanti koji zbog nesposobnosti, financijskih problema i slično ne završavaju organizirano razdoblje školovanja.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>2296</DESCRIPTEUR_ID>
+<SN>Za imena zemalja i područja, vidi potpojmovnik 7241 prekomorske zemlje i područja.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>2926</DESCRIPTEUR_ID>
+<SN>Dokumet koji izdaje međunarodna organizacija i koji ne razumijeva nikakvu pravnu obvezu. Upotrebljava se vezano uz određenu organizaciju.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4020</DESCRIPTEUR_ID>
+<SN>Upotrebljava se u povezanosti s dotičnom institucijom.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5935</DESCRIPTEUR_ID>
+<SN>Postupak koji omogućuje da se roba koja nije iz Europske unije obrađuje bez primjene uvoznih pristojbi ili mjera trgovinske politike. Proizvodi koji su rezultat te prerade stavljaju se na tržište, ali uz uobičajene uvozne pristojbe.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6356</DESCRIPTEUR_ID>
+<SN>Odnosi se na promjenu radnoga mjesta unutar istoga poduzeća kao rezultat prerazmještaja  ili unapređenja.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>2589</DESCRIPTEUR_ID>
+<SN>Omatanje proizvoda u odsutnosti kupca tako da količina proizvoda ima određenu vrijednost u volumenu ili masi, o kojoj je unaprijed odlučeno.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6192</DESCRIPTEUR_ID>
+<SN>Uređaj spojen s računalom koji digitalizira tekst i sliku.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>2938</DESCRIPTEUR_ID>
+<SN>Zamjena jedne poljoprivredne djelatnosti drugom.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>3290</DESCRIPTEUR_ID>
+<SN>Primjenjuje se za neku granu industrije ili na međuindustrijskoj razini. Ne upotrebljava se za unutarnji preustroj poduzeća.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>3443</DESCRIPTEUR_ID>
+<SN>Iznosi koje poduzeće stavlja na stranu u iščekivanju budućih potraživanja na nj.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5868</DESCRIPTEUR_ID>
+<SN>Nastaje primjenom paušalne stope na PDV osnovu svake države članice.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5830</DESCRIPTEUR_ID>
+<SN>Situacija u kojoj vlada, na vlastitu inicijativu, brani svoje postupke pred parlamentom.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1995</DESCRIPTEUR_ID>
+<SN>Izraz neodobravanja ili kritike koju parlament upućuje vladi.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>3038</DESCRIPTEUR_ID>
+<SN>Odluka tijela kojem je povjeren određeni zadatak da izvršenje toga zadatka privremeno prenese na drugo tijelo.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4536</DESCRIPTEUR_ID>
+<SN>Dozvola prelaska carinskoga teritorija ili pohranjivanja uvezene robe u carinsko skladište ili carinski obračunski centar bez ispunjavanja carinskih formalnosti na granici.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1433</DESCRIPTEUR_ID>
+<SN>Temeljni pravci kretanja  i objekti koji se koriste u prometu. Upotrebljava se vezano uz način prijevoza o kojem je riječ.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5152</DESCRIPTEUR_ID>
+<SN>Prijevozni potencijal nekoga poduzeća.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4379</DESCRIPTEUR_ID>
+<SN>Cijena prijevoza određena unaprijed prema sustavnoj tablici.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5976</DESCRIPTEUR_ID>
+<SN>Položaj osobe koja se ne može smatrati nezaposlenom jer ne traži posao. Prema tomu, ta se osoba više ne ubraja u dio radne snage.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5419</DESCRIPTEUR_ID>
+<SN>Obuhvaća godišnje tehničke prilagodbe koje obavlja Komisija i prilagodbe povezane s uvjetima provedbe.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>2618</DESCRIPTEUR_ID>
+<SN>Pravo Zajednice ima primat nad bilo kojom odredbom zakona država članica koja mu je protivna.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>3457</DESCRIPTEUR_ID>
+<SN>Zemljišno područje koje je zaštićeno i kojim se upravlja da bi se očuvala određena vrsta staništa i njegova flora i fauna koje su često rijetke ili ugrožene.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>2592</DESCRIPTEUR_ID>
+<SN>Porez koji je Europska zajednica za ugljen i čelik ubirala za proizvodnju ugljena i čelika u Zajednici od 1. siječnja 1953. godine.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4403</DESCRIPTEUR_ID>
+<SN>Postiže se učinak jednak učinku carine.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4080</DESCRIPTEUR_ID>
+<SN>Nastaju iz primjene zajedničke carinske tarife na uvoze iz trećih zemalja.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4805</DESCRIPTEUR_ID>
+<SN>Zemljopisno područje unutar kojega postoji jedinstvena cijena prijevoza.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5420</DESCRIPTEUR_ID>
+<SN>Čin kojim neka država ili međunarodna organizacija obznanjuje svoju spremnost da se obveže sporazumom koji su druge strane već sklopile.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>969</DESCRIPTEUR_ID>
+<SN>Pomoć koju pružaju crkve, zaklade itd.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>3527</DESCRIPTEUR_ID>
+<SN>Posao koji zahtijeva da se neka osoba uposli na određeno vrijeme.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>97</DESCRIPTEUR_ID>
+<SN>Privremeni ulaz robe namijenjene za reeksport bez plaćanja carina.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6099</DESCRIPTEUR_ID>
+<SN>Međusobno priznavanje svjedodžbi i drugih dokumenata koji potvrđuju završetak strukovne izobrazbe.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6374</DESCRIPTEUR_ID>
+<SN>Neovisno i objektivno ispitivanje primjerenosti, učinkovitosti, djelotvornosti, učinka i izvedivosti neke humanitarne intervencije kako bi se izvukli odgovarajući zaključci.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>174</DESCRIPTEUR_ID>
+<SN>Sustavno ocjenjivanje metoda upravljanja od strane ekipa unutar ili izvan organizacije.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6901</DESCRIPTEUR_ID>
+<SN>Upotrebljava se za prodaju proizvoda iz prodajnih uređaja. Za "bankovni automat", upotrebljava se deskriptor "elektroničko bankarstvo".</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4192</DESCRIPTEUR_ID>
+<SN>Partnerstva osnovana radi obavljanja posla određenih liberalnih struka.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6300</DESCRIPTEUR_ID>
+<SN>Ispitivanje i ocjena mogućih posljedica uvođenja novih tehnologija.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5417</DESCRIPTEUR_ID>
+<SN>Postupak koji javno tužiteljstvo pokreće pred kaznenim sudom radi izricanja primjerene kazne počinitelju zločina.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>2431</DESCRIPTEUR_ID>
+<SN>Republika Hrvatska surađuje i prima pomoć od 1993-02-19.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>781</DESCRIPTEUR_ID>
+<SN>Metoda pouke s pomoću računala.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>2771</DESCRIPTEUR_ID>
+<SN>Proizvod proizveden u određenoj zemlji; ako u proizvodnji nekoga proizvoda sudjeluje više od jedne zemlje, proizvodom s podrijetlom smatra se onaj iz zemlje u kojoj je proizvodnja završena.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>2737</DESCRIPTEUR_ID>
+<SN>Upotrebljava se za dokumente koji pokrivaju cijeli niz proizvoda, inače se upotrebljava određeniji deskriptor.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6298</DESCRIPTEUR_ID>
+<SN>Postignuti rezultati proizvodnje koje radnik mora održavati kako bi primao određenu plaću. Razlikuje se od deskriptora "radna norma".</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1201</DESCRIPTEUR_ID>
+<SN>Dobrovoljno udruživanje poljoprivrednika koji su uključeni u određenu vrstu proizvodnje na istom području.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5826</DESCRIPTEUR_ID>
+<SN>Upotrebljava se za svaku kampanju namijenjenu promicanju ideje europskih integracija.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4241</DESCRIPTEUR_ID>
+<SN>Načelo prema kojemu se sredstva određene namjene moraju upotrijebiti za određenu svrhu propisanu proračunom.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6704</DESCRIPTEUR_ID>
+<SN>Ne upotrebljava se u kontekstu Europske unije.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4031</DESCRIPTEUR_ID>
+<SN>Protokol o povlasticama i imunitetima Europskih zajednica.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>519</DESCRIPTEUR_ID>
+<SN>Kompenzacijska carina nametnuta uvezenoj dampinškoj robi kako bi se suzbio damping.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6377</DESCRIPTEUR_ID>
+<SN>Odnosi se na oružje i naprave koje se koriste protiv osoba, a ne protiv opreme.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1592</DESCRIPTEUR_ID>
+<SN>Upotrebljava se za nacionalne zakone, poglavito američke i britanske. Ne upotrebljava se u kontekstu politike tržišnoga natjecanja u Zajednici kada treba upotrebljavati deskriptor "kontrola ograničavajuće prakse".</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>3614</DESCRIPTEUR_ID>
+<SN>Prolaženje kroz zemlju kada se polazna i odredišna točka nalaze izvan te zemlje.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>2857</DESCRIPTEUR_ID>
+<SN>Grana psihologije koja se bavi radnom okolinom i upravljanjem osobljem.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>2427</DESCRIPTEUR_ID>
+<SN>Obilježje neke zemlje ili regije u kojoj su svi oni koji traže posao zaposleni.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1777</DESCRIPTEUR_ID>
+<SN>Pravna ovlast da se djeluje za neku drugu osobu u određenim posebno navedenim pitanjima ili dokument kojim se dodjeljuje takva ovlast.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6262</DESCRIPTEUR_ID>
+<SN>Stvaranje, uređivanje ili objavljivanje slika s pomoću računala.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>56</DESCRIPTEUR_ID>
+<SN>Računovodstveni sustav koji se upotrebljava za sastavljanje nacionalnih računa. Ne smije se zamjenjivati deskriptorom "računovodstvo javnih službi".</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>3083</DESCRIPTEUR_ID>
+<SN>Navode sve podatke o oblicima poljoprivrednih djelatnosti, omogućujući usporedbe i jednostavnije uključivanje u ekonomske statistike.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4543</DESCRIPTEUR_ID>
+<SN>Upotrebljava se samo za dokumente sasvim opće prirode, inače treba upotrebljavati određeniji deskriptor.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4549</DESCRIPTEUR_ID>
+<SN>Zaposlenje uz osnovni posao, kojim se obično krše pravila propisana zakonom.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>3552</DESCRIPTEUR_ID>
+<SN>Rad koji se obavlja na daljinu s pomoću telekomunikacijskih usluga ili računala.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>2082</DESCRIPTEUR_ID>
+<SN>Norme o zaposlenju i uvjetima rada navedene u kolektivnim sporazumima ili propisane zakonom i propisima o radu.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>3325</DESCRIPTEUR_ID>
+<SN>Sposobnost pojedinca da promijeni svoj položaj ili rang unutar nekoga zanimanja ili da promijeni zvanje.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>3854</DESCRIPTEUR_ID>
+<SN>Osoba koja radi za javnoga ili privatnoga poslodavca i koja dobiva plaću u novcu, stan i hranu ili neki drugi oblik naknade za trud. Upotrebljava se vezano uz zanimanja, a u općenitijem kontekstu treba upotrebljavati deskriptor "radna snaga".</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6745</DESCRIPTEUR_ID>
+<SN>Radnik s niskim prihodima čija obitelj živi ispod granice siromaštva.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>3540</DESCRIPTEUR_ID>
+<SN>Naziv se odnosi samo na radnike koji su poslani na rad u inozemstvo, sukladno politici poduzeća. Treba ga razlikovati od deskriptora "radnik migrant".</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>2550</DESCRIPTEUR_ID>
+<SN>Sve osobe koje imaju plaćeno namještenje ili su se izjasnile da traže posao.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>2901</DESCRIPTEUR_ID>
+<SN>Čin kojim neka država potvrđuje sporazum ili ugovor te se na taj način obvezuje poštovati njegove odredbe na međunarodnoj razini   .</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5926</DESCRIPTEUR_ID>
+<SN>Omjer troškova nekoga projekta koji se može financirati iz financijskih instrumenata Zajednice.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>3383</DESCRIPTEUR_ID>
+<SN>Izborni sustav u kojem je svaka stranka zastupljena razmjerno broju glasova koje dobije na izborima.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>2947</DESCRIPTEUR_ID>
+<SN>Prerada otpadnoga materijala nastalih u procesu proizvodnje u svrhu dobivanja proizvoda, sličnih ili drugačijih u odnosu na prvotne.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>2959</DESCRIPTEUR_ID>
+<SN>Operacija u kojoj središnja banka eskontira mjenicu koju predočava neka druga banka koja ju je već eskontirala.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>2966</DESCRIPTEUR_ID>
+<SN>Glasovanje cijeloga društva za prihvaćanje ili odbijanje neke mjere koju predlaže vlada.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>7378</DESCRIPTEUR_ID>
+<SN>Rabi se regionalnom kontekstu; ne smije se zamjenjivati deskriptorom "autonomistička stranka".</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6389</DESCRIPTEUR_ID>
+<SN>Znanost koja izučava obilježja neke regije i njihove gospodarske, ekološke ili društvene učinke.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>7414</DESCRIPTEUR_ID>
+<SN>Ugovorna zajednica dviju punoljetnih osoba različitoga ili istoga spola. Razumijeva prava i obveze partnera slične braku.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>2906</DESCRIPTEUR_ID>
+<SN>Aranžman prema kojemu osiguravatelj prenosi na druge strane sav rizik ili dio rizika koji je preuzeo. To nije dvostruko osiguranje, već sredstvo raspodjele velikih rizika.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4395</DESCRIPTEUR_ID>
+<SN>Poseban tečaj za konverziju između ECU-a i neke nacionalne valute za cijene poljoprivrednih proizvoda, s otklonom od normalnoga tečaja.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6064</DESCRIPTEUR_ID>
+<SN>Metodološko razmatranje i pregled koji se izvode radi utvrđivanja općega stanja nekoga poduzeća ili procjene je li određena aktivnost u skladu s pravnim propisima ili pravilima dobroga upravljanja.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>3446</DESCRIPTEUR_ID>
+<SN>Iznos koji se rezervira u bilancama za pokrivanje nekih očekivanih gubitaka ili izdataka.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1970</DESCRIPTEUR_ID>
+<SN>Valuta koju su zemlje voljne držati kao dio stranih deviznih pričuva.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5614</DESCRIPTEUR_ID>
+<SN>Upotrebljava se za opremu  izloženu pozitivnom ili negativnom pritisku u usporedbi s atmosferskim pritiskom.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>3470</DESCRIPTEUR_ID>
+<SN>Dokument koji izdaje neka međunarodna organizacija čije pravne implikacije mogu varirati. Upotrebljava se vezano uz određenu organizaciju.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1083</DESCRIPTEUR_ID>
+<SN>Troškovi nastali poslovanjem koji se ne odnose na izravne troškove proizvodnje.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>2718</DESCRIPTEUR_ID>
+<SN>Upotrebljava se za dokumente koji se bave proizvodima koji potječu od ribarenja. Ne smije se zamjenjivati deskriptorom "ribarski resursi", koji se odnosi na postojeće resurse.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4076</DESCRIPTEUR_ID>
+<SN>Potencijalna i manje-više predvidiva opasnost koja se može pojaviti na terenu neke industrije, s izravnim ozbiljnim posljedicama za susjedno pučanstvo, imovinu ili okoliš.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5021</DESCRIPTEUR_ID>
+<SN>Blagajnička/riznička mjenica plativa u kratkom roku.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4828</DESCRIPTEUR_ID>
+<SN>Sporazum prema kojemu se glavne zemlje izvoznice i glavni uvoznici neke robe obvezuju da će poštovati propise kojima se regulira međunarodna trgovina tim proizvodom.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1787</DESCRIPTEUR_ID>
+<SN>Tržište u ugovorima o kupnji ili prodaji dobara ili vrijednosnica nekoga datuma u budućnosti, po cijeni dogovorenoj pri sklapanju ugovora.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>2767</DESCRIPTEUR_ID>
+<SN>Upotrebljava se za dokumente koji pokrivaju cijeli niz proizvoda, inače treba upotrebljavati određeniji deskriptor.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4216</DESCRIPTEUR_ID>
+<SN>Pravo nacije ili naroda da odredi vlastito državno uređenje bez vanjskoga utjecaja.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6609</DESCRIPTEUR_ID>
+<SN>Praksa neke organizacije ili skupine sličnih organizacija da dobrovoljno odabere, prihvati i primijeni pravila kako bi osigurala usklađenost s definiranom razinom ponašanja, bez izravnoga zakonodavnoga upletanja vlasti.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4712</DESCRIPTEUR_ID>
+<SN>Grad koji politički i gospodarski ovisi o nekom drugom gradu.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6852</DESCRIPTEUR_ID>
+<SN>Upotrebljava se za indeksiranje globalnih satelitskih sustava koji se koriste za navigaciju i određivanje položaja.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>7198</DESCRIPTEUR_ID>
+<SN>Država u Oceaniji koja obuhvaća više od 600 otoka u arhipelagu Karolinških otoka i četiri sastavne države: Chuuk, Kosrae, Pohnpei i Yap.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5405</DESCRIPTEUR_ID>
+<SN>Sporazum čiji je cilj postupno ukidanje kontrole osoba na unutarnjim granicama Zajednice.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6391</DESCRIPTEUR_ID>
+<SN>Grana geologije koja se bavi taložnim stijenama i naslagama.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4018</DESCRIPTEUR_ID>
+<SN>Stvoreno od institucija Zajednice na temelju ugovora.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5980</DESCRIPTEUR_ID>
+<SN>Promjene u stopi zaposlenosti vezane uz dio godine.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4290</DESCRIPTEUR_ID>
+<SN>Zalihe robe koje se čuvaju kako bi se smanjila kolebanja cijena robe na svjetskom tržištu.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4029</DESCRIPTEUR_ID>
+<SN>Ugovorom o radu jamči se dugoročno zaposlenje.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>661</DESCRIPTEUR_ID>
+<SN>Dio ekonomije koji se temelji na nedopuštenom radu ili protuzakonitim djelatnostima koje se ne pojavljuju u državnoj statistici.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>7952</DESCRIPTEUR_ID>
+<SN>Sjednica uključuje predsjednike ili predsjedatelje parlamentarnih skupina.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>2964</DESCRIPTEUR_ID>
+<SN>Sudsko saslušanje po hitnom postupku radi zaustavljanja neke protuzakonite situacije.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6116</DESCRIPTEUR_ID>
+<SN>Skupina iz Rija, osnovana 1986. godine, politička je organizacija koja održava redovne ministarske sastanke s Europskom unijom.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5480</DESCRIPTEUR_ID>
+<SN>Skupina radnika koji obavljaju slične poslove i koji su naučili prepoznati i riješiti probleme; dobrovoljno daje prijedloge za poboljšanje proizvodnosti, kakvoće, radnoga morala itd. u poduzeću.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4789</DESCRIPTEUR_ID>
+<SN>Države koje su međusobno ukinule carine i na svojim teritorijima uredile područje kojim se roba slobodno kreće.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4793</DESCRIPTEUR_ID>
+<SN>Dio teritorija na kojem se ne primjenjuju carine.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1637</DESCRIPTEUR_ID>
+<SN>Sustav prema kojemu je roba proizvedena izvan Europske zajednice u slobodnom optjecaju unutar Zajednice nakon plaćanja carina kada se prvi put uveze u neku državu članicu.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1634</DESCRIPTEUR_ID>
+<SN>Temeljni aspekt slobodnoga kretanja ljudi unutar Europske unije. Ovaj pojam razumijeva ukidanje diskriminacije prema nacionalnosti kada je riječ o zapošljavanju, plaćama i drugim uvjetima rada, kao i o pravu radnika migranta i njegove obitelji na društvenu, gospodarsku i kulturnu integraciju u državi domaćinu. Treba ga razlikovati od deskriptora "pokretljivost radne snage".</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5313</DESCRIPTEUR_ID>
+<SN>Upotrebljava se za neku zemlju ili unutar neke institucije.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>3938</DESCRIPTEUR_ID>
+<SN>Pravo vezano uz komad zemlje prema kojemu njegov vlasnik dobiva neka prava nad susjednom zemljom, ali nema pravo prisvojiti ni jedan njezin dio niti pravo plodouživanja.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>887</DESCRIPTEUR_ID>
+<SN>Riječ je o državi u kojoj blagostanje i socijalnu sigurnost osigurava sama država putem svojih tijela i ustanova.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>3082</DESCRIPTEUR_ID>
+<SN>Onaj dio ekonomije koji nije ni privatan ni javan, nego se sastoji od organizacija koje sebi pridaju zakonitost (kao što su zadruge, društvena poduzeća, skupine za samopomoć) s dobrovoljnim članovima i direktorskim ili poslovodnim odborima, koje poduzimaju djelatnosti za dobrobit zajednice.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6081</DESCRIPTEUR_ID>
+<SN>Obuhvaća osnovne radne norme s kojima se slažu razvijene zemlje i zemlje u razvoju. Te su norme primjenjive na pravo osnivanja sindikata, pravo kolektivnoga pregovaranja, zabranu ropstva i prisilnoga rada, zabranu diskriminacije i najnižu dob za radno sposobne osobe.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>7942</DESCRIPTEUR_ID>
+<SN>Dobrovoljna nastojanja poduzeća da u svoje gospodarske aktivnosti i odnose sa zainteresiranim strankama uključe socijalna i okolišna pitanja.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4887</DESCRIPTEUR_ID>
+<SN>Sustavno ocjenjivanje društvenoga utjecaja neke organizacije u odnosu na norme i očekivanja. Za pitanja o kakvoći života na poslu upotrebljava se deskriptor "humanizacija rada" .</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6105</DESCRIPTEUR_ID>
+<SN>Praksa iskorištavanja nižih troškova rada u nekim zemljama zbog nižih doprinosa za socijalno osiguranje i drugih doprinosa. Na taj se način odvlači posao iz drugih zemalja i stvara nepravedno tržišno natjecanje.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>2011</DESCRIPTEUR_ID>
+<SN>Upotrebljava se za svaku skupnu aktivnost radi promicanja veće socijalne pravde.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6785</DESCRIPTEUR_ID>
+<SN>Prijenos prihoda i pružanja javnih usluga na pojedince i društvene skupine bez naknade kako bi oni mogli uživati u boljem životnom standardu.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>682</DESCRIPTEUR_ID>
+<SN>Oblik obrazovanja za učenike s posebnim potrebama, kao što su osobe sa psihičkim ili fizičkim smetnjama.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5772</DESCRIPTEUR_ID>
+<SN>Potpora Zajednice za kulturna i sportska događanja koja se pruža radi promicanja ideje o Zajednici. Treba je razlikovati od financijske potpore koja se dodjeljuje vezano uz programe ili politike Zajednice.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>3700</DESCRIPTEUR_ID>
+<SN>Europski sporazum o međunarodnom riječnom prijevozu opasne robe.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1195</DESCRIPTEUR_ID>
+<SN>Europski sporazum o međunarodnom cestovnom prijevozu opasne robe.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1283</DESCRIPTEUR_ID>
+<SN>Europski sporazum o radu osoblja u vozilima u međunarodnom cestovnom prijevozu.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5401</DESCRIPTEUR_ID>
+<SN>Sporazum o međunarodnom prijevozu pokvarljivih namirnica i o posebnoj opremi za njihov prijevoz.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1474</DESCRIPTEUR_ID>
+<SN>Sporazumi o suradnji sklopljeni između država članica Europske unije i država nečlanica.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>7813</DESCRIPTEUR_ID>
+<SN>Sporazum potpisan 23. lipnja 2000. između 15 zemalja članica EU-a i 76 zemalja članica ACP-a za razdoblje od 20 godina s mogućnošću revidiranja svakih 5 godina. Taj sporazum nasljeđuje sporazum iz Lomea, kojim su se uređivali odnosi između EU-a i zemalja članica ACP-a od 1975. godine.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>2006</DESCRIPTEUR_ID>
+<SN>Odnosi se na industrijsku proizvodnju u određenim sektorima u kojima zemlje zajednički razvijaju program gospodarske integracije.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6253</DESCRIPTEUR_ID>
+<SN>Sporazum o socijalnoj politici ugrađen je u Ugovor o Europskoj zajednici Amsterdamskim ugovorom. Sporazum o socijalnoj politici navodi ciljeve socijalne politike Europske unije, s posebnim naglaskom na ravnopravne mogućnosti i borbu protiv isključivanja iz društva.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>3508</DESCRIPTEUR_ID>
+<SN>Pregovori o smanjivanju strateškoga naoružanja.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6223</DESCRIPTEUR_ID>
+<SN>Upotrebljava se za državu nastalu nakon raspada SFRJ. U razdoblju od 27.4.1992. do 4.2.2003. imala je naziv Savezna Republika  Jugoslavija.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4394</DESCRIPTEUR_ID>
+<SN>Paritet između nacionalne valute i zajedničke europske valute (ECU) te preko nje s ostalim nacionalnim valutama.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>73</DESCRIPTEUR_ID>
+<SN>Aranžman Europskoga monetarnog sustava da daje zajmove na dvije do pet godina državama članicama koje imaju ozbiljne platnobilančne teškoće.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4620</DESCRIPTEUR_ID>
+<SN>Upotrebljava se samo za državu koja je postojala do raspada Sovjetskoga Saveza.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4247</DESCRIPTEUR_ID>
+<SN>Sustav zajmova ili poklona afričkim, karipskim i pacifičkim zemljama kako bi se uklonili učinci kolebanja tržišta i proizvodnih rizika na priznanice o izvozu poljoprivrednih proizvoda.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6106</DESCRIPTEUR_ID>
+<SN>Pravo dobiveno prema prethodnomu zakonu.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6335</DESCRIPTEUR_ID>
+<SN>Stopa pariteta između eura i nacionalnih valuta koje ulaze u zonu eura. Fiksna i neopoziva od 1.1.1999.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4392</DESCRIPTEUR_ID>
+<SN>Stopa poreza na dodanu vrijednost.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4389</DESCRIPTEUR_ID>
+<SN>Odnos između proizvodnje i potrošnje nekoga proizvoda na određenom području.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1074</DESCRIPTEUR_ID>
+<SN>Aktivnosti koje se obavljaju radi stjecanja vještina, znanja i sposobnosti potrebnih za zapošljavanje u određenom zanimanju (ili skupini srodnih zanimanja) na bilo kojem gospodarskom polju.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>2904</DESCRIPTEUR_ID>
+<SN>Osposobljavanje neke osobe da bi joj se osigurale vještine, znanje i sposobnosti koje se traže za izvršavanje zaduženja drukčijega od prethodnoga.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>3574</DESCRIPTEUR_ID>
+<SN>Udruženja određenih struka koja nisu uključena u sindikalni pokret.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>2284</DESCRIPTEUR_ID>
+<SN>Razdoblje dugotrajnoga osposobljavanja koje se u osnovi provodi u okviru poduzeća i koje je uređeno statutarnim propisima ili običajem temeljem ugovora koji nameće međusobne obveze naučniku i poslodavcu.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>3532</DESCRIPTEUR_ID>
+<SN>Osposobljavanje koje se nudi onim radnicima koji više nisu upoznati s tehničkim napretkom kako bi ažurirali svoje vještine.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5981</DESCRIPTEUR_ID>
+<SN>Nezaposlenost kao rezultat promjena u strukturi gospodarstva, tehničkoga napretka, premještaja industrija ili promjena u sastavu radne snage.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6061</DESCRIPTEUR_ID>
+<SN>Niz mjera ekonomske politike usmjerenih na ispravljanje glavne neravnoteže u zemlji uz pomoć struktura, operativnih mehanizama i sustava cijena  bliskih onima koji su trenutno na snazi na svjetskom tržištu, a svima je cilj preorijentiranje proizvodnje i investicijskih odluka.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5138</DESCRIPTEUR_ID>
+<SN>Financijski instrumenti koje Europska komisija upotrebljava za promicanje gospodarske i socijalne kohezije u Europskoj uniji.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>7929</DESCRIPTEUR_ID>
+<SN>Sudsko preispitivanje zakonitosti odluka koje su donijela nižestupanjska tijela.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>3244</DESCRIPTEUR_ID>
+<SN>Način osiguranja u kojem više osiguravatelja dijeli velik rizik u okviru jednog ugovora, a svaki je osiguravatelj odgovoran za dio bilo kojeg potraživanja.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6129</DESCRIPTEUR_ID>
+<SN>Republika Hrvatska članica od 1993-07-01.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5765</DESCRIPTEUR_ID>
+<SN>Republika Hrvatska članica od 2000-11-30.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>2992</DESCRIPTEUR_ID>
+<SN>Građansko pravno udruženje osnovano radi sprečavanja raspuštanja privatnih šumarskih posjeda.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4352</DESCRIPTEUR_ID>
+<SN>Grana šumarstva koja se bavi uzgojem drveća.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4201</DESCRIPTEUR_ID>
+<SN>Oblik poslovne suradnje u kojoj partner uplaćuje sredstva, ali nije javno poznat i ne igra ulogu u vođenju poslovanja.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6155</DESCRIPTEUR_ID>
+<SN>Komisija i države članice upotrebljavaju TARIC radi primjene mjera Zajednice vezanih uz uvoz i izvoz te trgovinu među državama članicama.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5928</DESCRIPTEUR_ID>
+<SN>Civilna tehnologija koja može poslužiti za vojnu uporabu.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>3627</DESCRIPTEUR_ID>
+<SN>Obuhvaća istraživačke djelatnosti, središta visokoga obrazovanja i napredne industrije.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4496</DESCRIPTEUR_ID>
+<SN>Prijenos znanja, tehnika proizvodnje i opreme potrebne za proizvodnju dobara iz jedne zemlje u drugu.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4524</DESCRIPTEUR_ID>
+<SN>Sporazum o međunarodnoj trgovini tekstilom.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4430</DESCRIPTEUR_ID>
+<SN>Sve usluge, osim uobičajenih telefonskih i telegrafskih usluga, koje se koriste telematičkom tehnikom i koje mogu primati korisnici telekomunikacijske mreže.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5180</DESCRIPTEUR_ID>
+<SN>Usluga prijenosa teksta koja omogućuje daljinsko obavljanje različitih funkcija obrade teksta.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>3205</DESCRIPTEUR_ID>
+<SN>Različite mjere koje se poduzimaju radi otkrivanja, predviđanja ili poticanja potreba potrošača te potom prilagođavanja proizvodnje i plasmana.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>7353</DESCRIPTEUR_ID>
+<SN>Područje koje administrativno pripada nekoj državi, a ne nalazi se unutar granica te države.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>611</DESCRIPTEUR_ID>
+<SN>Vodeni pojas između obale i otvorenog mora najveće širine od 12 nautičkih milja.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5762</DESCRIPTEUR_ID>
+<SN>Upotrebljava se za tijela unutar Komisije koja imaju pravo odlučivanja.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6130</DESCRIPTEUR_ID>
+<SN>Sustav za rješavanje sporova WTO-a kojim se mogu poslužiti vlade ako su uvjerene da nisu poštovana određena pravila ili zakoni.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>2163</DESCRIPTEUR_ID>
+<SN>Utemeljeno je ugovorima kako bi postojalo uz institucije Zajednice.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>3937</DESCRIPTEUR_ID>
+<SN>Vremenski ograničen zakup nekretnine (posebno turističkih objekata).</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4460</DESCRIPTEUR_ID>
+<SN>Zapadni dio otoka Timora koji je dio Indonezije od 1945. godine.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5864</DESCRIPTEUR_ID>
+<SN>Međusobna povezanost i operabilnost mreže domaćega prometa, telekomunikacijske i energetske mreže radi stvaranja područja bez unutarnjih granica.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4194</DESCRIPTEUR_ID>
+<SN>Poduzeće koje je djelomično u državnom ili vlasništvu nekoga javnoga tijela, a djelomično u vlasništvu investitora iz privatnoga sektora.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>2967</DESCRIPTEUR_ID>
+<SN>Preferencijalni postupak za robu proizvedenu u Europskoj zajednici radi poticanja neke države članice da kupuje od svojih partnera, a ne na svjetskom tržištu.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5942</DESCRIPTEUR_ID>
+<SN>Sastanak sadašnjih, prethodnih i budućih predsjednika Vijeća koji djeluju u kontekstu europske političke suradnje.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1015</DESCRIPTEUR_ID>
+<SN>Neizravni porez na proizvodnju ili prodaju određenih proizvoda.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>274</DESCRIPTEUR_ID>
+<SN>Osnovni troškovi hrane, odjeće, krova nad glavom i goriva potrebni za održavanje života. Ne treba se brkati sa deskriptorom "životni standard".</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4642</DESCRIPTEUR_ID>
+<SN>Ukupna vrijednost prema trenutnoj tržišnoj cijeni svih emitiranih dionica nekoga poduzeća ili dionica svih poduzeća evidentiranih na tržištu.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1786</DESCRIPTEUR_ID>
+<SN>Upotrebljavaju se specifični pojmovi.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1809</DESCRIPTEUR_ID>
+<SN>Tržište kratkoročnim financijskim potraživanjima, npr. mjenicama, kratkoročnim državnim obveznicama, međubankovnim novcem i polozima diskontnih kuća.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1790</DESCRIPTEUR_ID>
+<SN>Tržište na kojem se roba prodaje za trenutačnu isporuku.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>3978</DESCRIPTEUR_ID>
+<SN>Riječ je o postupku u slučaju kršenja izvanugovornih obveza.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5416</DESCRIPTEUR_ID>
+<SN>Valja je razlikovati od deskriptora "tužba za utvrđivanje odgovornosti upravnoga tijela".</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>2942</DESCRIPTEUR_ID>
+<SN>Postupak protiv država koje nisu ispunile ugovorne obveze.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>2941</DESCRIPTEUR_ID>
+<SN>Postupak protiv Vijeća ili Komisije u slučaju da se oni suzdrže od izricanja presude u pitanjima u njihovoj nadležnosti.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>3212</DESCRIPTEUR_ID>
+<SN>Sustav distribucije u kojem se prodavači robe namalo, iako ostaju neovisna poduzeća, udružuju sa skupinama ili udruženjima u kupnji robe i suradnicima nude određene druge usluge.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1199</DESCRIPTEUR_ID>
+<SN>Skupina poduzeća uspostavljena radi dobivanja povoljnijih uvjeta od dobavljača nego što bi ih postiglo svako od njih zasebno.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1521</DESCRIPTEUR_ID>
+<SN>Zemlja koja se nakon oranja i drljanja ostavi nezasijanom da joj se obnovi plodnost.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4479</DESCRIPTEUR_ID>
+<SN>Upotrebljavaju se specifični nazivi.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6725</DESCRIPTEUR_ID>
+<SN>Upotrebljava se nakon 1. studenoga 1993. godine, kada je stupio na snagu Maastrichtski ugovor.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5062</DESCRIPTEUR_ID>
+<SN>Uključivanje u proračun određenih stavaka prihoda i rashoda.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1489</DESCRIPTEUR_ID>
+<SN>Vanjska ulaganja u neku drugu zemlju.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>3710</DESCRIPTEUR_ID>
+<SN>Republika Hrvatska surađuje i prima pomoć.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1022</DESCRIPTEUR_ID>
+<SN>Republika Hrvatska surađuje i prima pomoć.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>7136</DESCRIPTEUR_ID>
+<SN>Definirane minimalne usluge određene kvalitete, dostupne svim korisnicima i potrošačima u Uniji po cijeni koja je pristupačna, uzimajući u obzir specifične uvjete pojedine nacije. Ne smije se zamjenjivati deskriptorom "usluge od općeg interesa" ili "javna služba".</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6910</DESCRIPTEUR_ID>
+<SN>Upravljanje znanjem uključuje identifikaciju i analizu dostupnih, stečenih i traženih vrednota znanja i procesa vezanih uz takve vrednote, te daljnje planiranje i nadzor aktivnosti za razvoj i posjedovanoga znanja i tih procesa kako bi se ostvarili organizacijski ciljevi.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5450</DESCRIPTEUR_ID>
+<SN>Upotrebljava se za institucije.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>7365</DESCRIPTEUR_ID>
+<SN>Kršenje obvezujućega upravnoga propisa, obično povlači sa sobom upravnu kaznu.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4618</DESCRIPTEUR_ID>
+<SN>Upotrebljava se za rast gradova, i brojem stanovnika i prostorno, te za posljedice toga rasta na način života.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4022</DESCRIPTEUR_ID>
+<SN>Upotrebljava se vezano uz instituciju na koju se odnosi.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>640</DESCRIPTEUR_ID>
+<SN>Suradnja između države i poduzeća radi zajedničkoga donošenja gospodarskih odluka.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6369</DESCRIPTEUR_ID>
+<SN>Pokriva tržišne i netržišne usluge koje javne vlasti smatraju uslugama od općega interesa podložnim posebnim obvezama koje se odnose na javne usluge. Ne smije se zamjenjivati deskriptorom "javna služba" koji se odnosi na tijelo koje pruža uslugu.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>874</DESCRIPTEUR_ID>
+<SN>Privatno tijelo za čije se djelatnosti smatra da su od javnoga interesa.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4440</DESCRIPTEUR_ID>
+<SN>Stupanj trgovačkih mogućnosti neke zemlje koji se temelji na omjeru indeksa izvoznih cijena i indeksa uvoznih cijena.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>3167</DESCRIPTEUR_ID>
+<SN>Pristojba nametnuta uvezenim proizvodima kako bi se njihove cijene izjednačile s onima na domaćem tržištu.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6274</DESCRIPTEUR_ID>
+<SN>Načelo koje omogućuje državama članicama koje to žele da napreduju različitom brzinom ili s različitim ciljevima izvan institucionalnog okvira Europske unije.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6913</DESCRIPTEUR_ID>
+<SN>Vanjska usluga znači da poduzeće kupuje neki proizvod ili proces od stranoga dobavljača radije nego da ga proizvodi u kući.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>423</DESCRIPTEUR_ID>
+<SN>Javni ili privatni dug stranim vjerovnicima.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5143</DESCRIPTEUR_ID>
+<SN>Vodeni pojas koji se prostire izvan teritorijalnih voda na udaljenosti manjoj od 24 nautičke milje od obale.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>2183</DESCRIPTEUR_ID>
+<SN>Organizacija raspuštena 1. srpnja 1991.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4321</DESCRIPTEUR_ID>
+<SN>Riječ je o važećim glasovima, a ne o praznim ili neispravno ispunjenim glasačkim listićima.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>3018</DESCRIPTEUR_ID>
+<SN>Konferencija na kojoj se govornici nalaze na dva ili više mjesta, a međusobno su povezani  telekomunikacijskim uređajima.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4698</DESCRIPTEUR_ID>
+<SN>Videografija u kojoj se poruke emitiraju putem televizijske mreže.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>114</DESCRIPTEUR_ID>
+<SN>Glavno tijelo odlučivanja Europske unije. Sastoji se od ministara država članica koji su zaduženi za područje o kojem se raspravlja prema dnevnom redu.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6261</DESCRIPTEUR_ID>
+<SN>Računalna simulacija stvarnosti u kojoj se upotrebljava trodimenzionalna grafika radi stvaranja okruženja sličnoga stvarnomu okruženju.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>7138</DESCRIPTEUR_ID>
+<SN>Filozofska i povijesna perspektiva ujedinjene Europe.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6627</DESCRIPTEUR_ID>
+<SN>Ne u smislu teoloških rasprava.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>7212</DESCRIPTEUR_ID>
+<SN>Upotrebljava se za sastavljanje administrativnih dokumenata.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5074</DESCRIPTEUR_ID>
+<SN>Skupina čelnika opozicije od kojih je svaki nadležan za nadgledanje jednoga važnoga resora kako bi preispitivao politiku vlade na tom području. U slučaju promjene vlade, članovi vlade u sjeni mogu biti imenovani za ministre onih resora koje su nadgledali.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>3560</DESCRIPTEUR_ID>
+<SN>Prihod od poreza kojim Europska unija financira svoje izdatke koji ne smiju probiti plafon bruto nacionalnog proizvoda Zajednice. Vlastiti prihodi obuhvaćaju poljoprivredne i carinske pristojbe, izvore PDV-a, prelevmane na šećer i izoglukozu te doprinose iz bruto nacionalnog proizvoda.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>962</DESCRIPTEUR_ID>
+<SN>Odnos između zemljoposjednika i poljoprivrednika koji radi na zemlji.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>2526</DESCRIPTEUR_ID>
+<SN>Upotrebljava se u općem smislu, a ne vezano uz neki identificirani izvor buke.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>2529</DESCRIPTEUR_ID>
+<SN>Zagađenje mora uzrokovano otpadom s kopna ili iz unutarnjih vodotokova.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>2940</DESCRIPTEUR_ID>
+<SN>Oblik nadzora zakonitosti akata Zajednice.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>2975</DESCRIPTEUR_ID>
+<SN>Cijene nisu zajamčene ako proizvodnja premaši određenu unaprijed utvrđenu razinu.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>2102</DESCRIPTEUR_ID>
+<SN>Afričko-madagaskarska organizacija osnovana 1966. u Antananarivu, a raspuštena 25. ožujka 1985.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4066</DESCRIPTEUR_ID>
+<SN>Upotrebljava se za neku novu mjeru koju je Vijeće usvojilo u okviru međuvladine suradnje u EU-om. Ne smije se zamjenjivati deskriptorom "akcija  Zajednice".</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5681</DESCRIPTEUR_ID>
+<SN>Zajednička institucija Europske agencije za okoliš.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6709</DESCRIPTEUR_ID>
+<SN>Cilj je zajedničke obrambene politike ojačati identitet i neovisnost Europe radi promicanja mira, sigurnosti i napretka u Europi i u svijetu.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>999</DESCRIPTEUR_ID>
+<SN>Poduzeće koje su zajednički osnovala dva ili više matičnih poduzeća koja sama ostaju pravno i financijski neovisna.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5788</DESCRIPTEUR_ID>
+<SN>Zajednička vanjska i sigurnosna politika utemeljena je i regulirana Glavom V. Ugovora o Europskoj uniji. Zamijenila je Europsku političku suradnju (EPC) i predviđa konačno stvaranje zajedničke obrambene politike, koja bi, s vremenom, mogla dovesti do stvaranja zajedničke obrane.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>595</DESCRIPTEUR_ID>
+<SN>Udruženje nekoliko poljoprivrednika radi zajedničkog rada ili zajedničkih ulaganja.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4065</DESCRIPTEUR_ID>
+<SN>Upotrebljava se kada se države članice savjetuju u Vijeću o pitanjima europske političke suradnje nakon potpisivanja Ugovora o Europskoj uniji, o pitanjima suradnje na području prava i unutarnjih poslova te području zajedničke vanjske i sigurnosne politike.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5763</DESCRIPTEUR_ID>
+<SN>Upotrebljava se za tijela nastala u kontekstu ugovora o EZ-u koja se sastoje od predstavnika Europske zajednice i jedne ili više trećih zemalja.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1792</DESCRIPTEUR_ID>
+<SN>Upotreba nije ograničena na EZ.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6407</DESCRIPTEUR_ID>
+<SN>Kiseljenje vode, tla i vegetacije odlaganjem zagađivala koja zakiseljavaju (sumporni dioksid, dušični oksidi i amonijak).</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>3722</DESCRIPTEUR_ID>
+<SN>Naslijedila  WAMU (Zapadnoafričku monetarnu uniju) 1995. godine.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4597</DESCRIPTEUR_ID>
+<SN>Republika Hrvatska pridružena članica od 2005-03-09.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>731</DESCRIPTEUR_ID>
+<SN>Načelo prema kojemu su određene vrste zanimanja rezervirane za osobe s teškoćama i koja se moraju čuvati za njih.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1759</DESCRIPTEUR_ID>
+<SN>Ako je potrebno, kombinirati s deskriptorima koji se upotrebljavaju za organ zahvaćen bolešću ili za tropsku ili endemičnu prirodu bolesti.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6351</DESCRIPTEUR_ID>
+<SN>Strukovne kvalifikacije koje više ne zadovoljavaju potražnju, ili više ne vrijede, primjerice zbog tehnoloških promjena. Takva se situacija može promijeniti s pomoću strukovne prekvalifikacije.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6007</DESCRIPTEUR_ID>
+<SN>Klauzula koja omogućuje ugovornim stranama da zanemare određene odredbe sporazuma ako postoji prijetnja njihovim osnovnim interesima.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5612</DESCRIPTEUR_ID>
+<SN>Upotrebljava se za radnikovu osobnu zaštitnu opremu i za sigurnosne naprave na strojevima i opremi.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>7949</DESCRIPTEUR_ID>
+<SN>Mjere koje poduzima poslodavac za pronalaženje novih poslova u drugim poduzećima zaposlenicima kojima prijeti otkaz zbog viška radnika.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>680</DESCRIPTEUR_ID>
+<SN>Poučavanje javnosti osnovnim načelima zdravlja i higijene.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6855</DESCRIPTEUR_ID>
+<SN>Pokriva sve usluge vezane uz zrakoplov, kao što je uzimanje goriva i održavanje, te postupanje s putnicima, prtljagom i teretom.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>2298</DESCRIPTEUR_ID>
+<SN>Članica bilo koje međunarodne organizacije osim Europske unije.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1191</DESCRIPTEUR_ID>
+<SN>Upotrebljava se za dokumente koji se odnose na sve navedene zemlje.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>130</DESCRIPTEUR_ID>
+<SN>Upotrebljava se za dokumente koji se odnose na sve navedene zemlje.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>2117</DESCRIPTEUR_ID>
+<SN>Upotrebljava se za dokumente koji se odnose na sve navedene zemlje.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>2148</DESCRIPTEUR_ID>
+<SN>Upotrebljava se za dokumente koji se odnose na sve navedene zemlje.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>122</DESCRIPTEUR_ID>
+<SN>Upotrebljava se za dokumente koji se odnose na sve navedene zemlje.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>4811</DESCRIPTEUR_ID>
+<SN>Tijelo osnovano radi stjecanja zemlje ili poljoprivrednih gospodarstava za prodaju kojima se, nakon eventualnoga uređenja tih terena, planira promijeniti namjena.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6311</DESCRIPTEUR_ID>
+<SN>Odnosi se na podjelu zemlje i vlasništvo nad njom.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>2978</DESCRIPTEUR_ID>
+<SN>Potpuna reforma zemljišnog sustava i uvjeta poljoprivredne proizvodnje kako bi se odstranile prepreke gospodarskom i socijalnom razvoju.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>982</DESCRIPTEUR_ID>
+<SN>Dogovor prema kojemu zemljoposjednik daje zemlju u najam poljoprivredniku uz godišnju naknadu koja ne ovisi o urodu toga poljoprivrednoga gospodarstva.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>1144</DESCRIPTEUR_ID>
+<SN>Poticaj da se zemlja ne obrađuje kako bi se ograničila poljoprivredna proizvodnja.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>882</DESCRIPTEUR_ID>
+<SN>Međunarodni monetarni sustav u kojem svaka jedinica valute vrijedi određenu količinu zlata.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>880</DESCRIPTEUR_ID>
+<SN>Međunarodni monetarni sustav kojim se elaborira zlatni standard i u kojem je zlato međunarodna valuta uz jednu ili više ključnih valuta, a u zlato se mogu pretvarati samo te ključne valute.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6715</DESCRIPTEUR_ID>
+<SN>Znanost o opasnosti koja proučava prirodne, tehnološke rizike ili rizike u domaćinstvu i načine njihova sprečavanja.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>3510</DESCRIPTEUR_ID>
+<SN>Područje bez nuklearnoga oružja ili stranih vojnih postrojenja.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6152</DESCRIPTEUR_ID>
+<SN>Zarazna bolest životinja koja se može prenijeti na ljude.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>6322</DESCRIPTEUR_ID>
+<SN>Znanost koja proučava pripitomljavanje i uzgoj životinja.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>5471</DESCRIPTEUR_ID>
+<SN>Komercijalni letovi koje zrakoplovna tvrtka jedne zemlje obavlja između dvaju mjesta u drugoj zemlji.</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>2939</DESCRIPTEUR_ID>
+<SN>Upotrebljava se za zahtjev upravoj vlasti da opozove, promijeni ili povuče odluku uprave. Ne smije se zamjenjivati deskriptorom "iznošenje spora pred upravni sud".</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>2062</DESCRIPTEUR_ID>
+<SN>Razina preživljavanja ili materijalne dobrobiti zajednice, staleža ili osobe. Ne smije se zamjenjivati deskriptorom "troškovi života".</SN>
+</RECORD>
+<RECORD>
+<DESCRIPTEUR_ID>65</DESCRIPTEUR_ID>
+<SN>Naziv u pojedinim državama može značiti različite jedinice, npr.: grofovija, pokrajina, okrug, provincija, kotar.</SN>
+</RECORD>
+</SCOPE_NOTE>
